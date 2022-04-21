@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CokkiesSuite">
+
+  <test thread-count="5" name="Cookies Test Desktop facebook">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="facebook"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop sovendus">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="sovendus"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="plannet"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop googleads">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="googleads"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop criteo">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="criteo"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop crealytics">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="crealytics"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop tiktok">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="tiktok"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="bing"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="zenloop"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop contentsquare">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="contentsquare"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop paymentprovider">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="paymentprovider"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop artefact">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="artefact"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop googletagmanager">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="googletagmanager"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="youtube"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop googleanalytics">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="googleanalytics"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop ekomi">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="ekomi"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop dynamicyield">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="dynamicyield"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop deichmann">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookies" value="deichmann"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+
+</suite>

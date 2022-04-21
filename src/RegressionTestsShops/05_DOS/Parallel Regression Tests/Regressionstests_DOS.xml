@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite DOS">
+    <suite-files>
+        <suite-file path="TF01_Alleinstehende_Registrierung_DOS.xml" />
+        <suite-file path="TF02_Registrierung_als_Gast_im_Checkout_DOS.xml" />
+        <suite-file path="TF03_Formular_Validierungsregeln_DOS.xml" />
+        <suite-file path="TF04_Anmeldung_im_Checkout_DOS.xml" />
+        <suite-file path="TF05_HomePage_Seiten_DOS.xml" />
+        <suite-file path="TF06_Alleinstehende_Anmeldung_DOS.xml" />
+        <suite-file path="TF07_Add_Lieferadresse_DOS.xml"/>
+        <suite-file path="TF08_Logout_DOS.xml" />
+        <suite-file path="TF09_Passwort_Vergessen_DOS.xml" />
+        <suite-file path="TF10_Checkoutprozess_DOS.xml" />
+        <suite-file path="TF11_Lieferadresse_Ausland_DOS.xml" />
+        <suite-file path="TF12_Coupon_Einlösen_DOS.xml" />
+        <suite-file path="TF13_Gutschein_Einlösen_DOS.xml" />
+        <suite-file path="TF14_Filialsuche_DOS.xml" />
+        <suite-file path="TF15_Kontaktformular_DOS.xml" />
+        <suite-file path="TF16_Lieferadresse_aendern_im_Checkout_Desktop.xml" />
+        <suite-file path="TF17_Rechnungsadresse_ändern_im_Checkout_Desktop.xml" />
+        <suite-file path="TF18_Lieferadresse_aendern_Desktop.xml" />
+        <suite-file path="TF19_Rechnungsadresse_aendern_Desktop.xml" />
+    </suite-files>
+</suite>

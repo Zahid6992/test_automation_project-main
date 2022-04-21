@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+
+  <test thread-count="1" name="Registrierung Test Mobile Galaxy S5">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="Galaxy S5"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Alleinstehende_Registrierung_3"/>
+    </classes>
+  </test>
+
+
+  <test thread-count="2" name="Registrierung Test Mobile iPad Pro">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPad Pro"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Alleinstehende_Registrierung_3"/>
+    </classes>
+  </test>
+
+  <test thread-count="3" name="Registrierung Test Desktop">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Alleinstehende_Registrierung_3"/>
+    </classes>
+  </test>
+
+  <test thread-count="4" name="Suche Test Mobile iPhone 6/7/8">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Suche.Suche"/>
+    </classes>
+  </test>
+
+
+</suite>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CokkiesSuitePlannetTrue">
+
+  <test thread-count="5" name="Cookies Test Desktop plannet1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet2">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop plannet10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="plannetTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+
+
+</suite>

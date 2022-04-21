@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CokkiesSuiteZenloopFalse">
+
+
+
+  <test thread-count="5" name="Cookies Test Desktop zenloop1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop2">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop zenloop10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="false"/>
+    <parameter name="cookies" value="zenloopFalse"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+
+
+</suite>

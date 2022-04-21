@@ -1,0 +1,2617 @@
+{
+  "uid": "DeichmannCategoryNavComponent",
+  "typeCode": "CategoryNavigationComponent",
+  "modifiedTime": "2020-08-12T09:12:07+0000",
+  "name": "Deichmann Category Navigation Component",
+  "container": "false",
+  "wrapAfter": "10",
+  "navigationNode": {
+    "uid": "cmsitem_00053045",
+    "name": "Default NavNode",
+    "entries": {
+      "itemId": "cmsitem_00053043",
+      "itemSuperType": "AbstractCMSComponent",
+      "itemType": "CMSLinkComponent",
+      "linkName": "Default",
+      "url": "/schuhe/c-ds"
+    },
+    "children": [
+      {
+        "uid": "cmsitem_00053048",
+        "entries": {
+          "itemId": "cmsitem_00053046",
+          "itemSuperType": "AbstractCMSComponent",
+          "itemType": "CMSLinkComponent",
+          "linkName": "Schuhe",
+          "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter",
+          "url": "/schuhe/c-ds"
+        },
+        "children": [
+          {
+            "uid": "cmsitem_00053063",
+            "entries": {
+              "itemId": "cmsitem_00053061",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Schuhe",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/schuhe/c-ds"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00055060",
+                "entries": {
+                  "itemId": "cmsitem_00053064",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Damenschuhe",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar",
+                  "url": "/damen/schuhe/c-ws"
+                },
+                "children": [],
+                "title": "Alle Damenschuhe"
+              },
+              {
+                "uid": "cmsitem_00055062",
+                "entries": {
+                  "itemId": "cmsitem_00053067",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Herrenschuhe",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/herren/schuhe/c-ms"
+                },
+                "children": [],
+                "title": "Alle Herrenschuhe"
+              },
+              {
+                "uid": "cmsitem_00055064",
+                "entries": {
+                  "itemId": "cmsitem_00053070",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Kinderschuhe",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/kinder/schuhe/c-cs"
+                },
+                "children": [],
+                "title": "Alle Kinderschuhe"
+              }
+            ],
+            "title": "Alle Schuhe"
+          },
+          {
+            "uid": "cmsitem_00053066",
+            "entries": {
+              "itemId": "cmsitem_00053064",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Damenschuhe",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/damen/schuhe/c-ws"
+            },
+            "children": [],
+            "title": "Alle Damenschuhe"
+          },
+          {
+            "uid": "cmsitem_00053069",
+            "entries": {
+              "itemId": "cmsitem_00053067",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Herrenschuhe",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/herren/schuhe/c-ms"
+            },
+            "children": [],
+            "title": "Alle Herrenschuhe"
+          },
+          {
+            "uid": "cmsitem_00053072",
+            "entries": {
+              "itemId": "cmsitem_00053070",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Kinderschuhe",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/kinder/schuhe/c-cs"
+            },
+            "children": [],
+            "title": "Alle Kinderschuhe"
+          },
+          {
+            "uid": "cmsitem_00053091",
+            "entries": {
+              "itemId": "cmsitem_00053089",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sneaker",
+              "url": "/schuhe/sneaker/c-dss2"
+            },
+            "children": [],
+            "title": "Sneaker"
+          },
+          {
+            "uid": "cmsitem_00053166",
+            "entries": {
+              "itemId": "cmsitem_00053164",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Boots",
+              "url": "/schuhe/boots/c-dsb2"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053169",
+                "entries": {
+                  "itemId": "cmsitem_00053167",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Boots",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+                  "url": "/schuhe/boots/c-dsb2"
+                },
+                "children": [],
+                "title": "Alle Boots"
+              },
+              {
+                "uid": "cmsitem_00053172",
+                "entries": {
+                  "itemId": "cmsitem_00053170",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Schnürboots",
+                  "url": "/schuhe-boots/schnuerboots/c-dsb2c"
+                },
+                "children": [],
+                "title": "Schnürboots"
+              },
+              {
+                "uid": "cmsitem_00053175",
+                "entries": {
+                  "itemId": "cmsitem_00053173",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Chelsea Boots",
+                  "url": "/schuhe-boots/chelsea-boots/c-dsb2a"
+                },
+                "children": [],
+                "title": "Chelsea Boots"
+              },
+              {
+                "uid": "cmsitem_00053178",
+                "entries": {
+                  "itemId": "cmsitem_00053176",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Winterboots",
+                  "url": "/schuhe-boots/winterboots/c-dsb2d"
+                },
+                "children": [],
+                "title": "Winterboots"
+              },
+              {
+                "uid": "cmsitem_00053180",
+                "entries": {
+                  "itemId": "women-shoes-boots-cowboy-and-bikerLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Cowboy- und Bikerboots",
+                  "url": "/damen-schuhe/boots/cowboy-und-bikerboots/c-wsb4b"
+                },
+                "children": [],
+                "title": "Cowboy- & Bikerboots"
+              }
+            ],
+            "title": "Boots"
+          },
+          {
+            "uid": "cmsitem_00053154",
+            "entries": {
+              "itemId": "cmsitem_00053152",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Stiefel",
+              "url": "/schuhe/stiefel/c-dsh1"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053157",
+                "entries": {
+                  "itemId": "cmsitem_00053155",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Gummistiefel",
+                  "url": "/schuhe-stiefel/gummistiefel/c-dsh1b"
+                },
+                "children": [],
+                "title": "Gummistiefel"
+              },
+              {
+                "uid": "cmsitem_00053160",
+                "entries": {
+                  "itemId": "cmsitem_00053158",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Overknee Stiefel",
+                  "url": "/damen-schuhe/stiefel/overknees/c-wsh1ac"
+                },
+                "children": [],
+                "title": "Overknee Stiefel"
+              },
+              {
+                "uid": "cmsitem_00053163",
+                "entries": {
+                  "itemId": "cmsitem_00053161",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Weitschaftstiefel",
+                  "url": "/damen-schuhe/stiefel/weitschaftstiefel/c-wsh1d"
+                },
+                "children": [],
+                "title": "Weitschaftstiefel"
+              }
+            ],
+            "title": "Stiefel"
+          },
+          {
+            "uid": "cmsitem_00053151",
+            "entries": {
+              "itemId": "cmsitem_00053149",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Stiefeletten",
+              "url": "/schuhe/stiefeletten/c-dsa2"
+            },
+            "children": [],
+            "title": "Stiefeletten"
+          },
+          {
+            "uid": "cmsitem_00053097",
+            "entries": {
+              "itemId": "cmsitem_00053095",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Halbschuhe",
+              "url": "/schuhe/halbschuhe/c-dsl1"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053100",
+                "entries": {
+                  "itemId": "cmsitem_00053098",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Halbschuhe",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar",
+                  "url": "/schuhe/halbschuhe/c-dsl1"
+                },
+                "children": [],
+                "title": "Alle Halbschuhe"
+              },
+              {
+                "uid": "cmsitem_00053103",
+                "entries": {
+                  "itemId": "cmsitem_00053101",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Loafer",
+                  "url": "/schuhe-halbschuhe/loafer/c-dsl1d"
+                },
+                "children": [],
+                "title": "Loafer"
+              },
+              {
+                "uid": "cmsitem_00053106",
+                "entries": {
+                  "itemId": "cmsitem_00053104",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Slipper",
+                  "url": "/schuhe-halbschuhe/slipper/c-dsl1f"
+                },
+                "children": [],
+                "title": "Slipper"
+              },
+              {
+                "uid": "cmsitem_00053109",
+                "entries": {
+                  "itemId": "cmsitem_00053107",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Mokassins",
+                  "url": "/schuhe-halbschuhe/mokassins/c-dsl1e"
+                },
+                "children": [],
+                "title": "Mokassins"
+              },
+              {
+                "uid": "cmsitem_00053112",
+                "entries": {
+                  "itemId": "cmsitem_00053110",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Espadrilles",
+                  "url": "/schuhe-halbschuhe/espadrilles/c-dsl1b"
+                },
+                "children": [],
+                "title": "Espadrilles"
+              }
+            ],
+            "title": "Halbschuhe"
+          },
+          {
+            "uid": "cmsitem_00053182",
+            "entries": {
+              "itemId": "children-shoes-baby-walkerLink",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Lauflernschuhe",
+              "url": "/kinder-schuhe/lauflernschuhe/c-csf1"
+            },
+            "children": [],
+            "title": "Lauflernschuhe"
+          },
+          {
+            "uid": "cmsitem_00053148",
+            "entries": {
+              "itemId": "cmsitem_00053146",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Hausschuhe",
+              "url": "/schuhe/hausschuhe/c-dsh2"
+            },
+            "children": [],
+            "title": "Hausschuhe"
+          },
+          {
+            "uid": "cmsitem_00053119",
+            "entries": {
+              "itemId": "women-shoes-pumpsLink",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Pumps",
+              "url": "/damen-schuhe/pumps/c-wsp2"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053139",
+                "entries": {
+                  "itemId": "cmsitem_00053138",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Pumps",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+                  "url": "/damen-schuhe/pumps/c-wsp2"
+                },
+                "children": [],
+                "title": "Alle Pumps"
+              },
+              {
+                "uid": "cmsitem_00053141",
+                "entries": {
+                  "itemId": "women-shoes-pumps-high-frontLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Hochfront Pumps",
+                  "url": "/damen-schuhe/pumps/hochfront-pumps/c-wsp2c"
+                },
+                "children": [],
+                "title": "Hochfront Pumps"
+              },
+              {
+                "uid": "cmsitem_00053143",
+                "entries": {
+                  "itemId": "women-shoes-pumps-slingLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Slingpumps",
+                  "url": "/damen-schuhe/pumps/slingpumps/c-wsp2g"
+                },
+                "children": [],
+                "title": "Slingpumps"
+              },
+              {
+                "uid": "cmsitem_00053145",
+                "entries": {
+                  "itemId": "women-shoes-pumps-peeptoesLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Peeptoes",
+                  "url": "/damen-schuhe/pumps/peeptoes/c-wsp2e"
+                },
+                "children": [],
+                "title": "Peeptoes"
+              }
+            ],
+            "title": "Pumps"
+          },
+          {
+            "uid": "cmsitem_00053117",
+            "entries": {
+              "itemId": "cmsitem_00053115",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Ballerinas",
+              "url": "/schuhe/ballerinas/c-dsb1"
+            },
+            "children": [],
+            "title": "Ballerinas"
+          },
+          {
+            "uid": "cmsitem_00053075",
+            "entries": {
+              "itemId": "cmsitem_00053073",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sandalen",
+              "url": "/schuhe/sandalen/c-dss1"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053078",
+                "entries": {
+                  "itemId": "cmsitem_00053076",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Sandalen",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar",
+                  "url": "/schuhe/sandalen/c-dss1"
+                },
+                "children": [],
+                "title": "Alle Sandalen"
+              },
+              {
+                "uid": "cmsitem_00053080",
+                "entries": {
+                  "itemId": "women-shoes-sandals-high-heeledLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Sandaletten",
+                  "url": "/damen-schuhe/sandalen/sandaletten/c-wss1b"
+                },
+                "children": [],
+                "title": "Sandaletten"
+              },
+              {
+                "uid": "cmsitem_00053083",
+                "entries": {
+                  "itemId": "cmsitem_00053081",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Trekkingsandalen",
+                  "url": "/schuhe-sandalen/trekkingsandalen/c-dss1d"
+                },
+                "children": [],
+                "title": "Trekkingsandalen"
+              },
+              {
+                "uid": "cmsitem_00053085",
+                "entries": {
+                  "itemId": "women-shoes-sandals-wedgeLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Keilsandaletten",
+                  "url": "/damen-schuhe/sandalen/keilsandaletten/c-wss1e"
+                },
+                "children": [],
+                "title": "Keilsandaletten"
+              }
+            ],
+            "title": "Sandalen"
+          },
+          {
+            "uid": "cmsitem_00053124",
+            "entries": {
+              "itemId": "cmsitem_00053122",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Pantoletten",
+              "url": "/schuhe/pantoletten/c-dsp1"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053127",
+                "entries": {
+                  "itemId": "cmsitem_00053125",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Pantoletten",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+                  "url": "/schuhe/pantoletten/c-dsp1"
+                },
+                "children": [],
+                "title": "Alle Pantoletten"
+              },
+              {
+                "uid": "cmsitem_00053130",
+                "entries": {
+                  "itemId": "cmsitem_00053128",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Clogs",
+                  "url": "/schuhe-pantoletten/clogs/c-dsp1a"
+                },
+                "children": [],
+                "title": "Clogs"
+              },
+              {
+                "uid": "cmsitem_00053133",
+                "entries": {
+                  "itemId": "cmsitem_00053131",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Zehentrenner",
+                  "url": "/schuhe-pantoletten/zehentrenner/c-dsp1e"
+                },
+                "children": [],
+                "title": "Zehentrenner"
+              },
+              {
+                "uid": "cmsitem_00053136",
+                "entries": {
+                  "itemId": "cmsitem_00053134",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Slides",
+                  "url": "/schuhe-pantoletten/slides/c-dsp1d"
+                },
+                "children": [],
+                "title": "Slides"
+              }
+            ],
+            "title": "Pantoletten"
+          },
+          {
+            "uid": "cmsitem_00053088",
+            "entries": {
+              "itemId": "cmsitem_00053086",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Badeschuhe",
+              "url": "/schuhe/badeschuhe/c-dsp2"
+            },
+            "children": [],
+            "title": "Badeschuhe"
+          },
+          {
+            "uid": "cmsitem_00053094",
+            "entries": {
+              "itemId": "cmsitem_00053092",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Chunky Sneaker",
+              "url": "/schuhe-sneaker/chunky-sneaker/c-dss2a"
+            },
+            "children": [],
+            "title": "Chunky Sneaker"
+          },
+          {
+            "uid": "cmsitem_00053121",
+            "entries": {
+              "itemId": "women-shoes-pumps-high-heelsLink",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "High Heels",
+              "url": "/damen-schuhe/high-heels/c-wsp2d"
+            },
+            "children": [],
+            "title": "High Heels"
+          },
+          {
+            "uid": "cmsitem_00065001",
+            "entries": {
+              "itemId": "cmsitem_00053061",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Schuhe",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/schuhe/c-ds"
+            },
+            "children": [],
+            "title": "Alle Schuhe"
+          }
+        ],
+        "title": "Schuhe"
+      },
+      {
+        "uid": "cmsitem_00053060",
+        "entries": {
+          "itemId": "cmsitem_00053058",
+          "itemSuperType": "AbstractCMSComponent",
+          "itemType": "CMSLinkComponent",
+          "linkName": "% Sale",
+          "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter",
+          "url": "/c-sale"
+        },
+        "children": [
+          {
+            "uid": "cmsitem_00055043",
+            "entries": {
+              "itemId": "cmsitem_00055041",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alles im Sale",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/c-sale"
+            },
+            "children": [],
+            "title": "Alles in Sale"
+          },
+          {
+            "uid": "cmsitem_00055046",
+            "entries": {
+              "itemId": "cmsitem_00055044",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Damen Sale",
+              "url": "/damen/c-w?sale=ja"
+            },
+            "children": [],
+            "title": "Damen Sale"
+          },
+          {
+            "uid": "cmsitem_00055049",
+            "entries": {
+              "itemId": "cmsitem_00055047",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Herren Sale",
+              "url": "/herren/c-m?sale=ja"
+            },
+            "children": [],
+            "title": "Herren Sale"
+          },
+          {
+            "uid": "cmsitem_00055052",
+            "entries": {
+              "itemId": "cmsitem_00055050",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Kinder Sale",
+              "url": "/kinder/c-c?sale=ja"
+            },
+            "children": [],
+            "title": "Kinder Sale"
+          }
+        ],
+        "title": "Sale"
+      },
+      {
+        "uid": "cmsitem_00053054",
+        "entries": {
+          "itemId": "cmsitem_00053052",
+          "itemSuperType": "AbstractCMSComponent",
+          "itemType": "CMSLinkComponent",
+          "linkName": "Sport",
+          "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar",
+          "url": "/sport/c-dspo"
+        },
+        "children": [
+          {
+            "uid": "cmsitem_00053184",
+            "entries": {
+              "itemId": "cmsitem_00068000",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alles in Sport",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/sport/c-dspo"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00055066",
+                "entries": {
+                  "itemId": "cmsitem_00053185",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Sportartikel für Damen",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/damen/sport/c-wspo"
+                },
+                "children": [],
+                "title": "Sportartikel für Damen"
+              },
+              {
+                "uid": "cmsitem_00055068",
+                "entries": {
+                  "itemId": "cmsitem_00053188",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Sportartikel für Herren",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar",
+                  "url": "/herren/sport/c-mspo"
+                },
+                "children": [],
+                "title": "Sportartikel für Herren"
+              },
+              {
+                "uid": "cmsitem_00055070",
+                "entries": {
+                  "itemId": "cmsitem_00053191",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Sportartikel für Kinder",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/kinder/sport/c-cspo"
+                },
+                "children": [],
+                "title": "Sportartikel für Kinder"
+              }
+            ],
+            "title": "Alles in Sport"
+          },
+          {
+            "uid": "cmsitem_00071052",
+            "entries": {
+              "itemId": "cmsitem_00068000",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alles in Sport",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/sport/c-dspo"
+            },
+            "children": [],
+            "title": "Alles in Sport"
+          },
+          {
+            "uid": "cmsitem_00053187",
+            "entries": {
+              "itemId": "cmsitem_00053185",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sportartikel für Damen",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/damen/sport/c-wspo"
+            },
+            "children": [],
+            "title": "Sportartikel für Damen"
+          },
+          {
+            "uid": "cmsitem_00053190",
+            "entries": {
+              "itemId": "cmsitem_00053188",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sportartikel für Herren",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/herren/sport/c-mspo"
+            },
+            "children": [],
+            "title": "Sportartikel für Herren"
+          },
+          {
+            "uid": "cmsitem_00053193",
+            "entries": {
+              "itemId": "cmsitem_00053191",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sportartikel für Kinder",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/kinder/sport/c-cspo"
+            },
+            "children": [],
+            "title": "Sportartikel für Kinder"
+          },
+          {
+            "uid": "cmsitem_00053196",
+            "entries": {
+              "itemId": "cmsitem_00053194",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sportschuhe",
+              "url": "/sport/sportschuhe/c-dss3"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053199",
+                "entries": {
+                  "itemId": "cmsitem_00053197",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Sportschuhe",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar",
+                  "url": "/sport/sportschuhe/c-dss3"
+                },
+                "children": [],
+                "title": "Alle Sportschuhe"
+              },
+              {
+                "uid": "cmsitem_00053202",
+                "entries": {
+                  "itemId": "cmsitem_00053200",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Laufschuhe",
+                  "url": "/sport-sportschuhe/laufschuhe/c-dss3a"
+                },
+                "children": [],
+                "title": "Laufschuhe"
+              },
+              {
+                "uid": "cmsitem_00053205",
+                "entries": {
+                  "itemId": "cmsitem_00053203",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Fußballschuhe",
+                  "url": "/sport-sportschuhe/fussballschuhe/c-dss3c"
+                },
+                "children": [],
+                "title": "Fußballschuhe"
+              },
+              {
+                "uid": "cmsitem_00053208",
+                "entries": {
+                  "itemId": "cmsitem_00053206",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Hallenschuhe",
+                  "url": "/sport-sportschuhe/hallenschuhe/c-dss3d"
+                },
+                "children": [],
+                "title": "Hallenschuhe"
+              },
+              {
+                "uid": "cmsitem_00053211",
+                "entries": {
+                  "itemId": "cmsitem_00053209",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Wanderschuhe",
+                  "url": "/sport-sportschuhe/wanderschuhe/c-dss3e"
+                },
+                "children": [],
+                "title": "Wanderschuhe"
+              },
+              {
+                "uid": "cmsitem_00053214",
+                "entries": {
+                  "itemId": "cmsitem_00053212",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Badeschuhe",
+                  "url": "/sport-sportschuhe/badeschuhe/c-dss3f"
+                },
+                "children": [],
+                "title": "Badeschuhe"
+              }
+            ],
+            "title": "Sportschuhe"
+          },
+          {
+            "uid": "cmsitem_00053217",
+            "entries": {
+              "itemId": "cmsitem_00053215",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sportbekleidung",
+              "url": "/sport/sportbekleidung/c-dspoa"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00053220",
+                "entries": {
+                  "itemId": "cmsitem_00053218",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alles in Sportbekleidung",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar",
+                  "url": "/sport/sportbekleidung/c-dspoa"
+                },
+                "children": [],
+                "title": "Alles in Sportbekleidung"
+              },
+              {
+                "uid": "cmsitem_00053223",
+                "entries": {
+                  "itemId": "cmsitem_00053221",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "T-Shirts & Tops",
+                  "url": "/sport-sportbekleidung/t-shirts-tops/c-dspoa1"
+                },
+                "children": [],
+                "title": "T-Shirts & Tops"
+              },
+              {
+                "uid": "cmsitem_00054002",
+                "entries": {
+                  "itemId": "cmsitem_00054000",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Pullover & Sweatshirts",
+                  "url": "/sport-sportbekleidung/pullover-sweatshirts/c-dspoa2"
+                },
+                "children": [],
+                "title": "Pullover & Sweatshirts"
+              },
+              {
+                "uid": "cmsitem_00054005",
+                "entries": {
+                  "itemId": "cmsitem_00054003",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Hosen & Tights",
+                  "url": "/sport-sportbekleidung/hosen-tights/c-dspoa3"
+                },
+                "children": [],
+                "title": "Hosen & Tights"
+              },
+              {
+                "uid": "cmsitem_00060268",
+                "entries": {
+                  "itemId": "cmsitem_00060266",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Shorts",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter",
+                  "url": "/sport-sportbekleidung/shorts/c-dspoa4"
+                },
+                "children": [],
+                "title": "Shorts"
+              }
+            ],
+            "title": "Sportbekleidung"
+          }
+        ],
+        "title": "Sport"
+      },
+      {
+        "uid": "cmsitem_00053051",
+        "entries": {
+          "itemId": "cmsitem_00053049",
+          "itemSuperType": "AbstractCMSComponent",
+          "itemType": "CMSLinkComponent",
+          "linkName": "Accessoires",
+          "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar",
+          "url": "/accessoires/c-da"
+        },
+        "children": [
+          {
+            "uid": "cmsitem_00054008",
+            "entries": {
+              "itemId": "cmsitem_00054006",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Accessoires",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/accessoires/c-da"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00055072",
+                "entries": {
+                  "itemId": "cmsitem_00054009",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Accessoires für Damen",
+                  "styleClasses": "hiddenMobileFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/damen/accessoires/c-wa"
+                },
+                "children": [],
+                "title": "Alle Accessoires für Damen"
+              },
+              {
+                "uid": "cmsitem_00055076",
+                "entries": {
+                  "itemId": "cmsitem_00054012",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Accessoires für Herren",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/herren/accessoires/c-ma"
+                },
+                "children": [],
+                "title": "Alle Accessoires für Herren"
+              },
+              {
+                "uid": "cmsitem_00055078",
+                "entries": {
+                  "itemId": "cmsitem_00054015",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Accessoires für Kinder",
+                  "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+                  "url": "/kinder/accessoires/c-ca"
+                },
+                "children": [],
+                "title": "Alle Accessoires für Kinder"
+              }
+            ],
+            "title": "Alle Accessoires"
+          },
+          {
+            "uid": "cmsitem_00071054",
+            "entries": {
+              "itemId": "cmsitem_00054006",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Accessoires",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/accessoires/c-da"
+            },
+            "children": [],
+            "title": "Alle Accessoires"
+          },
+          {
+            "uid": "cmsitem_00054011",
+            "entries": {
+              "itemId": "cmsitem_00054009",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Accessoires für Damen",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/damen/accessoires/c-wa"
+            },
+            "children": [],
+            "title": "Alle Accessoires für Damen"
+          },
+          {
+            "uid": "cmsitem_00054014",
+            "entries": {
+              "itemId": "cmsitem_00054012",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Accessoires für Herren",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/herren/accessoires/c-ma"
+            },
+            "children": [],
+            "title": "Alle Accessoires für Herren"
+          },
+          {
+            "uid": "cmsitem_00054017",
+            "entries": {
+              "itemId": "cmsitem_00054015",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Alle Accessoires für Kinder",
+              "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader",
+              "url": "/kinder/accessoires/c-ca"
+            },
+            "children": [],
+            "title": "Alle Accessoires für Kinder"
+          },
+          {
+            "uid": "cmsitem_00054020",
+            "entries": {
+              "itemId": "cmsitem_00054018",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Rucksäcke",
+              "url": "/accessoires/rucksaecke/c-dab2"
+            },
+            "children": [],
+            "title": "Rucksäcke"
+          },
+          {
+            "uid": "cmsitem_00054023",
+            "entries": {
+              "itemId": "cmsitem_00054021",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Taschen",
+              "url": "/accessoires/taschen/c-dab3"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00054026",
+                "entries": {
+                  "itemId": "cmsitem_00054024",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Taschen",
+                  "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar",
+                  "url": "/accessoires/taschen/c-dab3"
+                },
+                "children": [],
+                "title": "Alle Taschen"
+              },
+              {
+                "uid": "cmsitem_00054028",
+                "entries": {
+                  "itemId": "women-accessories-bags-handbagsLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Handtaschen",
+                  "url": "/damen-accessoires/taschen/handtaschen/c-wab2b"
+                },
+                "children": [],
+                "title": "Handtaschen"
+              },
+              {
+                "uid": "cmsitem_00054030",
+                "entries": {
+                  "itemId": "women-accessories-bags-shoulder-bagLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Umhängetaschen",
+                  "url": "/damen-accessoires/taschen/umhaengetaschen/c-wab2d"
+                },
+                "children": [],
+                "title": "Umhängetaschen"
+              },
+              {
+                "uid": "cmsitem_00054032",
+                "entries": {
+                  "itemId": "women-accessories-bags-shopperLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Shopper",
+                  "url": "/damen-accessoires/taschen/shopper/c-wab2c"
+                },
+                "children": [],
+                "title": "Shopper"
+              },
+              {
+                "uid": "cmsitem_00054035",
+                "entries": {
+                  "itemId": "cmsitem_00054033",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Sporttaschen",
+                  "url": "/accessoires/sporttaschen/c-das5"
+                },
+                "children": [],
+                "title": "Sporttaschen"
+              },
+              {
+                "uid": "cmsitem_00054037",
+                "entries": {
+                  "itemId": "women-accessories-bags-clutches-and-evening-bagsLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Clutches",
+                  "url": "/damen-accessoires/taschen/clutches-abendtaschen/c-wab2a"
+                },
+                "children": [],
+                "title": "Clutches"
+              },
+              {
+                "uid": "cmsitem_00054040",
+                "entries": {
+                  "itemId": "cmsitem_00054038",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Bauchtaschen",
+                  "url": "/accessoires-taschen/bauchtaschen/c-dab3a"
+                },
+                "children": [],
+                "title": "Bauchtaschen"
+              },
+              {
+                "uid": "cmsitem_00054043",
+                "entries": {
+                  "itemId": "cmsitem_00054041",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Koffer",
+                  "url": "/accessoires/koffer/c-das1"
+                },
+                "children": [],
+                "title": "Koffer"
+              }
+            ],
+            "title": "Taschen"
+          },
+          {
+            "uid": "cmsitem_00055002",
+            "entries": {
+              "itemId": "cmsitem_00055000",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Socken & Strümpfe",
+              "url": "/accessoires/socken-struempfe/c-das3"
+            },
+            "children": [
+              {
+                "uid": "cmsitem_00055005",
+                "entries": {
+                  "itemId": "cmsitem_00055003",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Alle Socken & Strümpfe",
+                  "styleClasses": "hiddenDesktopHeader hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar",
+                  "url": "/accessoires/socken-struempfe/c-das3"
+                },
+                "children": [],
+                "title": "Alle Socken & Strümpfe"
+              },
+              {
+                "uid": "cmsitem_00055007",
+                "entries": {
+                  "itemId": "women-accessories-socks-and-tights-tightsLink",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Strumpfhosen",
+                  "url": "/damen-accessoires/socken-struempfe/strumpfhosen/c-was2c"
+                },
+                "children": [],
+                "title": "Strumpfhosen"
+              },
+              {
+                "uid": "cmsitem_00055010",
+                "entries": {
+                  "itemId": "cmsitem_00055008",
+                  "itemSuperType": "AbstractCMSComponent",
+                  "itemType": "CMSLinkComponent",
+                  "linkName": "Füßlinge",
+                  "url": "/accessoires-socken-struempfe/fuesslinge/c-das3a"
+                },
+                "children": [],
+                "title": "Füßlinge"
+              }
+            ],
+            "title": "Socken & Strümpfe"
+          },
+          {
+            "uid": "cmsitem_00055055",
+            "entries": {
+              "itemId": "cmsitem_00055053",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Sohlen",
+              "url": "/schuhe-schuhzubehoer/sohlen/c-dsa1b"
+            },
+            "children": [],
+            "title": "Sohlen"
+          }
+        ],
+        "title": "Accessoires"
+      },
+      {
+        "uid": "cmsitem_00053057",
+        "entries": {
+          "itemId": "cmsitem_00053055",
+          "itemSuperType": "AbstractCMSComponent",
+          "itemType": "CMSLinkComponent",
+          "linkName": "Marken",
+          "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter",
+          "url": "/marken"
+        },
+        "children": [
+          {
+            "uid": "cmsitem_00055012",
+            "entries": {
+              "itemId": "cmsitem_00017908",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Nike",
+              "url": "/marken/c-nike"
+            },
+            "children": [],
+            "title": "Nike"
+          },
+          {
+            "uid": "cmsitem_00055014",
+            "entries": {
+              "itemId": "cmsitem_00019203",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "adidas",
+              "url": "/marken/c-adidas"
+            },
+            "children": [],
+            "title": "adidas"
+          },
+          {
+            "uid": "cmsitem_00055016",
+            "entries": {
+              "itemId": "cmsitem_00019233",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Puma",
+              "url": "/marken/c-puma"
+            },
+            "children": [],
+            "title": "Puma"
+          },
+          {
+            "uid": "cmsitem_00055030",
+            "entries": {
+              "itemId": "cmsitem_00019248",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Skechers",
+              "url": "/marken/c-skechers"
+            },
+            "children": [],
+            "title": "Skechers"
+          },
+          {
+            "uid": "cmsitem_00055020",
+            "entries": {
+              "itemId": "cmsitem_00019215",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "elefanten",
+              "url": "/marken/c-elefanten"
+            },
+            "children": [],
+            "title": "elefanten"
+          },
+          {
+            "uid": "cmsitem_00055032",
+            "entries": {
+              "itemId": "cmsitem_00019275",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Crocs",
+              "url": "/marken/c-crocs"
+            },
+            "children": [],
+            "title": "Crocs"
+          },
+          {
+            "uid": "cmsitem_00055018",
+            "entries": {
+              "itemId": "cmsitem_00019206",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Fila",
+              "url": "/marken/c-fila"
+            },
+            "children": [],
+            "title": "Fila"
+          },
+          {
+            "uid": "cmsitem_00055022",
+            "entries": {
+              "itemId": "cmsitem_00019272",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Reebok",
+              "url": "/marken/c-reebok"
+            },
+            "children": [],
+            "title": "Reebok"
+          },
+          {
+            "uid": "cmsitem_00055024",
+            "entries": {
+              "itemId": "cmsitem_00019212",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Bench",
+              "url": "/marken/c-bench"
+            },
+            "children": [],
+            "title": "Bench"
+          },
+          {
+            "uid": "cmsitem_00055026",
+            "entries": {
+              "itemId": "cmsitem_00019263",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Asics",
+              "url": "/marken/c-asics"
+            },
+            "children": [],
+            "title": "Asics"
+          },
+          {
+            "uid": "cmsitem_00055028",
+            "entries": {
+              "itemId": "cmsitem_00019254",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Tom Tailor",
+              "url": "/marken/c-tom-tailor"
+            },
+            "children": [],
+            "title": "Tom Tailor"
+          },
+          {
+            "uid": "cmsitem_00055034",
+            "entries": {
+              "itemId": "cmsitem_00019269",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Dockers",
+              "url": "/marken/c-dockers"
+            },
+            "children": [],
+            "title": "Dockers"
+          },
+          {
+            "uid": "cmsitem_00055036",
+            "entries": {
+              "itemId": "cmsitem_00014310",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Kendall + Kylie",
+              "url": "/marken/kendall-kylie/c-kendall-and-kylie"
+            },
+            "children": [],
+            "title": "Kendall + Kylie"
+          },
+          {
+            "uid": "cmsitem_00055038",
+            "entries": {
+              "itemId": "cmsitem_00026150",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Esprit",
+              "url": "/marken/c-esprit"
+            },
+            "children": [],
+            "title": "Esprit"
+          },
+          {
+            "uid": "cmsitem_00055040",
+            "entries": {
+              "itemId": "cmsitem_00019287",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Kappa",
+              "url": "/marken/c-kappa"
+            },
+            "children": [],
+            "title": "Kappa"
+          },
+          {
+            "uid": "cmsitem_00059183",
+            "entries": {
+              "itemId": "cmsitem_00019218",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "5th Avenue",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-5th-avenue"
+            },
+            "children": [],
+            "title": "5th Avenue"
+          },
+          {
+            "uid": "cmsitem_00059185",
+            "entries": {
+              "itemId": "cmsitem_00014541",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Agaxy",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar",
+              "url": "/marken/c-agaxy"
+            },
+            "children": [],
+            "title": "Agaxy"
+          },
+          {
+            "uid": "cmsitem_00059187",
+            "entries": {
+              "itemId": "cmsitem_00019242",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "AM Shoe",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-am-shoe"
+            },
+            "children": [],
+            "title": "AM Shoe"
+          },
+          {
+            "uid": "cmsitem_00059189",
+            "entries": {
+              "itemId": "cmsitem_00014523",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Bärenschuhe",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-baerenschuhe"
+            },
+            "children": [],
+            "title": "Bärenschuhe"
+          },
+          {
+            "uid": "cmsitem_00059191",
+            "entries": {
+              "itemId": "cmsitem_00014544",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Batman",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-batman"
+            },
+            "children": [],
+            "title": "Batman"
+          },
+          {
+            "uid": "cmsitem_00059193",
+            "entries": {
+              "itemId": "cmsitem_00049018",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Bio Bio",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-bio-bio"
+            },
+            "children": [],
+            "title": "Bio Bio"
+          },
+          {
+            "uid": "cmsitem_00059195",
+            "entries": {
+              "itemId": "cmsitem_00019257",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Björndal",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-bjoerndal"
+            },
+            "children": [],
+            "title": "Björndal"
+          },
+          {
+            "uid": "cmsitem_00059197",
+            "entries": {
+              "itemId": "cmsitem_00020209",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Blackrock",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-blackrock"
+            },
+            "children": [],
+            "title": "Blackrock"
+          },
+          {
+            "uid": "cmsitem_00059199",
+            "entries": {
+              "itemId": "cmsitem_00014337",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Blink",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-blink"
+            },
+            "children": [],
+            "title": "Blink"
+          },
+          {
+            "uid": "cmsitem_00059201",
+            "entries": {
+              "itemId": "cmsitem_00049023",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Blowfish",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-blowfish"
+            },
+            "children": [],
+            "title": "Blowfish"
+          },
+          {
+            "uid": "cmsitem_00059203",
+            "entries": {
+              "itemId": "cmsitem_00046620",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Blue Fin",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-blue-fin"
+            },
+            "children": [],
+            "title": "Blue Fin"
+          },
+          {
+            "uid": "cmsitem_00059205",
+            "entries": {
+              "itemId": "cmsitem_00019260",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Bobbi Shoes",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-bobbi-shoes"
+            },
+            "children": [],
+            "title": "Bobbi Shoes"
+          },
+          {
+            "uid": "cmsitem_00059207",
+            "entries": {
+              "itemId": "cmsitem_00020206",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Borelli",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-borelli"
+            },
+            "children": [],
+            "title": "Borelli"
+          },
+          {
+            "uid": "cmsitem_00059209",
+            "entries": {
+              "itemId": "cmsitem_00014448",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Bottesini",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-bottesini"
+            },
+            "children": [],
+            "title": "Bottesini"
+          },
+          {
+            "uid": "cmsitem_00059212",
+            "entries": {
+              "itemId": "cmsitem_00046352",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "British Knights",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter",
+              "url": "/marken/c-british-knights"
+            },
+            "children": [],
+            "title": "Biritsh Knights"
+          },
+          {
+            "uid": "cmsitem_00059215",
+            "entries": {
+              "itemId": "cmsitem_00020212",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Camp David",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-camp-david"
+            },
+            "children": [],
+            "title": "Camp David"
+          },
+          {
+            "uid": "cmsitem_00059217",
+            "entries": {
+              "itemId": "cmsitem_00049034",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Cars",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-cars"
+            },
+            "children": [],
+            "title": "Cars"
+          },
+          {
+            "uid": "cmsitem_00059220",
+            "entries": {
+              "itemId": "cmsitem_00019284",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Casa mia",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter",
+              "url": "/marken/c-casa-mia"
+            },
+            "children": [],
+            "title": "Casa mia"
+          },
+          {
+            "uid": "cmsitem_00059223",
+            "entries": {
+              "itemId": "cmsitem_00020215",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Caterpillar",
+              "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-caterpillar"
+            },
+            "children": [],
+            "title": "Caterpillar"
+          },
+          {
+            "uid": "cmsitem_00059225",
+            "entries": {
+              "itemId": "cmsitem_00019221",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Catwalk",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-catwalk"
+            },
+            "children": [],
+            "title": "Catwalk"
+          },
+          {
+            "uid": "cmsitem_00059227",
+            "entries": {
+              "itemId": "cmsitem_00014451",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Chiemsee",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-chiemsee"
+            },
+            "children": [],
+            "title": "Chiemsee"
+          },
+          {
+            "uid": "cmsitem_00059229",
+            "entries": {
+              "itemId": "cmsitem_00014328",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Claudia Ghizzani",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-claudia-ghizzani"
+            },
+            "children": [],
+            "title": "Claudia Ghizzani"
+          },
+          {
+            "uid": "cmsitem_00059231",
+            "entries": {
+              "itemId": "cmsitem_00014445",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Claudio Conti",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-claudio-conti"
+            },
+            "children": [],
+            "title": "Claudio Conti"
+          },
+          {
+            "uid": "cmsitem_00059233",
+            "entries": {
+              "itemId": "cmsitem_00014499",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Columbia",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-columbia"
+            },
+            "children": [],
+            "title": "Columbia"
+          },
+          {
+            "uid": "cmsitem_00059235",
+            "entries": {
+              "itemId": "cmsitem_00046133",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Converse",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-converse"
+            },
+            "children": [],
+            "title": "Converse"
+          },
+          {
+            "uid": "cmsitem_00059237",
+            "entries": {
+              "itemId": "cmsitem_00019239",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Cortina",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-cortina"
+            },
+            "children": [],
+            "title": "Cortina"
+          },
+          {
+            "uid": "cmsitem_00059239",
+            "entries": {
+              "itemId": "cmsitem_00019245",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Cupcake Couture",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-cupcake-couture"
+            },
+            "children": [],
+            "title": "Cupcake Couture"
+          },
+          {
+            "uid": "cmsitem_00059241",
+            "entries": {
+              "itemId": "cmsitem_00020194",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Darkwood",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-darkwood"
+            },
+            "children": [],
+            "title": "Darkwood"
+          },
+          {
+            "uid": "cmsitem_00059243",
+            "entries": {
+              "itemId": "cmsitem_00046355",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "diadora",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-diadora"
+            },
+            "children": [],
+            "title": "diadora"
+          },
+          {
+            "uid": "cmsitem_00059245",
+            "entries": {
+              "itemId": "cmsitem_00014550",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Die Eiskönigin 2",
+              "styleClasses": "hiddenMobileFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-disney-frozen"
+            },
+            "children": [],
+            "title": "Disney Frozen"
+          },
+          {
+            "uid": "cmsitem_00059247",
+            "entries": {
+              "itemId": "cmsitem_00014574",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Dragon",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-dragon"
+            },
+            "children": [],
+            "title": "Dragon"
+          },
+          {
+            "uid": "cmsitem_00059249",
+            "entries": {
+              "itemId": "cmsitem_00019266",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Easy Street",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-easy-street"
+            },
+            "children": [],
+            "title": "Easy Street"
+          },
+          {
+            "uid": "cmsitem_00059251",
+            "entries": {
+              "itemId": "cmsitem_00049047",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Empire",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar",
+              "url": "/marken/c-empire"
+            },
+            "children": [],
+            "title": "Empire"
+          },
+          {
+            "uid": "cmsitem_00059255",
+            "entries": {
+              "itemId": "cmsitem_00059253",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Deichmann",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-deichmann"
+            },
+            "children": [],
+            "title": "Deichmann"
+          },
+          {
+            "uid": "cmsitem_00059257",
+            "entries": {
+              "itemId": "cmsitem_00014484",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Gallus",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-gallus"
+            },
+            "children": [],
+            "title": "Gallus"
+          },
+          {
+            "uid": "cmsitem_00059259",
+            "entries": {
+              "itemId": "cmsitem_00019209",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Graceland",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-graceland"
+            },
+            "children": [],
+            "title": "Graceland"
+          },
+          {
+            "uid": "cmsitem_00059262",
+            "entries": {
+              "itemId": "cmsitem_00014571",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Hello Kitty",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-hello-kitty"
+            },
+            "children": [],
+            "title": "Hello Kitty"
+          },
+          {
+            "uid": "cmsitem_00059265",
+            "entries": {
+              "itemId": "cmsitem_00014559",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Hi-Tec",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-hi-tec"
+            },
+            "children": [],
+            "title": "Hi-Tec"
+          },
+          {
+            "uid": "cmsitem_00059267",
+            "entries": {
+              "itemId": "cmsitem_00014568",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Hot Wheels",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-hot-wheels"
+            },
+            "children": [],
+            "title": "Hot Wheels"
+          },
+          {
+            "uid": "cmsitem_00059269",
+            "entries": {
+              "itemId": "cmsitem_00014355",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Hummel",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-hummel"
+            },
+            "children": [],
+            "title": "Hummel"
+          },
+          {
+            "uid": "cmsitem_00059273",
+            "entries": {
+              "itemId": "cmsitem_00059271",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Heelys",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-heelys"
+            },
+            "children": [],
+            "title": "Heelys"
+          },
+          {
+            "uid": "cmsitem_00059278",
+            "entries": {
+              "itemId": "cmsitem_00014433",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Jack & Jones",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/jack-jones/c-jack-and-jones"
+            },
+            "children": [],
+            "title": "Jack & Jones"
+          },
+          {
+            "uid": "cmsitem_00059281",
+            "entries": {
+              "itemId": "cmsitem_00020221",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Jette",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-jette"
+            },
+            "children": [],
+            "title": "Jette"
+          },
+          {
+            "uid": "cmsitem_00059283",
+            "entries": {
+              "itemId": "cmsitem_00014367",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Jomos",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-jomos"
+            },
+            "children": [],
+            "title": "Jomos"
+          },
+          {
+            "uid": "cmsitem_00059286",
+            "entries": {
+              "itemId": "cmsitem_00059284",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Joma",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-joma"
+            },
+            "children": [],
+            "title": "Joma"
+          },
+          {
+            "uid": "cmsitem_00059288",
+            "entries": {
+              "itemId": "cmsitem_00046140",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "K-Swiss",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-k-swiss"
+            },
+            "children": [],
+            "title": "K-Swiss"
+          },
+          {
+            "uid": "cmsitem_00059290",
+            "entries": {
+              "itemId": "cmsitem_00050064",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "KangaRoos",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-kangaroos"
+            },
+            "children": [],
+            "title": "KangaRoos"
+          },
+          {
+            "uid": "cmsitem_00059293",
+            "entries": {
+              "itemId": "cmsitem_00059291",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "König der Löwen",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-koenig-der-loewen"
+            },
+            "children": [],
+            "title": "König der Löwen"
+          },
+          {
+            "uid": "cmsitem_00059295",
+            "entries": {
+              "itemId": "cmsitem_00019230",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Landrover",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-landrover"
+            },
+            "children": [],
+            "title": "Landrover"
+          },
+          {
+            "uid": "cmsitem_00059297",
+            "entries": {
+              "itemId": "cmsitem_00020203",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "LOL Surprise",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter",
+              "url": "/marken/c-lol-surprise"
+            },
+            "children": [],
+            "title": "LOL Surprise"
+          },
+          {
+            "uid": "cmsitem_00059300",
+            "entries": {
+              "itemId": "cmsitem_00059298",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Love Our Planet",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-love-our-planet"
+            },
+            "children": [],
+            "title": "Love Our Planet"
+          },
+          {
+            "uid": "cmsitem_00059302",
+            "entries": {
+              "itemId": "cmsitem_00019236",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Medicus",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-medicus"
+            },
+            "children": [],
+            "title": "Medicus"
+          },
+          {
+            "uid": "cmsitem_00059305",
+            "entries": {
+              "itemId": "cmsitem_00059303",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "MeexUp",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-meexup"
+            },
+            "children": [],
+            "title": "MeexUp"
+          },
+          {
+            "uid": "cmsitem_00059307",
+            "entries": {
+              "itemId": "cmsitem_00019251",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Memphis One",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-memphis-one"
+            },
+            "children": [],
+            "title": "Memphis One"
+          },
+          {
+            "uid": "cmsitem_00059309",
+            "entries": {
+              "itemId": "cmsitem_00014418",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Mexx",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-mexx"
+            },
+            "children": [],
+            "title": "MEXX"
+          },
+          {
+            "uid": "cmsitem_00059311",
+            "entries": {
+              "itemId": "cmsitem_00014403",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Michael Shannon",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar",
+              "url": "/marken/c-michael-shannon"
+            },
+            "children": [],
+            "title": "Michael Shannon"
+          },
+          {
+            "uid": "cmsitem_00059313",
+            "entries": {
+              "itemId": "cmsitem_00014580",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Mickey Mouse",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-mickey-mouse"
+            },
+            "children": [],
+            "title": "Mickey Mouse"
+          },
+          {
+            "uid": "cmsitem_00059315",
+            "entries": {
+              "itemId": "cmsitem_00014577",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Minions",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-minions"
+            },
+            "children": [],
+            "title": "Minions"
+          },
+          {
+            "uid": "cmsitem_00059317",
+            "entries": {
+              "itemId": "cmsitem_00014583",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Minnie Mouse",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-minnie-mouse"
+            },
+            "children": [],
+            "title": "Minnie Mouse"
+          },
+          {
+            "uid": "cmsitem_00059319",
+            "entries": {
+              "itemId": "cmsitem_00014595",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Miraculous",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-miraculous"
+            },
+            "children": [],
+            "title": "Miraculous"
+          },
+          {
+            "uid": "cmsitem_00059321",
+            "entries": {
+              "itemId": "cmsitem_00014436",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "MTNG",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-mtng"
+            },
+            "children": [],
+            "title": "MTNG"
+          },
+          {
+            "uid": "cmsitem_00059323",
+            "entries": {
+              "itemId": "cmsitem_00014511",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "My Little Pony",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-my-little-pony"
+            },
+            "children": [],
+            "title": "My Little Pony"
+          },
+          {
+            "uid": "cmsitem_00059325",
+            "entries": {
+              "itemId": "cmsitem_00049076",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "National Geographic",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-national-geographic"
+            },
+            "children": [],
+            "title": "National Geograhic"
+          },
+          {
+            "uid": "cmsitem_00059328",
+            "entries": {
+              "itemId": "cmsitem_00059326",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Pablosky",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-pablosky"
+            },
+            "children": [],
+            "title": "Pablosky"
+          },
+          {
+            "uid": "cmsitem_00059330",
+            "entries": {
+              "itemId": "cmsitem_00014502",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Paw Patrol",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-paw-patrol"
+            },
+            "children": [],
+            "title": "Paw Patrol"
+          },
+          {
+            "uid": "cmsitem_00060002",
+            "entries": {
+              "itemId": "cmsitem_00060000",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Peppe Pig",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-peppa-pig"
+            },
+            "children": [],
+            "title": "Peppa Pig"
+          },
+          {
+            "uid": "cmsitem_00060004",
+            "entries": {
+              "itemId": "cmsitem_00014509",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "PJ Masks",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-pj-masks"
+            },
+            "children": [],
+            "title": "PJ Masks"
+          },
+          {
+            "uid": "cmsitem_00060007",
+            "entries": {
+              "itemId": "cmsitem_00060005",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Pretty Love",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-pretty-love"
+            },
+            "children": [],
+            "title": "Pretty Love"
+          },
+          {
+            "uid": "cmsitem_00060009",
+            "entries": {
+              "itemId": "cmsitem_00049083",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Quiva",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-quiva"
+            },
+            "children": [],
+            "title": "Quiva"
+          },
+          {
+            "uid": "cmsitem_00060011",
+            "entries": {
+              "itemId": "cmsitem_00050075",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Romika",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-romika"
+            },
+            "children": [],
+            "title": "Romika"
+          },
+          {
+            "uid": "cmsitem_00060013",
+            "entries": {
+              "itemId": "cmsitem_00020218",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Run Lifewear",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-run-lifewear"
+            },
+            "children": [],
+            "title": "Run Lifewear"
+          },
+          {
+            "uid": "cmsitem_00060015",
+            "entries": {
+              "itemId": "cmsitem_00046151",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Salomon",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-salomon"
+            },
+            "children": [],
+            "title": "Salomon"
+          },
+          {
+            "uid": "cmsitem_00060017",
+            "entries": {
+              "itemId": "cmsitem_00014358",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Saxoline",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-saxoline"
+            },
+            "children": [],
+            "title": "Saxoline"
+          },
+          {
+            "uid": "cmsitem_00060019",
+            "entries": {
+              "itemId": "cmsitem_00020197",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Shimmer & Shine",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-shimmer-and-shine"
+            },
+            "children": [],
+            "title": "Shimmer & Shine"
+          },
+          {
+            "uid": "cmsitem_00060021",
+            "entries": {
+              "itemId": "cmsitem_00014466",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Simpsons",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-simpsons"
+            },
+            "children": [],
+            "title": "Simpsons"
+          },
+          {
+            "uid": "cmsitem_00060023",
+            "entries": {
+              "itemId": "cmsitem_00014586",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Snoopy",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar",
+              "url": "/marken/c-snoopy"
+            },
+            "children": [],
+            "title": "Snoopy"
+          },
+          {
+            "uid": "cmsitem_00060025",
+            "entries": {
+              "itemId": "cmsitem_00014592",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Spiderman",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-spiderman"
+            },
+            "children": [],
+            "title": "Spiderman"
+          },
+          {
+            "uid": "cmsitem_00060027",
+            "entries": {
+              "itemId": "cmsitem_00020224",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Star Collection",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-star-collection"
+            },
+            "children": [],
+            "title": "Star Collection"
+          },
+          {
+            "uid": "cmsitem_00060029",
+            "entries": {
+              "itemId": "cmsitem_00014553",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Star Wars",
+              "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-star-wars"
+            },
+            "children": [],
+            "title": "Star Wars"
+          },
+          {
+            "uid": "cmsitem_00060031",
+            "entries": {
+              "itemId": "cmsitem_00014562",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Stride Rite",
+              "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-stride-rite"
+            },
+            "children": [],
+            "title": "Stride Rite"
+          },
+          {
+            "uid": "cmsitem_00060033",
+            "entries": {
+              "itemId": "cmsitem_00014364",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Teva",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-teva"
+            },
+            "children": [],
+            "title": "Teva"
+          },
+          {
+            "uid": "cmsitem_00060035",
+            "entries": {
+              "itemId": "cmsitem_00014505",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Transformers",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-transformers"
+            },
+            "children": [],
+            "title": "Transformers"
+          },
+          {
+            "uid": "cmsitem_00060038",
+            "entries": {
+              "itemId": "cmsitem_00060036",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Union Code",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-union-code"
+            },
+            "children": [],
+            "title": "Union Code"
+          },
+          {
+            "uid": "cmsitem_00060040",
+            "entries": {
+              "itemId": "cmsitem_00019224",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Venice",
+              "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-venice"
+            },
+            "children": [],
+            "title": "Venice"
+          },
+          {
+            "uid": "cmsitem_00060042",
+            "entries": {
+              "itemId": "cmsitem_00014325",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Vero Moda",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-vero-moda"
+            },
+            "children": [],
+            "title": "Vero Moda"
+          },
+          {
+            "uid": "cmsitem_00060044",
+            "entries": {
+              "itemId": "cmsitem_00049107",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Victory",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-victory"
+            },
+            "children": [],
+            "title": "Victory"
+          },
+          {
+            "uid": "cmsitem_00060046",
+            "entries": {
+              "itemId": "cmsitem_00049110",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Volkswagen",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-volkswagen"
+            },
+            "children": [],
+            "title": "Volkswagen"
+          },
+          {
+            "uid": "cmsitem_00060048",
+            "entries": {
+              "itemId": "cmsitem_00019227",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Vty",
+              "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/marken/c-vty"
+            },
+            "children": [],
+            "title": "Vty"
+          },
+          {
+            "uid": "cmsitem_00079027",
+            "entries": {
+              "itemId": "cmsitem_00079025",
+              "itemSuperType": "AbstractCMSComponent",
+              "itemType": "CMSLinkComponent",
+              "linkName": "Presale",
+              "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter",
+              "url": "/pre-sale/c-dpp1"
+            },
+            "children": [],
+            "title": "Presale"
+          }
+        ],
+        "title": "Marken"
+      }
+    ],
+    "title": "Default"
+  }
+}

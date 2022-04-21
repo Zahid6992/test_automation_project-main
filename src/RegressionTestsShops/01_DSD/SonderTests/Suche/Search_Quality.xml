@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+  <suite-files>
+    <suite-file path="TF01_Search_Quality_Slipper_ohne_Kategorie.xml" />
+    <suite-file path="TF02_Search_Quality_Slipper_Men.xml" />
+    <suite-file path="TF03_Search_Quality_Slipper_Women.xml" />
+  </suite-files>
+</suite>

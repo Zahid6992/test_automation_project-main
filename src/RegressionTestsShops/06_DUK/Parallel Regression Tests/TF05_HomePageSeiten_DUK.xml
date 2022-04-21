@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regressiontests">
+
+
+  <test thread-count="5" name="TF05 Home Page Seiten Desktop DUK">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DUK"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.HomePage.HomePageSeiten"/>
+    </classes>
+  </test>
+
+
+  <test thread-count="5" name="TF05 Home Page Seiten Mobile DUK">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DUK"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.HomePage.HomePageSeiten"/>
+    </classes>
+  </test>
+
+</suite>

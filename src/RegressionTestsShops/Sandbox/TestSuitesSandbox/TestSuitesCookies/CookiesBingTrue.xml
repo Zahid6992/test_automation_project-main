@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CokkiesSuiteBingTrue">
+
+
+  <test thread-count="5" name="Cookies Test Desktop bing1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing2">
+    <parameter name="mobileOrDesktop" value="DesktoArtefactp"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop bing10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="bingTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+
+</suite>

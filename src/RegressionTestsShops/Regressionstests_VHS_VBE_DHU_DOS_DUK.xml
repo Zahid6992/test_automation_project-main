@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite VHS">
+    <suite-files>
+<!--        <suite-file path="02_VHS/Sequential Regression Tests/Regressionstests_VHS_Parallel.xml" />-->
+        <suite-file path="03_VBE/Parallel Regression Tests/Regressionstests_VBE.xml" />
+        <suite-file path="04_DHU/Parallel Regression Tests/Regressionstests_DHU.xml" />
+        <suite-file path="05_DOS/Parallel Regression Tests/Regressionstests_DOS.xml" />
+<!--        <suite-file path="06_DUK/Parallel Regression Tests/Regressionstests_DUK.xml" />-->
+        <suite-file path="01_DSD/SonderTests/Regression Tests Sequential/Regressionstests_DSD_Sequential.xml" />
+    </suite-files>
+</suite>

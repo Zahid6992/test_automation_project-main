@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CokkiesSuiteYoutubeTrue">
+
+
+
+  <test thread-count="5" name="Cookies Test Desktop youtube1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube2">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+  <test thread-count="5" name="Cookies Test Desktop youtube10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DE"/>
+    <parameter name="environment" value="QA"/>
+    <parameter name="cookiesTrueFalse" value="true"/>
+    <parameter name="cookies" value="youtubeTrue"/>
+    <classes>
+      <class name="com.testCasesTestNG.Cookies.CookieTest"/>
+    </classes>
+  </test>
+
+
+</suite>

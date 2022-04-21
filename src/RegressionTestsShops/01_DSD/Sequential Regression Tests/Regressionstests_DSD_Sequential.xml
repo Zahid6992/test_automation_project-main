@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite DSD">
+    <suite-files>
+        <suite-file path="TF01_Alleinstehende_Registrierung_Desktop.xml" />
+        <suite-file path="TF01_Alleinstehende_Registrierung_Mobile.xml" />
+        <suite-file path="TF02_RegistrierungAlsGastDesktop.xml" />
+        <suite-file path="TF02_RegistrierungAlsGastMobile.xml" />
+        <suite-file path="TF03_Validierungsregeln.xml" />
+        <suite-file path="TF03_ValidierungsregelnMobile.xml" />
+        <suite-file path="TF04_Anmeldung_im_Checkout.xml" />
+        <suite-file path="TF04_Anmeldung_im_Checkout_Mobile.xml" />
+        <suite-file path="TF05_HomePageSeiten.xml" />
+        <suite-file path="TF05_HomePageSeitenMobile.xml" />
+        <suite-file path="TF06_Anmelden.xml" />
+        <suite-file path="TF06_AnmeldenMobile.xml" />
+        <suite-file path="TF07_AddLieferadresse.xml" />
+        <suite-file path="TF07_AddLieferadresseMobile.xml" />
+        <suite-file path="TF08_Logout.xml" />
+        <suite-file path="TF08_LogoutMobile.xml" />
+        <suite-file path="TF09_PasswordVergessen.xml" />
+        <suite-file path="TF09_PasswordVergessenMobile.xml" />
+        <suite-file path="TF10_Checkout_Prozess_Desktop_DSD.xml" />
+        <suite-file path="TF10_Warenkorb_KasseMobile.xml" />
+        <suite-file path="TF11_Rechnungsadresse_Ausland.xml" />
+        <suite-file path="TF11_Rechnungsadresse_Ausland_Mobile.xml" />
+        <suite-file path="TF12_CouponEinlösen.xml" />
+        <suite-file path="TF12_CouponEinlösenMobile.xml" />
+        <suite-file path="TF13_GutscheinEinlösen.xml" />
+        <suite-file path="TF13_GutscheinEinlösenMobile.xml" />
+        <suite-file path="TF14_FilialSuche.xml" />
+        <suite-file path="TF14_FilialSucheMobile.xml" />
+        <suite-file path="TF15_Kontaktformular.xml" />
+        <suite-file path="TF15_Kontaktformular_Mobile.xml" />
+        <suite-file path="TF16_Lieferadresse_aendern_im_Checkout_Desktop.xml" />
+        <suite-file path="TF16_Lieferadresse_aendern_im_Checkout_Mobile.xml" />
+        <suite-file path="TF17_Rechnungsadresse_aendern_im_Checkout_Desktop.xml" />
+        <suite-file path="TF17_Rechnungsadresse_aendern_im_Checkout_Mobile.xml" />
+        <suite-file path="TF18_Lieferadresse_aendern_account_Desktop.xml" />
+        <suite-file path="TF18_Liferadresse_aendern_account_Mobile.xml" />
+        <suite-file path="TF19_Rechnungsadresse_aendern_account_Desktop.xml" />
+        <suite-file path="TF19_Rechnungsadresse_aendern_account_Mobile.xml" />
+    </suite-files>
+</suite>

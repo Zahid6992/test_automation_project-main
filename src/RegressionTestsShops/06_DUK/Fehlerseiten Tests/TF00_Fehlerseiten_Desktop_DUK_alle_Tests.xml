@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Fehlerseiten Tests DSD">
+  <suite-files>
+
+    <suite-file path="TF01_Fehlerseiten_Desktop_DUK_Zufaellige_Buchtstaben.xml" />
+    <suite-file path="TF02_Fehlerseiten_Desktop_DUK_C_Zufaellige_Buchstaben.xml" />
+    <suite-file path="TF03_Fehlerseiten_Desktop_DUK_P_Zufaellige_Buchstaben.xml" />
+    <suite-file path="TF04_Fehlerseiten_Desktop_DUK_Search_Zufaellige_Buchstaben.xml" />
+    <suite-file path="TF05_Fehlerseiten_Desktop_DUK_Damen_Zufaellige_Buchstaben.xml" />
+    <suite-file path="TF06_Fehlerseiten_Desktop_DUK_Damen_C_Zufaellige_Buchstaben.xml" />
+    <suite-file path="TF07_Fehlerseiten_Desktop_DUK_Damen_P_Zufaellige_Buchstaben.xml" />
+
+  </suite-files>
+</suite>

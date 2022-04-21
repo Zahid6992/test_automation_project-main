@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Massentests Login Logout 500 Mal">
+    <suite-files>
+        <suite-file path="Login_Logout_Desktop_DHU_50.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_100.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_150.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_200.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_250.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_300.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_350.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_400.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_450.xml" />
+        <suite-file path="Login_Logout_Desktop_DHU_500.xml" />
+    </suite-files>
+</suite>

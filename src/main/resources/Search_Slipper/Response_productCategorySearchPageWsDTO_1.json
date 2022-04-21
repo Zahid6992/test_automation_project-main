@@ -1,0 +1,5087 @@
+{
+  "type": "productCategorySearchPageWsDTO",
+  "facets": [
+    {
+      "category": false,
+      "code": "sizeEU",
+      "facetVisualizationType": "LIST",
+      "groupIndex": 2,
+      "groupName": "Größe",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "EU",
+      "priority": 2147483647,
+      "seoName": "eu-groesse",
+      "values": [
+        {
+          "code": "21.0",
+          "count": 1,
+          "name": "21",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:21.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A21.0"
+          },
+          "selected": false,
+          "seoName": "21"
+        },
+        {
+          "code": "22.0",
+          "count": 2,
+          "name": "22",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:22.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A22.0"
+          },
+          "selected": false,
+          "seoName": "22"
+        },
+        {
+          "code": "23.5",
+          "count": 2,
+          "name": "23 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:23.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A23.5"
+          },
+          "selected": false,
+          "seoName": "235"
+        },
+        {
+          "code": "25.0",
+          "count": 9,
+          "name": "25",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:25.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A25.0"
+          },
+          "selected": false,
+          "seoName": "25"
+        },
+        {
+          "code": "26.0",
+          "count": 10,
+          "name": "26",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:26.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A26.0"
+          },
+          "selected": false,
+          "seoName": "26"
+        },
+        {
+          "code": "27.0",
+          "count": 9,
+          "name": "27",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:27.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A27.0"
+          },
+          "selected": false,
+          "seoName": "27"
+        },
+        {
+          "code": "28.0",
+          "count": 11,
+          "name": "28",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:28.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A28.0"
+          },
+          "selected": false,
+          "seoName": "28"
+        },
+        {
+          "code": "29.0",
+          "count": 8,
+          "name": "29",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:29.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A29.0"
+          },
+          "selected": false,
+          "seoName": "29"
+        },
+        {
+          "code": "29.5",
+          "count": 1,
+          "name": "29 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:29.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A29.5"
+          },
+          "selected": false,
+          "seoName": "295"
+        },
+        {
+          "code": "30.0",
+          "count": 8,
+          "name": "30",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:30.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A30.0"
+          },
+          "selected": false,
+          "seoName": "30"
+        },
+        {
+          "code": "31.0",
+          "count": 17,
+          "name": "31",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:31.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A31.0"
+          },
+          "selected": false,
+          "seoName": "31"
+        },
+        {
+          "code": "32.0",
+          "count": 20,
+          "name": "32",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:32.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A32.0"
+          },
+          "selected": false,
+          "seoName": "32"
+        },
+        {
+          "code": "33.0",
+          "count": 21,
+          "name": "33",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:33.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A33.0"
+          },
+          "selected": false,
+          "seoName": "33"
+        },
+        {
+          "code": "34.0",
+          "count": 20,
+          "name": "34",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:34.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A34.0"
+          },
+          "selected": false,
+          "seoName": "34"
+        },
+        {
+          "code": "35.0",
+          "count": 19,
+          "name": "35",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:35.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A35.0"
+          },
+          "selected": false,
+          "seoName": "35"
+        },
+        {
+          "code": "36.0",
+          "count": 173,
+          "name": "36",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:36.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A36.0"
+          },
+          "selected": false,
+          "seoName": "36"
+        },
+        {
+          "code": "36.5",
+          "count": 2,
+          "name": "36 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:36.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A36.5"
+          },
+          "selected": false,
+          "seoName": "365"
+        },
+        {
+          "code": "37.0",
+          "count": 176,
+          "name": "37",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:37.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A37.0"
+          },
+          "selected": false,
+          "seoName": "37"
+        },
+        {
+          "code": "37.33",
+          "count": 1,
+          "name": "37 ⅓",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:37.33"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A37.33"
+          },
+          "selected": false,
+          "seoName": "3733"
+        },
+        {
+          "code": "37.5",
+          "count": 31,
+          "name": "37 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:37.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A37.5"
+          },
+          "selected": false,
+          "seoName": "375"
+        },
+        {
+          "code": "38.0",
+          "count": 180,
+          "name": "38",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:38.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A38.0"
+          },
+          "selected": false,
+          "seoName": "38"
+        },
+        {
+          "code": "38.5",
+          "count": 35,
+          "name": "38 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:38.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A38.5"
+          },
+          "selected": false,
+          "seoName": "385"
+        },
+        {
+          "code": "39.0",
+          "count": 167,
+          "name": "39",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:39.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A39.0"
+          },
+          "selected": false,
+          "seoName": "39"
+        },
+        {
+          "code": "40.0",
+          "count": 196,
+          "name": "40",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:40.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A40.0"
+          },
+          "selected": false,
+          "seoName": "40"
+        },
+        {
+          "code": "40.66",
+          "count": 1,
+          "name": "40 ⅔",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:40.66"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A40.66"
+          },
+          "selected": false,
+          "seoName": "4066"
+        },
+        {
+          "code": "41.0",
+          "count": 199,
+          "name": "41",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:41.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A41.0"
+          },
+          "selected": false,
+          "seoName": "41"
+        },
+        {
+          "code": "41.33",
+          "count": 1,
+          "name": "41 ⅓",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:41.33"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A41.33"
+          },
+          "selected": false,
+          "seoName": "4133"
+        },
+        {
+          "code": "41.5",
+          "count": 28,
+          "name": "41 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:41.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A41.5"
+          },
+          "selected": false,
+          "seoName": "415"
+        },
+        {
+          "code": "42.0",
+          "count": 141,
+          "name": "42",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:42.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A42.0"
+          },
+          "selected": false,
+          "seoName": "42"
+        },
+        {
+          "code": "42.66",
+          "count": 1,
+          "name": "42 ⅔",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:42.66"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A42.66"
+          },
+          "selected": false,
+          "seoName": "4266"
+        },
+        {
+          "code": "43.0",
+          "count": 37,
+          "name": "43",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:43.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A43.0"
+          },
+          "selected": false,
+          "seoName": "43"
+        },
+        {
+          "code": "43.33",
+          "count": 1,
+          "name": "43 ⅓",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:43.33"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A43.33"
+          },
+          "selected": false,
+          "seoName": "4333"
+        },
+        {
+          "code": "44.0",
+          "count": 73,
+          "name": "44",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:44.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A44.0"
+          },
+          "selected": false,
+          "seoName": "44"
+        },
+        {
+          "code": "45.0",
+          "count": 44,
+          "name": "45",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:45.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A45.0"
+          },
+          "selected": false,
+          "seoName": "45"
+        },
+        {
+          "code": "45.33",
+          "count": 1,
+          "name": "45 ⅓",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:45.33"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A45.33"
+          },
+          "selected": false,
+          "seoName": "4533"
+        },
+        {
+          "code": "46.0",
+          "count": 35,
+          "name": "46",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:46.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A46.0"
+          },
+          "selected": false,
+          "seoName": "46"
+        },
+        {
+          "code": "47.0",
+          "count": 1,
+          "name": "47",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:47.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A47.0"
+          },
+          "selected": false,
+          "seoName": "47"
+        },
+        {
+          "code": "47.33",
+          "count": 1,
+          "name": "47 ⅓",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:47.33"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A47.33"
+          },
+          "selected": false,
+          "seoName": "4733"
+        },
+        {
+          "code": "51.0",
+          "count": 1,
+          "name": "51",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:51.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A51.0"
+          },
+          "selected": false,
+          "seoName": "51"
+        },
+        {
+          "code": "52.0",
+          "count": 1,
+          "name": "52",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEU:52.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEU%3A52.0"
+          },
+          "selected": false,
+          "seoName": "52"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "sizeUK",
+      "facetVisualizationType": "LIST",
+      "groupIndex": 2,
+      "groupName": "Größe",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "UK",
+      "priority": 2147483646,
+      "seoName": "uk-groesse",
+      "values": [
+        {
+          "code": "1.0",
+          "count": 21,
+          "name": "1",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:1.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A1.0"
+          },
+          "selected": false,
+          "seoName": "1"
+        },
+        {
+          "code": "2.0",
+          "count": 20,
+          "name": "2",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:2.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A2.0"
+          },
+          "selected": false,
+          "seoName": "2"
+        },
+        {
+          "code": "2.5",
+          "count": 19,
+          "name": "2 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:2.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A2.5"
+          },
+          "selected": false,
+          "seoName": "25"
+        },
+        {
+          "code": "3.0",
+          "count": 159,
+          "name": "3",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:3.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A3.0"
+          },
+          "selected": false,
+          "seoName": "3"
+        },
+        {
+          "code": "3.5",
+          "count": 16,
+          "name": "3 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:3.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A3.5"
+          },
+          "selected": false,
+          "seoName": "35"
+        },
+        {
+          "code": "4.0",
+          "count": 176,
+          "name": "4",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:4.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A4.0"
+          },
+          "selected": false,
+          "seoName": "4"
+        },
+        {
+          "code": "4.5",
+          "count": 33,
+          "name": "4 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:4.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A4.5"
+          },
+          "selected": false,
+          "seoName": "45"
+        },
+        {
+          "code": "5.0",
+          "count": 182,
+          "name": "5",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:5.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A5.0"
+          },
+          "selected": false,
+          "seoName": "5"
+        },
+        {
+          "code": "5.5",
+          "count": 169,
+          "name": "5 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:5.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A5.5"
+          },
+          "selected": false,
+          "seoName": "55"
+        },
+        {
+          "code": "6.0",
+          "count": 201,
+          "name": "6",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:6.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A6.0"
+          },
+          "selected": false,
+          "seoName": "6"
+        },
+        {
+          "code": "6.5",
+          "count": 31,
+          "name": "6 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:6.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A6.5"
+          },
+          "selected": false,
+          "seoName": "65"
+        },
+        {
+          "code": "7.0",
+          "count": 199,
+          "name": "7",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:7.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A7.0"
+          },
+          "selected": false,
+          "seoName": "7"
+        },
+        {
+          "code": "7.5",
+          "count": 29,
+          "name": "7 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:7.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A7.5"
+          },
+          "selected": false,
+          "seoName": "75"
+        },
+        {
+          "code": "8.0",
+          "count": 150,
+          "name": "8",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:8.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A8.0"
+          },
+          "selected": false,
+          "seoName": "8"
+        },
+        {
+          "code": "8.5",
+          "count": 11,
+          "name": "8 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:8.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A8.5"
+          },
+          "selected": false,
+          "seoName": "85"
+        },
+        {
+          "code": "9.0",
+          "count": 46,
+          "name": "9",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:9.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A9.0"
+          },
+          "selected": false,
+          "seoName": "9"
+        },
+        {
+          "code": "9.5",
+          "count": 1,
+          "name": "9 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:9.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A9.5"
+          },
+          "selected": false,
+          "seoName": "95"
+        },
+        {
+          "code": "10.0",
+          "count": 84,
+          "name": "10",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:10.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A10.0"
+          },
+          "selected": false,
+          "seoName": "10"
+        },
+        {
+          "code": "10.5",
+          "count": 45,
+          "name": "10 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:10.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A10.5"
+          },
+          "selected": false,
+          "seoName": "105"
+        },
+        {
+          "code": "11.0",
+          "count": 43,
+          "name": "11",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:11.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A11.0"
+          },
+          "selected": false,
+          "seoName": "11"
+        },
+        {
+          "code": "11.5",
+          "count": 9,
+          "name": "11 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:11.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A11.5"
+          },
+          "selected": false,
+          "seoName": "115"
+        },
+        {
+          "code": "12.0",
+          "count": 18,
+          "name": "12",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:12.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A12.0"
+          },
+          "selected": false,
+          "seoName": "12"
+        },
+        {
+          "code": "12.5",
+          "count": 1,
+          "name": "12 ½",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:12.5"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A12.5"
+          },
+          "selected": false,
+          "seoName": "125"
+        },
+        {
+          "code": "13.0",
+          "count": 20,
+          "name": "13",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeUK:13.0"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeUK%3A13.0"
+          },
+          "selected": false,
+          "seoName": "13"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "price",
+      "facetVisualizationType": "SLIDER",
+      "innerSearch": false,
+      "maxSelectedValue": 69.99,
+      "maxValue": 69.99,
+      "minSelectedValue": 1.99,
+      "minValue": 1.99,
+      "multiSelect": true,
+      "name": "Preis",
+      "priority": 2147483644,
+      "seoName": "preis",
+      "values": [
+        {
+          "code": "24.99",
+          "count": 75,
+          "name": "24.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:24.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A24.99"
+          },
+          "selected": false,
+          "seoName": "2499"
+        },
+        {
+          "code": "19.99",
+          "count": 61,
+          "name": "19.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:19.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A19.99"
+          },
+          "selected": false,
+          "seoName": "1999"
+        },
+        {
+          "code": "29.99",
+          "count": 61,
+          "name": "29.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:29.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A29.99"
+          },
+          "selected": false,
+          "seoName": "2999"
+        },
+        {
+          "code": "9.99",
+          "count": 46,
+          "name": "9.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:9.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A9.99"
+          },
+          "selected": false,
+          "seoName": "999"
+        },
+        {
+          "code": "49.99",
+          "count": 38,
+          "name": "49.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:49.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A49.99"
+          },
+          "selected": false,
+          "seoName": "4999"
+        },
+        {
+          "code": "12.49",
+          "count": 37,
+          "name": "12.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:12.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A12.49"
+          },
+          "selected": false,
+          "seoName": "1249"
+        },
+        {
+          "code": "34.99",
+          "count": 34,
+          "name": "34.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:34.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A34.99"
+          },
+          "selected": false,
+          "seoName": "3499"
+        },
+        {
+          "code": "27.99",
+          "count": 31,
+          "name": "27.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:27.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A27.99"
+          },
+          "selected": false,
+          "seoName": "2799"
+        },
+        {
+          "code": "14.99",
+          "count": 27,
+          "name": "14.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:14.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A14.99"
+          },
+          "selected": false,
+          "seoName": "1499"
+        },
+        {
+          "code": "22.99",
+          "count": 26,
+          "name": "22.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:22.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A22.99"
+          },
+          "selected": false,
+          "seoName": "2299"
+        },
+        {
+          "code": "6.99",
+          "count": 23,
+          "name": "6.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:6.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A6.99"
+          },
+          "selected": false,
+          "seoName": "699"
+        },
+        {
+          "code": "44.99",
+          "count": 23,
+          "name": "44.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:44.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A44.99"
+          },
+          "selected": false,
+          "seoName": "4499"
+        },
+        {
+          "code": "4.99",
+          "count": 22,
+          "name": "4.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:4.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A4.99"
+          },
+          "selected": false,
+          "seoName": "499"
+        },
+        {
+          "code": "39.99",
+          "count": 22,
+          "name": "39.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:39.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A39.99"
+          },
+          "selected": false,
+          "seoName": "3999"
+        },
+        {
+          "code": "9.95",
+          "count": 21,
+          "name": "9.95",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:9.95"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A9.95"
+          },
+          "selected": false,
+          "seoName": "995"
+        },
+        {
+          "code": "12.45",
+          "count": 18,
+          "name": "12.45",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:12.45"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A12.45"
+          },
+          "selected": false,
+          "seoName": "1245"
+        },
+        {
+          "code": "31.49",
+          "count": 16,
+          "name": "31.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:31.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A31.49"
+          },
+          "selected": false,
+          "seoName": "3149"
+        },
+        {
+          "code": "1.99",
+          "count": 15,
+          "name": "1.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:1.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A1.99"
+          },
+          "selected": false,
+          "seoName": "199"
+        },
+        {
+          "code": "7.49",
+          "count": 15,
+          "name": "7.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:7.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A7.49"
+          },
+          "selected": false,
+          "seoName": "749"
+        },
+        {
+          "code": "13.99",
+          "count": 13,
+          "name": "13.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:13.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A13.99"
+          },
+          "selected": false,
+          "seoName": "1399"
+        },
+        {
+          "code": "59.99",
+          "count": 13,
+          "name": "59.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:59.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A59.99"
+          },
+          "selected": false,
+          "seoName": "5999"
+        },
+        {
+          "code": "17.49",
+          "count": 12,
+          "name": "17.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:17.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A17.49"
+          },
+          "selected": false,
+          "seoName": "1749"
+        },
+        {
+          "code": "6.24",
+          "count": 11,
+          "name": "6.24",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:6.24"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A6.24"
+          },
+          "selected": false,
+          "seoName": "624"
+        },
+        {
+          "code": "11.24",
+          "count": 10,
+          "name": "11.24",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:11.24"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A11.24"
+          },
+          "selected": false,
+          "seoName": "1124"
+        },
+        {
+          "code": "12.99",
+          "count": 10,
+          "name": "12.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:12.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A12.99"
+          },
+          "selected": false,
+          "seoName": "1299"
+        },
+        {
+          "code": "27.49",
+          "count": 10,
+          "name": "27.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:27.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A27.49"
+          },
+          "selected": false,
+          "seoName": "2749"
+        },
+        {
+          "code": "13.74",
+          "count": 8,
+          "name": "13.74",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:13.74"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A13.74"
+          },
+          "selected": false,
+          "seoName": "1374"
+        },
+        {
+          "code": "20.99",
+          "count": 8,
+          "name": "20.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:20.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A20.99"
+          },
+          "selected": false,
+          "seoName": "2099"
+        },
+        {
+          "code": "24.95",
+          "count": 8,
+          "name": "24.95",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:24.95"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A24.95"
+          },
+          "selected": false,
+          "seoName": "2495"
+        },
+        {
+          "code": "5.74",
+          "count": 7,
+          "name": "5.74",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:5.74"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A5.74"
+          },
+          "selected": false,
+          "seoName": "574"
+        },
+        {
+          "code": "11.2",
+          "count": 7,
+          "name": "11.2",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:11.2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A11.2"
+          },
+          "selected": false,
+          "seoName": "112"
+        },
+        {
+          "code": "14.95",
+          "count": 7,
+          "name": "14.95",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:14.95"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A14.95"
+          },
+          "selected": false,
+          "seoName": "1495"
+        },
+        {
+          "code": "22.49",
+          "count": 7,
+          "name": "22.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:22.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A22.49"
+          },
+          "selected": false,
+          "seoName": "2249"
+        },
+        {
+          "code": "6.95",
+          "count": 6,
+          "name": "6.95",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:6.95"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A6.95"
+          },
+          "selected": false,
+          "seoName": "695"
+        },
+        {
+          "code": "11.49",
+          "count": 6,
+          "name": "11.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:11.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A11.49"
+          },
+          "selected": false,
+          "seoName": "1149"
+        },
+        {
+          "code": "38.49",
+          "count": 6,
+          "name": "38.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:38.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A38.49"
+          },
+          "selected": false,
+          "seoName": "3849"
+        },
+        {
+          "code": "54.99",
+          "count": 6,
+          "name": "54.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:54.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A54.99"
+          },
+          "selected": false,
+          "seoName": "5499"
+        },
+        {
+          "code": "8.24",
+          "count": 5,
+          "name": "8.24",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:8.24"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A8.24"
+          },
+          "selected": false,
+          "seoName": "824"
+        },
+        {
+          "code": "23.09",
+          "count": 5,
+          "name": "23.09",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:23.09"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A23.09"
+          },
+          "selected": false,
+          "seoName": "2309"
+        },
+        {
+          "code": "38.99",
+          "count": 5,
+          "name": "38.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:38.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A38.99"
+          },
+          "selected": false,
+          "seoName": "3899"
+        },
+        {
+          "code": "41.99",
+          "count": 5,
+          "name": "41.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:41.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A41.99"
+          },
+          "selected": false,
+          "seoName": "4199"
+        },
+        {
+          "code": "16.09",
+          "count": 4,
+          "name": "16.09",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:16.09"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A16.09"
+          },
+          "selected": false,
+          "seoName": "1609"
+        },
+        {
+          "code": "19.59",
+          "count": 4,
+          "name": "19.59",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:19.59"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A19.59"
+          },
+          "selected": false,
+          "seoName": "1959"
+        },
+        {
+          "code": "32.99",
+          "count": 4,
+          "name": "32.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:32.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A32.99"
+          },
+          "selected": false,
+          "seoName": "3299"
+        },
+        {
+          "code": "64.99",
+          "count": 4,
+          "name": "64.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:64.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A64.99"
+          },
+          "selected": false,
+          "seoName": "6499"
+        },
+        {
+          "code": "2.99",
+          "count": 3,
+          "name": "2.99",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:2.99"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A2.99"
+          },
+          "selected": false,
+          "seoName": "299"
+        },
+        {
+          "code": "6.2",
+          "count": 3,
+          "name": "6.2",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:6.2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A6.2"
+          },
+          "selected": false,
+          "seoName": "62"
+        },
+        {
+          "code": "6.49",
+          "count": 3,
+          "name": "6.49",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:6.49"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A6.49"
+          },
+          "selected": false,
+          "seoName": "649"
+        },
+        {
+          "code": "7.45",
+          "count": 3,
+          "name": "7.45",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:7.45"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A7.45"
+          },
+          "selected": false,
+          "seoName": "745"
+        },
+        {
+          "code": "8.7",
+          "count": 3,
+          "name": "8.7",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:price:8.7"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Aprice%3A8.7"
+          },
+          "selected": false,
+          "seoName": "87"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "colorRange",
+      "facetVisualizationType": "ICONROW",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Farben",
+      "priority": 2147483643,
+      "seoName": "farbe",
+      "values": [
+        {
+          "code": "black",
+          "count": 267,
+          "icon": {
+            "code": "filter-black",
+            "altText": "Schwarz",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-black.svg?context=bWFzdGVyfGltYWdlc3wzMTl8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDk2L2gyOS84ODc5NTk5NjE2MDMwLnN2Z3xmYmYyNjg4NmZkNzE0MGNkOTVmMWFjNzllNjhjY2IwYjJkMzFlN2UwNTk0ZDE5NzE1Mzg1MGI5ZWJjY2Q1MDhh"
+          },
+          "name": "Schwarz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:black"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Ablack"
+          },
+          "selected": false,
+          "seoName": "schwarz"
+        },
+        {
+          "code": "blue",
+          "count": 188,
+          "icon": {
+            "code": "filter-blue",
+            "altText": "Blau",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-blue.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDYxL2g0MS84ODc5NTk5NDg0OTU4LnN2Z3w4M2ExZmVkYzQyYjc5YzY5OWYzNjBkYjM5ZmM5NDJkNTJhZDllODA3ZDIwY2ExOWI4ZmMxZWM5YjgxYWQ3N2Nj"
+          },
+          "name": "Blau",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:blue"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Ablue"
+          },
+          "selected": false,
+          "seoName": "blau"
+        },
+        {
+          "code": "grey",
+          "count": 141,
+          "icon": {
+            "code": "filter-grey",
+            "altText": "Grau",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-grey.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDYwL2hjYi84ODc5NjAwNDM1MjMwLnN2Z3wzNGJjYWQ4MGNmZmMzMjAwN2I3Y2JjZjIzMTVkMTI3NGNkNjAxYmFhYmViMzljMjI3NzcyYWRhNTA4ZjY1M2Zk"
+          },
+          "name": "Grau",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:grey"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Agrey"
+          },
+          "selected": false,
+          "seoName": "grau"
+        },
+        {
+          "code": "white",
+          "count": 67,
+          "icon": {
+            "code": "filter-white",
+            "altText": "White",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-white.svg?context=bWFzdGVyfGltYWdlc3wzMTl8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDNlL2g4OS84ODc5NjAwMjM4NjIyLnN2Z3xkNDQyYjg4YTY1OTczMGRiZTRlZGRlNjljOWU1YWM0N2M4MmViMzM3ZmQxNjU2MGMxY2M0N2JmMTkyYjQ4M2Vj"
+          },
+          "name": "Weiß",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:white"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Awhite"
+          },
+          "selected": false,
+          "seoName": "weiss"
+        },
+        {
+          "code": "pink",
+          "count": 49,
+          "icon": {
+            "code": "filter-pink",
+            "altText": "Pink",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-pink.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaGZhL2gxMC84ODc5NTk5ODQ1NDA2LnN2Z3wyOTBjMGQ0YmQ0MDBlOTliM2ViNWEzYzM4OWJkMWU5MzdhMGMxODk2YzczMWZlMjQwOTg3MmRlMmEwMWRjOTZi"
+          },
+          "name": "Pink",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:pink"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Apink"
+          },
+          "selected": false,
+          "seoName": "pink"
+        },
+        {
+          "code": "brown",
+          "count": 45,
+          "icon": {
+            "code": "filter-brown",
+            "altText": "Braun",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-brown.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDkwL2g2MC84ODc5NTk5NTE3NzI2LnN2Z3w2YjkwZjE3M2ViOGNlYzU4MTRjZDFkOGQ3MGQ5MzlkMDAwMWMxYTU1NzhhYjkwM2JkNDg1MDdmOTUwN2YyMjVl"
+          },
+          "name": "Braun",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:brown"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Abrown"
+          },
+          "selected": false,
+          "seoName": "braun"
+        },
+        {
+          "code": "beige",
+          "count": 34,
+          "icon": {
+            "code": "filter-beige",
+            "altText": "Beige",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-beige.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDRlL2hiOC84ODc5NjAwNDY3OTk4LnN2Z3w4ZjExMGIwODdhNTUyYTMxYmQ1M2Y2M2NlNDMwZjM4NGQ1OTFjMGY1MjE3M2M1ZGZjMDk1MGFhNzAyMDZmYjUy"
+          },
+          "name": "Beige",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:beige"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Abeige"
+          },
+          "selected": false,
+          "seoName": "beige"
+        },
+        {
+          "code": "red",
+          "count": 28,
+          "icon": {
+            "code": "filter-red",
+            "altText": "Rot",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-red.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDJhL2hhNC84ODc5NjAwMDA5MjQ2LnN2Z3xmMThlYjg3ZWNkNzZkYjViOTkxNjNkYmVlOWU1NDQyYTk0OGI1Y2E1NjE3YzdmNzYzNGRlZTE5NjU3NmZmNjc2"
+          },
+          "name": "Rot",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:red"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Ared"
+          },
+          "selected": false,
+          "seoName": "rot"
+        },
+        {
+          "code": "purple",
+          "count": 14,
+          "icon": {
+            "code": "filter-purple",
+            "altText": "Lila",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-purple.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaGM2L2g4Ny84ODc5NTk5OTQzNzEwLnN2Z3w3NDVkNmY5ZmVkZWRkZTA3MWNiMjAzZTBlMjYxMTYzYmNmZjliMThmYjBmYjZkNzY2NWE4Y2VjMWUyZWEyZTgx"
+          },
+          "name": "Lila",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:purple"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Apurple"
+          },
+          "selected": false,
+          "seoName": "lila"
+        },
+        {
+          "code": "yellow",
+          "count": 12,
+          "icon": {
+            "code": "filter-yellow",
+            "altText": "Gelb",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-yellow.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaGE1L2hmZC84ODc5NjAwMzM2OTI2LnN2Z3xiNTBhOTNiMTYyMDA5YWQ1NGY1ZGMwNDM4OTMyNDk0ZjdhOWQ4MjYwNTAyN2U0NWYzNWIwODAzMGRmZmYwZTk2"
+          },
+          "name": "Gelb",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:yellow"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Ayellow"
+          },
+          "selected": false,
+          "seoName": "gelb"
+        },
+        {
+          "code": "green",
+          "count": 11,
+          "icon": {
+            "code": "filter-green",
+            "altText": "Gruen",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-green.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDViL2g3OC84ODc5NTk5NTgzMjYyLnN2Z3w1MmUwMmZlNGRmZDkwYjFkNGEyNjFlNzkxYjdmMmU4YzQyNWE0MGNmNGVjYzU1MmI4M2YxYzYwMTE2NDBlMjNj"
+          },
+          "name": "Grün",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:green"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Agreen"
+          },
+          "selected": false,
+          "seoName": "gruen"
+        },
+        {
+          "code": "olive",
+          "count": 6,
+          "icon": {
+            "code": "filter-olive",
+            "altText": "Olive",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-olive.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDIwL2g2OC84ODc5NTk5NzQ3MTAyLnN2Z3xjZDJiZDllMzFjNGEzNmZlYjMxYTU1YzcwNzYxNmY4NDhmZDFjMzBkYzZlZThmZTZiNzk3YWQ2YzFhYTZhZWM4"
+          },
+          "name": "Olive",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:olive"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Aolive"
+          },
+          "selected": false,
+          "seoName": "olive"
+        },
+        {
+          "code": "silver",
+          "count": 5,
+          "icon": {
+            "code": "filter-silver",
+            "altText": "Silber",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-silver.svg?context=bWFzdGVyfGltYWdlc3w1Mzh8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDk4L2hhMC84ODc5NjAwMzA0MTU4LnN2Z3xiM2NjZjFjNmQ3MjNiYWI0ODg4Yjk3ODRiMTJhOTliM2NkZmJhMDNiOWIxMzczNGUzYzZjMzllZjFkMzU4YWFk"
+          },
+          "name": "Silber",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:silver"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Asilver"
+          },
+          "selected": false,
+          "seoName": "silber"
+        },
+        {
+          "code": "turquoise",
+          "count": 5,
+          "icon": {
+            "code": "filter-turquoise",
+            "altText": "Turquoise",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-turquoise.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDI1L2hiYi84ODc5NjAwMjcxMzkwLnN2Z3w4N2Q0Yzg0M2Q2MDQ0NDFiZWM2M2Q5NjQ4MmJhMmFmOTRjM2JiOGNmOWRmOGIxZjM5ZTUyMTU1YjM1YTQzNDZh"
+          },
+          "name": "Türkis",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:turquoise"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Aturquoise"
+          },
+          "selected": false,
+          "seoName": "tuerkis"
+        },
+        {
+          "code": "orange",
+          "count": 4,
+          "icon": {
+            "code": "filter-orange",
+            "altText": "Orange",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-orange.svg?context=bWFzdGVyfGltYWdlc3wzMjF8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDgyL2g3ZC84ODc5NTk5Nzc5ODcwLnN2Z3xjZTQ4ZGU0Y2RkMjk5ZjljZjk2Y2E2YmQ5ZjliYTI1ZjQ2MTg1MDFlNWY4YjI4YThhY2Q0NDBiMjZkMGNlMGVi"
+          },
+          "name": "Orange",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:orange"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Aorange"
+          },
+          "selected": false,
+          "seoName": "orange"
+        },
+        {
+          "code": "gold",
+          "count": 3,
+          "icon": {
+            "code": "filter-gold",
+            "altText": "Gold",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-gold.svg?context=bWFzdGVyfGltYWdlc3w1NDB8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDc3L2g5Mi84ODc5NTk5NTUwNDk0LnN2Z3wwYzM5Y2E1YmVkYTM0YzU3YWVmMTBmMzhlMDEzNWE1N2MzYzgzZjQyMGUxZmRlYzMzMDc1MDZlNDUxZTliYzk2"
+          },
+          "name": "Gold",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:gold"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Agold"
+          },
+          "selected": false,
+          "seoName": "gold"
+        },
+        {
+          "code": "bronze",
+          "count": 1,
+          "icon": {
+            "code": "filter-bronze",
+            "altText": "Bronze",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-bronze.svg?context=bWFzdGVyfGltYWdlc3w1MzZ8aW1hZ2Uvc3ZnK3htbHxpbWFnZXMvaDViL2gxOS84ODc5NTk5NDUyMTkwLnN2Z3w0NTEwNjc0NzBiMDc0ZmZhZWUzYWRhNzBlNjMxYTFlZjM0ZjZkYTQ5YTQ4OTdkYzBhNmUzYjgzY2U5ZDAyZDRk"
+          },
+          "name": "Bronze",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:bronze"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Abronze"
+          },
+          "selected": false,
+          "seoName": "bronze"
+        },
+        {
+          "code": "multicolor",
+          "count": 1,
+          "icon": {
+            "code": "filter-multicolor",
+            "altText": "Multicolor",
+            "url": "https://www2.deichmann.com/de-de/medias/filter-multicolor.png?context=bWFzdGVyfGltYWdlc3w5Mjc1fGltYWdlL3BuZ3xpbWFnZXMvaDY2L2g2ZC84ODc5NTk5OTEwOTQyLnBuZ3wzYWYxNDA5YTg1YzI3ODUyNzI3ZGQ4MjhmYjNmZmM5ODE1NjRjMWVkYzFjZTRhNDE1ZmUyZmIzNjgzOGM5NTEw"
+          },
+          "name": "Multicolor",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:colorRange:multicolor"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AcolorRange%3Amulticolor"
+          },
+          "selected": false,
+          "seoName": "multicolor"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "brand",
+      "facetVisualizationType": "LIST",
+      "innerSearch": true,
+      "multiSelect": true,
+      "name": "Marke",
+      "priority": 2147483642,
+      "seoName": "marke",
+      "values": [
+        {
+          "code": "5th-avenue",
+          "count": 5,
+          "name": "5th Avenue",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:5th-avenue"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3A5th-avenue"
+          },
+          "selected": false,
+          "seoName": "5th avenue"
+        },
+        {
+          "code": "adidas",
+          "count": 4,
+          "name": "adidas",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:adidas"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aadidas"
+          },
+          "selected": false,
+          "seoName": "adidas"
+        },
+        {
+          "code": "am-shoe",
+          "count": 24,
+          "name": "AM SHOE",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:am-shoe"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aam-shoe"
+          },
+          "selected": false,
+          "seoName": "am shoe"
+        },
+        {
+          "code": "bench",
+          "count": 27,
+          "name": "Bench",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:bench"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Abench"
+          },
+          "selected": false,
+          "seoName": "bench"
+        },
+        {
+          "code": "blink",
+          "count": 2,
+          "name": "Blink",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:blink"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Ablink"
+          },
+          "selected": false,
+          "seoName": "blink"
+        },
+        {
+          "code": "blowfish",
+          "count": 4,
+          "name": "Blowfish",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:blowfish"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Ablowfish"
+          },
+          "selected": false,
+          "seoName": "blowfish"
+        },
+        {
+          "code": "bobbi-shoes",
+          "count": 1,
+          "name": "Bobbi-Shoes",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:bobbi-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Abobbi-shoes"
+          },
+          "selected": false,
+          "seoName": "bobbi-shoes"
+        },
+        {
+          "code": "bottesini",
+          "count": 2,
+          "name": "Bottesini",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:bottesini"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Abottesini"
+          },
+          "selected": false,
+          "seoName": "bottesini"
+        },
+        {
+          "code": "bottesini-",
+          "count": 1,
+          "name": "Bottesini",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:bottesini-"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Abottesini-"
+          },
+          "selected": false,
+          "seoName": "bottesini"
+        },
+        {
+          "code": "casa-mia",
+          "count": 2,
+          "name": "Casa mia",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:casa-mia"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Acasa-mia"
+          },
+          "selected": false,
+          "seoName": "casa mia"
+        },
+        {
+          "code": "catwalk",
+          "count": 4,
+          "name": "Catwalk",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:catwalk"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Acatwalk"
+          },
+          "selected": false,
+          "seoName": "catwalk"
+        },
+        {
+          "code": "chiemsee",
+          "count": 1,
+          "name": "Chiemsee",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:chiemsee"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Achiemsee"
+          },
+          "selected": false,
+          "seoName": "chiemsee"
+        },
+        {
+          "code": "claudio-conti",
+          "count": 7,
+          "name": "Claudio Conti",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:claudio-conti"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aclaudio-conti"
+          },
+          "selected": false,
+          "seoName": "claudio conti"
+        },
+        {
+          "code": "converse",
+          "count": 1,
+          "name": "Converse",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:converse"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aconverse"
+          },
+          "selected": false,
+          "seoName": "converse"
+        },
+        {
+          "code": "cupcake-couture",
+          "count": 4,
+          "name": "Cupcake Couture",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:cupcake-couture"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Acupcake-couture"
+          },
+          "selected": false,
+          "seoName": "cupcake couture"
+        },
+        {
+          "code": "daniel-hechter",
+          "count": 3,
+          "name": "Daniel Hechter",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:daniel-hechter"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Adaniel-hechter"
+          },
+          "selected": false,
+          "seoName": "daniel hechter"
+        },
+        {
+          "code": "dockers",
+          "count": 2,
+          "name": "Dockers",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:dockers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Adockers"
+          },
+          "selected": false,
+          "seoName": "dockers"
+        },
+        {
+          "code": "easy-street",
+          "count": 47,
+          "name": "Easy Street",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:easy-street"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aeasy-street"
+          },
+          "selected": false,
+          "seoName": "easy street"
+        },
+        {
+          "code": "elefanten",
+          "count": 2,
+          "name": "elefanten",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:elefanten"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aelefanten"
+          },
+          "selected": false,
+          "seoName": "elefanten"
+        },
+        {
+          "code": "esprit",
+          "count": 5,
+          "name": "Esprit",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:esprit"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aesprit"
+          },
+          "selected": false,
+          "seoName": "esprit"
+        },
+        {
+          "code": "fila",
+          "count": 28,
+          "name": "FILA",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:fila"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Afila"
+          },
+          "selected": false,
+          "seoName": "fila"
+        },
+        {
+          "code": "gallus",
+          "count": 19,
+          "name": "Gallus",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:gallus"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Agallus"
+          },
+          "selected": false,
+          "seoName": "gallus"
+        },
+        {
+          "code": "graceland",
+          "count": 137,
+          "name": "Graceland",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:graceland"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Agraceland"
+          },
+          "selected": false,
+          "seoName": "graceland"
+        },
+        {
+          "code": "jack-and-jones",
+          "count": 2,
+          "name": "JACK & JONES",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:jack-and-jones"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Ajack-and-jones"
+          },
+          "selected": false,
+          "seoName": "jack  jones"
+        },
+        {
+          "code": "jette",
+          "count": 3,
+          "name": "Jette",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:jette"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Ajette"
+          },
+          "selected": false,
+          "seoName": "jette"
+        },
+        {
+          "code": "jomos",
+          "count": 9,
+          "name": "Jomos",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:jomos"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Ajomos"
+          },
+          "selected": false,
+          "seoName": "jomos"
+        },
+        {
+          "code": "kappa",
+          "count": 4,
+          "name": "Kappa",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:kappa"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Akappa"
+          },
+          "selected": false,
+          "seoName": "kappa"
+        },
+        {
+          "code": "landrover",
+          "count": 2,
+          "name": "Landrover",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:landrover"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Alandrover"
+          },
+          "selected": false,
+          "seoName": "landrover"
+        },
+        {
+          "code": "medicus",
+          "count": 156,
+          "name": "Medicus",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:medicus"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Amedicus"
+          },
+          "selected": false,
+          "seoName": "medicus"
+        },
+        {
+          "code": "memphis-one",
+          "count": 45,
+          "name": "Memphis One",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:memphis-one"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Amemphis-one"
+          },
+          "selected": false,
+          "seoName": "memphis one"
+        },
+        {
+          "code": "nike",
+          "count": 11,
+          "name": "Nike",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:nike"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Anike"
+          },
+          "selected": false,
+          "seoName": "nike"
+        },
+        {
+          "code": "puma",
+          "count": 3,
+          "name": "Puma",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:puma"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Apuma"
+          },
+          "selected": false,
+          "seoName": "puma"
+        },
+        {
+          "code": "romika",
+          "count": 20,
+          "name": "Romika",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:romika"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Aromika"
+          },
+          "selected": false,
+          "seoName": "romika"
+        },
+        {
+          "code": "skechers",
+          "count": 113,
+          "name": "Skechers",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:skechers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Askechers"
+          },
+          "selected": false,
+          "seoName": "skechers"
+        },
+        {
+          "code": "tom-tailor",
+          "count": 6,
+          "name": "TOM TAILOR",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:tom-tailor"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Atom-tailor"
+          },
+          "selected": false,
+          "seoName": "tom tailor"
+        },
+        {
+          "code": "venice",
+          "count": 138,
+          "name": "Venice",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:venice"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Avenice"
+          },
+          "selected": false,
+          "seoName": "venice"
+        },
+        {
+          "code": "vty",
+          "count": 37,
+          "name": "Vty",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:brand:vty"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Abrand%3Avty"
+          },
+          "selected": false,
+          "seoName": "vty"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": true,
+      "code": "gender",
+      "facetVisualizationType": "ICONLIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Geschlecht",
+      "priority": 2147483641,
+      "seoName": "geschlecht",
+      "values": [
+        {
+          "code": "women",
+          "count": 628,
+          "name": "weiblich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:gender:women"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Agender%3Awomen"
+          },
+          "selected": false,
+          "seoName": "weiblich",
+          "universalUrl": "/damen/c-w"
+        },
+        {
+          "code": "men",
+          "count": 284,
+          "name": "männlich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:gender:men"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Agender%3Amen"
+          },
+          "selected": false,
+          "seoName": "maennlich",
+          "universalUrl": "/herren/c-m"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "sale",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Sale",
+      "priority": 2147483640,
+      "seoName": "sale",
+      "values": [
+        {
+          "code": "true",
+          "count": 637,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sale:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Asale%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        },
+        {
+          "code": "false",
+          "count": 244,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sale:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Asale%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "trend",
+      "facetVisualizationType": "ICONLIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Trend",
+      "priority": 2147483639,
+      "seoName": "trend",
+      "values": [
+        {
+          "code": "women-trend-lightweightsneaker",
+          "count": 142,
+          "name": "Lightweight Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-lightweightsneaker"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-lightweightsneaker"
+          },
+          "selected": false,
+          "seoName": "lightweight sneaker"
+        },
+        {
+          "code": "women-trend-pastelsneakers",
+          "count": 45,
+          "name": "Pastell Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-pastelsneakers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-pastelsneakers"
+          },
+          "selected": false,
+          "seoName": "pastell sneaker"
+        },
+        {
+          "code": "men-trend-blackandwhite",
+          "count": 22,
+          "name": "Black & White",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-trend-blackandwhite"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-trend-blackandwhite"
+          },
+          "selected": false,
+          "seoName": "black  white"
+        },
+        {
+          "code": "men-trend-sportlichesneakerhalbschuhe",
+          "count": 20,
+          "name": "Sportliche Sneaker & Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-trend-sportlichesneakerhalbschuhe"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-trend-sportlichesneakerhalbschuhe"
+          },
+          "selected": false,
+          "seoName": "sportliche sneaker  halbschuhe"
+        },
+        {
+          "code": "children-trend-bestofbasics",
+          "count": 18,
+          "name": "Best of Basics",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-trend-bestofbasics"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-trend-bestofbasics"
+          },
+          "selected": false,
+          "seoName": "best of basics"
+        },
+        {
+          "code": "men-trend-sneakerscanvas",
+          "count": 15,
+          "name": "Leinen Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-trend-sneakerscanvas"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-trend-sneakerscanvas"
+          },
+          "selected": false,
+          "seoName": "leinen sneaker"
+        },
+        {
+          "code": "children-trend-pop-up-colors",
+          "count": 14,
+          "name": "Pop Up Colors",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-trend-pop-up-colors"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-trend-pop-up-colors"
+          },
+          "selected": false,
+          "seoName": "pop up colors"
+        },
+        {
+          "code": "children-event-outdoor",
+          "count": 12,
+          "name": "Outdoor",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-event-outdoor"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-event-outdoor"
+          },
+          "selected": false,
+          "seoName": "outdoor"
+        },
+        {
+          "code": "children-sports",
+          "count": 12,
+          "name": "Sport",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-sports"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-sports"
+          },
+          "selected": false,
+          "seoName": "sport"
+        },
+        {
+          "code": "children-sports-shoes",
+          "count": 12,
+          "name": "Sportschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-sports-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-sports-shoes"
+          },
+          "selected": false,
+          "seoName": "sportschuhe"
+        },
+        {
+          "code": "women-trend-pastel",
+          "count": 11,
+          "name": "Pastell Töne",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-pastel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-pastel"
+          },
+          "selected": false,
+          "seoName": "pastell toene"
+        },
+        {
+          "code": "women-trend-new-styles",
+          "count": 10,
+          "name": "New Styles",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-new-styles"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-new-styles"
+          },
+          "selected": false,
+          "seoName": "new styles"
+        },
+        {
+          "code": "men-event-festive",
+          "count": 8,
+          "name": "Festliche Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-event-festive"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-event-festive"
+          },
+          "selected": false,
+          "seoName": "festliche schuhe"
+        },
+        {
+          "code": "children-trend-neon",
+          "count": 7,
+          "name": "Neon",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-trend-neon"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-trend-neon"
+          },
+          "selected": false,
+          "seoName": "neon"
+        },
+        {
+          "code": "men-event-outdoor",
+          "count": 5,
+          "name": "Outdoor",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-event-outdoor"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-event-outdoor"
+          },
+          "selected": false,
+          "seoName": "outdoor"
+        },
+        {
+          "code": "men-sports",
+          "count": 4,
+          "name": "Sport",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-sports"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-sports"
+          },
+          "selected": false,
+          "seoName": "sport"
+        },
+        {
+          "code": "women-sports",
+          "count": 4,
+          "name": "Sport",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-sports"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-sports"
+          },
+          "selected": false,
+          "seoName": "sport"
+        },
+        {
+          "code": "women-sports-shoes",
+          "count": 4,
+          "name": "Sportschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-sports-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-sports-shoes"
+          },
+          "selected": false,
+          "seoName": "sportschuhe"
+        },
+        {
+          "code": "women-trend-naturallook",
+          "count": 4,
+          "name": "Natural Look",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-naturallook"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-naturallook"
+          },
+          "selected": false,
+          "seoName": "natural look"
+        },
+        {
+          "code": "women-trend-backtorunandtrain",
+          "count": 3,
+          "name": "Back to Run and Train",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-backtorunandtrain"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-backtorunandtrain"
+          },
+          "selected": false,
+          "seoName": "back~run and train"
+        },
+        {
+          "code": "women-trend-animalprint",
+          "count": 2,
+          "name": "Animal Print",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-animalprint"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-animalprint"
+          },
+          "selected": false,
+          "seoName": "animal print"
+        },
+        {
+          "code": "women-trend-courtsneaker",
+          "count": 2,
+          "name": "Court Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-courtsneaker"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-courtsneaker"
+          },
+          "selected": false,
+          "seoName": "court sneaker"
+        },
+        {
+          "code": "children-event-communion",
+          "count": 1,
+          "name": "Kommunion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-event-communion"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-event-communion"
+          },
+          "selected": false,
+          "seoName": "kommunion"
+        },
+        {
+          "code": "children-trend-reflectingshoes",
+          "count": 1,
+          "name": "Reflektierende Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-trend-reflectingshoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-trend-reflectingshoes"
+          },
+          "selected": false,
+          "seoName": "reflektierende schuhe"
+        },
+        {
+          "code": "children-trend-schoolsport",
+          "count": 1,
+          "name": "Schulsport",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:children-trend-schoolsport"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Achildren-trend-schoolsport"
+          },
+          "selected": false,
+          "seoName": "schulsport"
+        },
+        {
+          "code": "men-event-wedding",
+          "count": 1,
+          "name": "Hochzeit",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-event-wedding"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-event-wedding"
+          },
+          "selected": false,
+          "seoName": "hochzeit"
+        },
+        {
+          "code": "men-trend-courtsneaker",
+          "count": 1,
+          "name": "Court Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:men-trend-courtsneaker"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Amen-trend-courtsneaker"
+          },
+          "selected": false,
+          "seoName": "court sneaker"
+        },
+        {
+          "code": "women-trend-rocking-details",
+          "count": 1,
+          "name": "Rockige Details",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-rocking-details"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-rocking-details"
+          },
+          "selected": false,
+          "seoName": "rockige details"
+        },
+        {
+          "code": "women-trend-rough-soles",
+          "count": 1,
+          "name": "Rough Soles",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-rough-soles"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-rough-soles"
+          },
+          "selected": false,
+          "seoName": "rough soles"
+        },
+        {
+          "code": "women-trend-schuhtrends",
+          "count": 1,
+          "name": "Schuhtrends",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trend-schuhtrends"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trend-schuhtrends"
+          },
+          "selected": false,
+          "seoName": "schuhtrends"
+        },
+        {
+          "code": "women-trends-trendcolour-creme",
+          "count": 1,
+          "name": "Trendfarbe Creme",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:trend:women-trends-trendcolour-creme"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atrend%3Awomen-trends-trendcolour-creme"
+          },
+          "selected": false,
+          "seoName": "trendfarbe creme"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "new",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Neu",
+      "priority": 2147483638,
+      "seoName": "neu",
+      "values": [
+        {
+          "code": "false",
+          "count": 809,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:new:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Anew%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        },
+        {
+          "code": "true",
+          "count": 72,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:new:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Anew%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "heelHeight",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Absatzhöhe",
+      "priority": 2147483637,
+      "seoName": "absatzhoehe",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|medium-heel",
+          "count": 302,
+          "name": "mittlerer Absatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelHeight:Master-Classification%7C1.0%7Cmedium-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelHeight%3AMaster-Classification%257C1.0%257Cmedium-heel"
+          },
+          "selected": false,
+          "seoName": "mittlerer absatz"
+        },
+        {
+          "code": "Master-Classification|1.0|flat-heel",
+          "count": 191,
+          "name": "flacher Absatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelHeight:Master-Classification%7C1.0%7Cflat-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelHeight%3AMaster-Classification%257C1.0%257Cflat-heel"
+          },
+          "selected": false,
+          "seoName": "flacher absatz"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "heelType",
+      "facetVisualizationType": "ICONLIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Absatzform",
+      "priority": 2147483636,
+      "seoName": "absatzform",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|wedge-heel",
+          "count": 76,
+          "name": "Keilabsatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelType:Master-Classification%7C1.0%7Cwedge-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelType%3AMaster-Classification%257C1.0%257Cwedge-heel"
+          },
+          "selected": false,
+          "seoName": "keilabsatz"
+        },
+        {
+          "code": "Master-Classification|1.0|platform-heel",
+          "count": 17,
+          "name": "Plateauabsatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelType:Master-Classification%7C1.0%7Cplatform-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelType%3AMaster-Classification%257C1.0%257Cplatform-heel"
+          },
+          "selected": false,
+          "seoName": "plateauabsatz"
+        },
+        {
+          "code": "Master-Classification|1.0|block-heel",
+          "count": 7,
+          "name": "Blockabsatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelType:Master-Classification%7C1.0%7Cblock-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelType%3AMaster-Classification%257C1.0%257Cblock-heel"
+          },
+          "selected": false,
+          "seoName": "blockabsatz"
+        },
+        {
+          "code": "Master-Classification|1.0|flat-heel",
+          "count": 6,
+          "name": "flacher Absatz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:heelType:Master-Classification%7C1.0%7Cflat-heel"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AheelType%3AMaster-Classification%257C1.0%257Cflat-heel"
+          },
+          "selected": false,
+          "seoName": "flacher absatz"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "toecap",
+      "facetVisualizationType": "ICONLIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Schuhspitze",
+      "priority": 2147483635,
+      "seoName": "schuhspitze",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|round",
+          "count": 3,
+          "name": "rund",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:toecap:Master-Classification%7C1.0%7Cround"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atoecap%3AMaster-Classification%257C1.0%257Cround"
+          },
+          "selected": false,
+          "seoName": "rund"
+        },
+        {
+          "code": "Master-Classification|1.0|pointed",
+          "count": 2,
+          "name": "spitz",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:toecap:Master-Classification%7C1.0%7Cpointed"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Atoecap%3AMaster-Classification%257C1.0%257Cpointed"
+          },
+          "selected": false,
+          "seoName": "spitz"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "last",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Leisten",
+      "priority": 2147483633,
+      "seoName": "leisten",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|g",
+          "count": 10,
+          "name": "G",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:last:Master-Classification%7C1.0%7Cg"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Alast%3AMaster-Classification%257C1.0%257Cg"
+          },
+          "selected": false,
+          "seoName": "g"
+        },
+        {
+          "code": "Master-Classification|1.0|h",
+          "count": 6,
+          "name": "H",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:last:Master-Classification%7C1.0%7Ch"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Alast%3AMaster-Classification%257C1.0%257Ch"
+          },
+          "selected": false,
+          "seoName": "h"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "is-leather",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Leder",
+      "priority": 2147483631,
+      "seoName": "leder",
+      "values": [
+        {
+          "code": "false",
+          "count": 689,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:is-leather:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ais-leather%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        },
+        {
+          "code": "true",
+          "count": 192,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:is-leather:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ais-leather%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "lining",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Warmfutter",
+      "priority": 2147483630,
+      "seoName": "warmfutter",
+      "values": [
+        {
+          "code": "false",
+          "count": 874,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:lining:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Alining%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        },
+        {
+          "code": "true",
+          "count": 1,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:lining:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Alining%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "sportsType",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Sportart",
+      "priority": 2147483629,
+      "seoName": "sportart",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|running",
+          "count": 11,
+          "name": "Laufen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sportsType:Master-Classification%7C1.0%7Crunning"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsportsType%3AMaster-Classification%257C1.0%257Crunning"
+          },
+          "selected": false,
+          "seoName": "laufen"
+        },
+        {
+          "code": "Master-Classification|1.0|training",
+          "count": 5,
+          "name": "Training",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sportsType:Master-Classification%7C1.0%7Ctraining"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsportsType%3AMaster-Classification%257C1.0%257Ctraining"
+          },
+          "selected": false,
+          "seoName": "training"
+        },
+        {
+          "code": "Master-Classification|1.0|trekking",
+          "count": 2,
+          "name": "Trekking",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sportsType:Master-Classification%7C1.0%7Ctrekking"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsportsType%3AMaster-Classification%257C1.0%257Ctrekking"
+          },
+          "selected": false,
+          "seoName": "trekking"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "fastening",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Verschluss",
+      "priority": 2147483628,
+      "seoName": "verschluss",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|none",
+          "count": 434,
+          "name": "ohne/keine",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cnone"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cnone"
+          },
+          "selected": false,
+          "seoName": "ohne-keine"
+        },
+        {
+          "code": "Master-Classification|1.0|elastic-shoelace",
+          "count": 275,
+          "name": "elastische Schnürung",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Celastic-shoelace"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Celastic-shoelace"
+          },
+          "selected": false,
+          "seoName": "elastische schnuerung"
+        },
+        {
+          "code": "Master-Classification|1.0|velcro",
+          "count": 93,
+          "name": "Klettverschluss",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cvelcro"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cvelcro"
+          },
+          "selected": false,
+          "seoName": "klettverschluss"
+        },
+        {
+          "code": "Master-Classification|1.0|fake-shoelace",
+          "count": 53,
+          "name": "Schnürung ohne Funktion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cfake-shoelace"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cfake-shoelace"
+          },
+          "selected": false,
+          "seoName": "schnuerung ohne funktion"
+        },
+        {
+          "code": "Master-Classification|1.0|shoelace",
+          "count": 19,
+          "name": "Schnürung",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cshoelace"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cshoelace"
+          },
+          "selected": false,
+          "seoName": "schnuerung"
+        },
+        {
+          "code": "Master-Classification|1.0|zipper",
+          "count": 6,
+          "name": "Reißverschluss",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Czipper"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Czipper"
+          },
+          "selected": false,
+          "seoName": "reissverschluss"
+        },
+        {
+          "code": "Master-Classification|1.0|buckle",
+          "count": 2,
+          "name": "Schnalle",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cbuckle"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cbuckle"
+          },
+          "selected": false,
+          "seoName": "schnalle"
+        },
+        {
+          "code": "Master-Classification|1.0|fake-zipper",
+          "count": 1,
+          "name": "Zierreißverschluss",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:fastening:Master-Classification%7C1.0%7Cfake-zipper"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Afastening%3AMaster-Classification%257C1.0%257Cfake-zipper"
+          },
+          "selected": false,
+          "seoName": "zierreissverschluss"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "water-resistance-level",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Wasserdichtigkeit",
+      "priority": 2147483627,
+      "seoName": "wasserdichtigkeit",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|waterresistant",
+          "count": 2,
+          "name": "wasserabweisend",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:water-resistance-level:Master-Classification%7C1.0%7Cwaterresistant"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Awater-resistance-level%3AMaster-Classification%257C1.0%257Cwaterresistant"
+          },
+          "selected": false,
+          "seoName": "wasserabweisend"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "pattern",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Muster",
+      "priority": 2147483626,
+      "seoName": "muster",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|dots",
+          "count": 8,
+          "name": "Punkte",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:pattern:Master-Classification%7C1.0%7Cdots"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Apattern%3AMaster-Classification%257C1.0%257Cdots"
+          },
+          "selected": false,
+          "seoName": "punkte"
+        },
+        {
+          "code": "Master-Classification|1.0|stripes",
+          "count": 8,
+          "name": "Streifen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:pattern:Master-Classification%7C1.0%7Cstripes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Apattern%3AMaster-Classification%257C1.0%257Cstripes"
+          },
+          "selected": false,
+          "seoName": "streifen"
+        },
+        {
+          "code": "Master-Classification|1.0|animal-print",
+          "count": 2,
+          "name": "Animal Print",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:pattern:Master-Classification%7C1.0%7Canimal-print"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Apattern%3AMaster-Classification%257C1.0%257Canimal-print"
+          },
+          "selected": false,
+          "seoName": "animal print"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "shoe-width",
+      "facetVisualizationType": "LIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Schuhweite",
+      "priority": 2147483625,
+      "seoName": "schuhweite",
+      "values": [
+        {
+          "code": "Master-Classification|1.0|width-g-medium",
+          "count": 114,
+          "name": "Weite G, mittel",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cwidth-g-medium"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cwidth-g-medium"
+          },
+          "selected": false,
+          "seoName": "weite g mittel"
+        },
+        {
+          "code": "Master-Classification|1.0|width-h-wide",
+          "count": 25,
+          "name": "Weite H, weit",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cwidth-h-wide"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cwidth-h-wide"
+          },
+          "selected": false,
+          "seoName": "weite h weit"
+        },
+        {
+          "code": "Master-Classification|1.0|medium",
+          "count": 24,
+          "name": "mittel",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cmedium"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cmedium"
+          },
+          "selected": false,
+          "seoName": "mittel"
+        },
+        {
+          "code": "Master-Classification|1.0|wide",
+          "count": 22,
+          "name": "weit",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cwide"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cwide"
+          },
+          "selected": false,
+          "seoName": "weit"
+        },
+        {
+          "code": "Master-Classification|1.0|width-k-extrawide",
+          "count": 16,
+          "name": "Weite K, extraweit",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cwidth-k-extrawide"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cwidth-k-extrawide"
+          },
+          "selected": false,
+          "seoName": "weite k extraweit"
+        },
+        {
+          "code": "Master-Classification|1.0|width-g-½-medium",
+          "count": 10,
+          "name": "Weite G ½, mittel",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cwidth-g-%C2%BD-medium"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cwidth-g-%25C2%25BD-medium"
+          },
+          "selected": false,
+          "seoName": "weite g5 mittel"
+        },
+        {
+          "code": "Master-Classification|1.0|narrow",
+          "count": 5,
+          "name": "schmal",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:shoe-width:Master-Classification%7C1.0%7Cnarrow"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ashoe-width%3AMaster-Classification%257C1.0%257Cnarrow"
+          },
+          "selected": false,
+          "seoName": "schmal"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "is-sustainable",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Nachhaltig",
+      "priority": 2147483624,
+      "seoName": "nachhaltig",
+      "values": [
+        {
+          "code": "true",
+          "count": 4,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:is-sustainable:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ais-sustainable%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        },
+        {
+          "code": "false",
+          "count": 1,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:is-sustainable:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3Ais-sustainable%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "sizeEURange",
+      "facetVisualizationType": "ICONLIST",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Altersgruppe",
+      "priority": 2147483623,
+      "seoName": "altersgruppe",
+      "values": [
+        {
+          "code": "adult",
+          "count": 847,
+          "name": "Erwachsene",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEURange:adult"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEURange%3Aadult"
+          },
+          "selected": false,
+          "seoName": "erwachsene"
+        },
+        {
+          "code": "teen",
+          "count": 845,
+          "name": "Teens",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEURange:teen"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEURange%3Ateen"
+          },
+          "selected": false,
+          "seoName": "teens"
+        },
+        {
+          "code": "child",
+          "count": 83,
+          "name": "Kinder",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEURange:child"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEURange%3Achild"
+          },
+          "selected": false,
+          "seoName": "kinder"
+        },
+        {
+          "code": "baby",
+          "count": 23,
+          "name": "Baby",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:sizeEURange:baby"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AsizeEURange%3Ababy"
+          },
+          "selected": false,
+          "seoName": "baby"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": false,
+      "code": "onlineExclusive",
+      "facetVisualizationType": "CHECKBOX",
+      "innerSearch": false,
+      "multiSelect": true,
+      "name": "Online Exklusiv",
+      "priority": 2147483622,
+      "seoName": "online exklusiv",
+      "values": [
+        {
+          "code": "false",
+          "count": 665,
+          "name": "Nein",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:onlineExclusive:false"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AonlineExclusive%3Afalse"
+          },
+          "selected": false,
+          "seoName": "nein"
+        },
+        {
+          "code": "true",
+          "count": 216,
+          "name": "Ja",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:onlineExclusive:true"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AonlineExclusive%3Atrue"
+          },
+          "selected": false,
+          "seoName": "ja"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": true,
+      "code": "allCategories",
+      "facetVisualizationType": "INVISIBLE",
+      "innerSearch": false,
+      "multiSelect": false,
+      "name": "Alle Kategorien",
+      "priority": 2147483621,
+      "seoName": "alle kategorien",
+      "values": [
+        {
+          "code": "brands",
+          "count": 881,
+          "name": "Marken",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:brands"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Abrands"
+          },
+          "selected": false,
+          "seoName": "marken",
+          "universalUrl": "/marken/c-brands"
+        },
+        {
+          "code": "dsd",
+          "count": 881,
+          "name": "dsd",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:dsd"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adsd"
+          },
+          "selected": false,
+          "seoName": "dsd",
+          "universalUrl": "/c-dsd"
+        },
+        {
+          "code": "phasesOfLife",
+          "count": 881,
+          "name": "Altersgruppen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:phasesOfLife"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3AphasesOfLife"
+          },
+          "selected": false,
+          "seoName": "altersgruppen",
+          "universalUrl": "/altersgruppen/c-phasesOfLife"
+        },
+        {
+          "code": "promotions",
+          "count": 878,
+          "name": "promotions",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:promotions"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Apromotions"
+          },
+          "selected": false,
+          "seoName": "promotions",
+          "universalUrl": "/c-promotions"
+        },
+        {
+          "code": "adults",
+          "count": 812,
+          "name": "Erwachsene",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:adults"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Aadults"
+          },
+          "selected": false,
+          "seoName": "erwachsene",
+          "universalUrl": "/altersgruppen/erwachsene/c-adults"
+        },
+        {
+          "code": "default-shoes",
+          "count": 727,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/schuhe/c-ds"
+        },
+        {
+          "code": "sale",
+          "count": 637,
+          "name": "Sale",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:sale"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Asale"
+          },
+          "selected": false,
+          "seoName": "sale",
+          "universalUrl": "/c-sale"
+        },
+        {
+          "code": "women",
+          "count": 628,
+          "name": "weiblich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen"
+          },
+          "selected": false,
+          "seoName": "weiblich",
+          "universalUrl": "/damen/c-w"
+        },
+        {
+          "code": "blockedProductsForEmployeeDiscount",
+          "count": 580,
+          "name": "blockedProductsForEmployeeDiscount",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:blockedProductsForEmployeeDiscount"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3AblockedProductsForEmployeeDiscount"
+          },
+          "selected": false,
+          "seoName": "blockedproductsforemployeediscount",
+          "universalUrl": "/c-blockedProductsForEmployeeDiscount"
+        },
+        {
+          "code": "women-shoes",
+          "count": 569,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/damen/schuhe/c-ws"
+        },
+        {
+          "code": "default-shoes-low",
+          "count": 500,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-low"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-low"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/schuhe/halbschuhe/c-dsl1"
+        },
+        {
+          "code": "default-shoes-low-slippers",
+          "count": 484,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-low-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-low-slippers"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/schuhe-halbschuhe/slipper/c-dsl1f"
+        },
+        {
+          "code": "default-promotion-black-friday",
+          "count": 351,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-promotion-black-friday"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-promotion-black-friday"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/black-week/c-dpb1"
+        },
+        {
+          "code": "default-promotion-app",
+          "count": 321,
+          "name": "App Special 20% Rabatt",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-promotion-app"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-promotion-app"
+          },
+          "selected": false,
+          "seoName": "app special 20 rabatt",
+          "universalUrl": "/app-special-20-rabatt/c-dpa2"
+        },
+        {
+          "code": "men",
+          "count": 284,
+          "name": "männlich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen"
+          },
+          "selected": false,
+          "seoName": "maennlich",
+          "universalUrl": "/herren/c-m"
+        },
+        {
+          "code": "women-promotion",
+          "count": 269,
+          "name": "Promotion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-promotion"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-promotion"
+          },
+          "selected": false,
+          "seoName": "promotion",
+          "universalUrl": "/damen/promotion/c-wp"
+        },
+        {
+          "code": "women-shoes-sneakers",
+          "count": 257,
+          "name": "Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-sneakers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-sneakers"
+          },
+          "selected": false,
+          "seoName": "sneaker",
+          "universalUrl": "/damen-schuhe/sneaker/c-wss2"
+        },
+        {
+          "code": "women-trend",
+          "count": 257,
+          "name": "Trends",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-trend"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-trend"
+          },
+          "selected": false,
+          "seoName": "trends",
+          "universalUrl": "/damen/trends/c-wt"
+        },
+        {
+          "code": "default-shoes-comfort",
+          "count": 241,
+          "name": "Komfortschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-comfort"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-comfort"
+          },
+          "selected": false,
+          "seoName": "komfortschuhe",
+          "universalUrl": "/schuhe/komfortschuhe/c-dsc1"
+        },
+        {
+          "code": "men-shoes",
+          "count": 241,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen-shoes"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/herren/schuhe/c-ms"
+        },
+        {
+          "code": "women-promotion-black-friday",
+          "count": 235,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-promotion-black-friday"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-promotion-black-friday"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/damen-promotion/black-week/c-wpb1"
+        },
+        {
+          "code": "men-shoes-low",
+          "count": 220,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men-shoes-low"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen-shoes-low"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/herren-schuhe/halbschuhe/c-msl1"
+        },
+        {
+          "code": "men-shoes-low-slippers",
+          "count": 219,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men-shoes-low-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen-shoes-low-slippers"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/herren-schuhe/halbschuhe/slipper/c-msl1d"
+        },
+        {
+          "code": "women-shoes-sneakers-slip-ons",
+          "count": 216,
+          "name": "Slip Ons",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-sneakers-slip-ons"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-sneakers-slip-ons"
+          },
+          "selected": false,
+          "seoName": "slip ons",
+          "universalUrl": "/damen-schuhe/sneaker/slip-ons/c-wss2d"
+        },
+        {
+          "code": "women-shoes-low",
+          "count": 211,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-low"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-low"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/damen-schuhe/halbschuhe/c-wsl1"
+        },
+        {
+          "code": "women-shoes-comfort",
+          "count": 205,
+          "name": "Komfortschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-comfort"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-comfort"
+          },
+          "selected": false,
+          "seoName": "komfortschuhe",
+          "universalUrl": "/damen-schuhe/komfortschuhe/c-wsc2"
+        },
+        {
+          "code": "women-shoes-low-slippers",
+          "count": 193,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-low-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-low-slippers"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/damen-schuhe/halbschuhe/slipper/c-wsl1f"
+        },
+        {
+          "code": "topBrands",
+          "count": 191,
+          "name": "Top Marken",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:topBrands"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3AtopBrands"
+          },
+          "selected": false,
+          "seoName": "top marken",
+          "universalUrl": "/top-marken/c-topBrands"
+        },
+        {
+          "code": "women-shoes-comfort-slippers",
+          "count": 187,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-comfort-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-comfort-slippers"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/damen-schuhe/komfortschuhe/slipper/c-wsc2b"
+        },
+        {
+          "code": "medicus",
+          "count": 156,
+          "name": "Medicus",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:medicus"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amedicus"
+          },
+          "selected": false,
+          "seoName": "medicus",
+          "universalUrl": "/marken/c-medicus"
+        },
+        {
+          "code": "women-trend-lightweightsneaker",
+          "count": 142,
+          "name": "Lightweight Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-trend-lightweightsneaker"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-trend-lightweightsneaker"
+          },
+          "selected": false,
+          "seoName": "lightweight sneaker",
+          "universalUrl": "/damen-trends/lightweight-sneaker/c-wtl1"
+        },
+        {
+          "code": "venice",
+          "count": 138,
+          "name": "Venice",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:venice"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Avenice"
+          },
+          "selected": false,
+          "seoName": "venice",
+          "universalUrl": "/marken/c-venice"
+        },
+        {
+          "code": "graceland",
+          "count": 137,
+          "name": "Graceland",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:graceland"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Agraceland"
+          },
+          "selected": false,
+          "seoName": "graceland",
+          "universalUrl": "/marken/c-graceland"
+        },
+        {
+          "code": "bogo",
+          "count": 128,
+          "name": "50% auf den 2. Sale Artikel",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:bogo"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Abogo"
+          },
+          "selected": false,
+          "seoName": "50 auf den 2 sale artikel",
+          "universalUrl": "/50-auf-den-2-sale-artikel/c-bogo"
+        },
+        {
+          "code": "default-shoes-canvas",
+          "count": 122,
+          "name": "Leinenschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-canvas"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-canvas"
+          },
+          "selected": false,
+          "seoName": "leinenschuhe",
+          "universalUrl": "/schuhe/leinenschuhe/c-dsc2"
+        },
+        {
+          "code": "default-shoes-sneakers",
+          "count": 122,
+          "name": "Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-sneakers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-sneakers"
+          },
+          "selected": false,
+          "seoName": "sneaker",
+          "universalUrl": "/schuhe/sneaker/c-dss2"
+        },
+        {
+          "code": "default-shoes-sneakers-low",
+          "count": 122,
+          "name": "Flache Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-sneakers-low"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-sneakers-low"
+          },
+          "selected": false,
+          "seoName": "flache sneaker",
+          "universalUrl": "/schuhe-sneaker/flache-sneaker/c-dss2c"
+        },
+        {
+          "code": "oversize-women",
+          "count": 122,
+          "name": "Übergrößen für Damen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:oversize-women"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Aoversize-women"
+          },
+          "selected": false,
+          "seoName": "uebergroessen fuer damen",
+          "universalUrl": "/uebergroessen-fuer-damen/c-wso1"
+        },
+        {
+          "code": "default-shoes-canvas-slippers",
+          "count": 120,
+          "name": "Leinenslipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-shoes-canvas-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-shoes-canvas-slippers"
+          },
+          "selected": false,
+          "seoName": "leinenslipper",
+          "universalUrl": "/schuhe-leinenschuhe/leinenslipper/c-dsc2b"
+        },
+        {
+          "code": "men-promotion",
+          "count": 114,
+          "name": "Promotion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men-promotion"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen-promotion"
+          },
+          "selected": false,
+          "seoName": "promotion",
+          "universalUrl": "/herren/promotion/c-men-promotion"
+        },
+        {
+          "code": "skechers",
+          "count": 113,
+          "name": "Skechers",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:skechers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Askechers"
+          },
+          "selected": false,
+          "seoName": "skechers",
+          "universalUrl": "/marken/c-skechers"
+        },
+        {
+          "code": "women-trend-bestofbasics",
+          "count": 101,
+          "name": "Best of Basics",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-trend-bestofbasics"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-trend-bestofbasics"
+          },
+          "selected": false,
+          "seoName": "best of basics",
+          "universalUrl": "/damen-trends/best-of-basics/c-wtb3"
+        },
+        {
+          "code": "men-promotion-black-friday",
+          "count": 98,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:men-promotion-black-friday"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Amen-promotion-black-friday"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/herren-promotion/black-week/c-mpb1"
+        },
+        {
+          "code": "women-shoes-sale",
+          "count": 98,
+          "name": "Damenschuhe Sale",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-sale"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-sale"
+          },
+          "selected": false,
+          "seoName": "damenschuhe sale",
+          "universalUrl": "/damen-schuhe/damenschuhe-sale/c-wss4"
+        },
+        {
+          "code": "children",
+          "count": 82,
+          "name": "Kinder",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:children"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Achildren"
+          },
+          "selected": false,
+          "seoName": "kinder",
+          "universalUrl": "/kinder/c-c"
+        },
+        {
+          "code": "default-promotion-cybermonday",
+          "count": 82,
+          "name": "Cyber Monday",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:default-promotion-cybermonday"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Adefault-promotion-cybermonday"
+          },
+          "selected": false,
+          "seoName": "cyber monday",
+          "universalUrl": "/cyber-monday/c-dpc1"
+        },
+        {
+          "code": "women-shoes-canvas",
+          "count": 82,
+          "name": "Leinenschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-canvas"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-canvas"
+          },
+          "selected": false,
+          "seoName": "leinenschuhe",
+          "universalUrl": "/damen-schuhe/leinenschuhe/c-wsc1"
+        },
+        {
+          "code": "women-shoes-canvas-slippers",
+          "count": 79,
+          "name": "Leinen-Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:women-shoes-canvas-slippers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Awomen-shoes-canvas-slippers"
+          },
+          "selected": false,
+          "seoName": "leinen-slipper",
+          "universalUrl": "/damen-schuhe/leinenschuhe/leinen-slipper/c-wsc1b"
+        },
+        {
+          "code": "oversize-men",
+          "count": 78,
+          "name": "Übergrößen für Herren",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:oversize-men"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Aoversize-men"
+          },
+          "selected": false,
+          "seoName": "uebergroessen fuer herren",
+          "universalUrl": "/uebergroessen-fuer-herren/c-mso1"
+        },
+        {
+          "code": "children-shoes",
+          "count": 74,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategories:children-shoes"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategories%3Achildren-shoes"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/kinder/schuhe/c-cs"
+        }
+      ],
+      "visible": true
+    },
+    {
+      "category": true,
+      "code": "allCategoriesSEO",
+      "facetVisualizationType": "INVISIBLE",
+      "innerSearch": false,
+      "multiSelect": false,
+      "name": "Alle Kategorien",
+      "priority": 2147483620,
+      "seoName": "alle kategorien",
+      "values": [
+        {
+          "code": "brands",
+          "count": 881,
+          "name": "Marken",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:brands"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Abrands"
+          },
+          "selected": false,
+          "seoName": "marken",
+          "universalUrl": "/marken/c-brands"
+        },
+        {
+          "code": "dsd",
+          "count": 881,
+          "name": "dsd",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsd"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsd"
+          },
+          "selected": false,
+          "seoName": "dsd",
+          "universalUrl": "/c-dsd"
+        },
+        {
+          "code": "phasesOfLife",
+          "count": 881,
+          "name": "Altersgruppen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:phasesOfLife"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3AphasesOfLife"
+          },
+          "selected": false,
+          "seoName": "altersgruppen",
+          "universalUrl": "/altersgruppen/c-phasesOfLife"
+        },
+        {
+          "code": "promotions",
+          "count": 878,
+          "name": "promotions",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:promotions"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Apromotions"
+          },
+          "selected": false,
+          "seoName": "promotions",
+          "universalUrl": "/c-promotions"
+        },
+        {
+          "code": "adults",
+          "count": 812,
+          "name": "Erwachsene",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:adults"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Aadults"
+          },
+          "selected": false,
+          "seoName": "erwachsene",
+          "universalUrl": "/altersgruppen/erwachsene/c-adults"
+        },
+        {
+          "code": "ds",
+          "count": 727,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:ds"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Ads"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/schuhe/c-ds"
+        },
+        {
+          "code": "sale",
+          "count": 637,
+          "name": "Sale",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:sale"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Asale"
+          },
+          "selected": false,
+          "seoName": "sale",
+          "universalUrl": "/c-sale"
+        },
+        {
+          "code": "blockedProductsForEmployeeDiscount",
+          "count": 580,
+          "name": "blockedProductsForEmployeeDiscount",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:blockedProductsForEmployeeDiscount"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3AblockedProductsForEmployeeDiscount"
+          },
+          "selected": false,
+          "seoName": "blockedproductsforemployeediscount",
+          "universalUrl": "/c-blockedProductsForEmployeeDiscount"
+        },
+        {
+          "code": "w",
+          "count": 572,
+          "name": "weiblich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:w"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Aw"
+          },
+          "selected": false,
+          "seoName": "weiblich",
+          "universalUrl": "/damen/c-w"
+        },
+        {
+          "code": "ws",
+          "count": 569,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:ws"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Aws"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/damen/schuhe/c-ws"
+        },
+        {
+          "code": "dsl1",
+          "count": 500,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsl1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsl1"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/schuhe/halbschuhe/c-dsl1"
+        },
+        {
+          "code": "dsl1f",
+          "count": 484,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsl1f"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsl1f"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/schuhe-halbschuhe/slipper/c-dsl1f"
+        },
+        {
+          "code": "dpb1",
+          "count": 351,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dpb1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adpb1"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/black-week/c-dpb1"
+        },
+        {
+          "code": "dpa2",
+          "count": 321,
+          "name": "App Special 20% Rabatt",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dpa2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adpa2"
+          },
+          "selected": false,
+          "seoName": "app special 20 rabatt",
+          "universalUrl": "/app-special-20-rabatt/c-dpa2"
+        },
+        {
+          "code": "wp",
+          "count": 269,
+          "name": "Promotion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wp"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awp"
+          },
+          "selected": false,
+          "seoName": "promotion",
+          "universalUrl": "/damen/promotion/c-wp"
+        },
+        {
+          "code": "wss2",
+          "count": 257,
+          "name": "Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wss2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awss2"
+          },
+          "selected": false,
+          "seoName": "sneaker",
+          "universalUrl": "/damen-schuhe/sneaker/c-wss2"
+        },
+        {
+          "code": "wt",
+          "count": 257,
+          "name": "Trends",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wt"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awt"
+          },
+          "selected": false,
+          "seoName": "trends",
+          "universalUrl": "/damen/trends/c-wt"
+        },
+        {
+          "code": "m",
+          "count": 245,
+          "name": "männlich",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:m"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Am"
+          },
+          "selected": false,
+          "seoName": "maennlich",
+          "universalUrl": "/herren/c-m"
+        },
+        {
+          "code": "dsc1",
+          "count": 241,
+          "name": "Komfortschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsc1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsc1"
+          },
+          "selected": false,
+          "seoName": "komfortschuhe",
+          "universalUrl": "/schuhe/komfortschuhe/c-dsc1"
+        },
+        {
+          "code": "ms",
+          "count": 241,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:ms"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Ams"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/herren/schuhe/c-ms"
+        },
+        {
+          "code": "wpb1",
+          "count": 235,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wpb1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awpb1"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/damen-promotion/black-week/c-wpb1"
+        },
+        {
+          "code": "msl1",
+          "count": 220,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:msl1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Amsl1"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/herren-schuhe/halbschuhe/c-msl1"
+        },
+        {
+          "code": "msl1d",
+          "count": 219,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:msl1d"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Amsl1d"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/herren-schuhe/halbschuhe/slipper/c-msl1d"
+        },
+        {
+          "code": "wss2d",
+          "count": 216,
+          "name": "Slip Ons",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wss2d"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awss2d"
+          },
+          "selected": false,
+          "seoName": "slip ons",
+          "universalUrl": "/damen-schuhe/sneaker/slip-ons/c-wss2d"
+        },
+        {
+          "code": "wsl1",
+          "count": 211,
+          "name": "Halbschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsl1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsl1"
+          },
+          "selected": false,
+          "seoName": "halbschuhe",
+          "universalUrl": "/damen-schuhe/halbschuhe/c-wsl1"
+        },
+        {
+          "code": "wsc2",
+          "count": 205,
+          "name": "Komfortschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsc2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsc2"
+          },
+          "selected": false,
+          "seoName": "komfortschuhe",
+          "universalUrl": "/damen-schuhe/komfortschuhe/c-wsc2"
+        },
+        {
+          "code": "wsl1f",
+          "count": 193,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsl1f"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsl1f"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/damen-schuhe/halbschuhe/slipper/c-wsl1f"
+        },
+        {
+          "code": "topBrands",
+          "count": 191,
+          "name": "Top Marken",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:topBrands"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3AtopBrands"
+          },
+          "selected": false,
+          "seoName": "top marken",
+          "universalUrl": "/top-marken/c-topBrands"
+        },
+        {
+          "code": "wsc2b",
+          "count": 187,
+          "name": "Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsc2b"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsc2b"
+          },
+          "selected": false,
+          "seoName": "slipper",
+          "universalUrl": "/damen-schuhe/komfortschuhe/slipper/c-wsc2b"
+        },
+        {
+          "code": "medicus",
+          "count": 156,
+          "name": "Medicus",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:medicus"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Amedicus"
+          },
+          "selected": false,
+          "seoName": "medicus",
+          "universalUrl": "/marken/c-medicus"
+        },
+        {
+          "code": "wtl1",
+          "count": 142,
+          "name": "Lightweight Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wtl1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awtl1"
+          },
+          "selected": false,
+          "seoName": "lightweight sneaker",
+          "universalUrl": "/damen-trends/lightweight-sneaker/c-wtl1"
+        },
+        {
+          "code": "venice",
+          "count": 138,
+          "name": "Venice",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:venice"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Avenice"
+          },
+          "selected": false,
+          "seoName": "venice",
+          "universalUrl": "/marken/c-venice"
+        },
+        {
+          "code": "graceland",
+          "count": 137,
+          "name": "Graceland",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:graceland"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Agraceland"
+          },
+          "selected": false,
+          "seoName": "graceland",
+          "universalUrl": "/marken/c-graceland"
+        },
+        {
+          "code": "bogo",
+          "count": 128,
+          "name": "50% auf den 2. Sale Artikel",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:bogo"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Abogo"
+          },
+          "selected": false,
+          "seoName": "50 auf den 2 sale artikel",
+          "universalUrl": "/50-auf-den-2-sale-artikel/c-bogo"
+        },
+        {
+          "code": "dsc2",
+          "count": 122,
+          "name": "Leinenschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsc2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsc2"
+          },
+          "selected": false,
+          "seoName": "leinenschuhe",
+          "universalUrl": "/schuhe/leinenschuhe/c-dsc2"
+        },
+        {
+          "code": "dss2",
+          "count": 122,
+          "name": "Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dss2"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adss2"
+          },
+          "selected": false,
+          "seoName": "sneaker",
+          "universalUrl": "/schuhe/sneaker/c-dss2"
+        },
+        {
+          "code": "dss2c",
+          "count": 122,
+          "name": "Flache Sneaker",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dss2c"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adss2c"
+          },
+          "selected": false,
+          "seoName": "flache sneaker",
+          "universalUrl": "/schuhe-sneaker/flache-sneaker/c-dss2c"
+        },
+        {
+          "code": "wso1",
+          "count": 122,
+          "name": "Übergrößen für Damen",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wso1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awso1"
+          },
+          "selected": false,
+          "seoName": "uebergroessen fuer damen",
+          "universalUrl": "/uebergroessen-fuer-damen/c-wso1"
+        },
+        {
+          "code": "dsc2b",
+          "count": 120,
+          "name": "Leinenslipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dsc2b"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adsc2b"
+          },
+          "selected": false,
+          "seoName": "leinenslipper",
+          "universalUrl": "/schuhe-leinenschuhe/leinenslipper/c-dsc2b"
+        },
+        {
+          "code": "men-promotion",
+          "count": 114,
+          "name": "Promotion",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:men-promotion"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Amen-promotion"
+          },
+          "selected": false,
+          "seoName": "promotion",
+          "universalUrl": "/herren/promotion/c-men-promotion"
+        },
+        {
+          "code": "skechers",
+          "count": 113,
+          "name": "Skechers",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:skechers"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Askechers"
+          },
+          "selected": false,
+          "seoName": "skechers",
+          "universalUrl": "/marken/c-skechers"
+        },
+        {
+          "code": "wtb3",
+          "count": 101,
+          "name": "Best of Basics",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wtb3"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awtb3"
+          },
+          "selected": false,
+          "seoName": "best of basics",
+          "universalUrl": "/damen-trends/best-of-basics/c-wtb3"
+        },
+        {
+          "code": "mpb1",
+          "count": 98,
+          "name": "Black Week",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:mpb1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Ampb1"
+          },
+          "selected": false,
+          "seoName": "black week",
+          "universalUrl": "/herren-promotion/black-week/c-mpb1"
+        },
+        {
+          "code": "wss4",
+          "count": 98,
+          "name": "Damenschuhe Sale",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wss4"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awss4"
+          },
+          "selected": false,
+          "seoName": "damenschuhe sale",
+          "universalUrl": "/damen-schuhe/damenschuhe-sale/c-wss4"
+        },
+        {
+          "code": "c",
+          "count": 82,
+          "name": "Kinder",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:c"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Ac"
+          },
+          "selected": false,
+          "seoName": "kinder",
+          "universalUrl": "/kinder/c-c"
+        },
+        {
+          "code": "dpc1",
+          "count": 82,
+          "name": "Cyber Monday",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:dpc1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Adpc1"
+          },
+          "selected": false,
+          "seoName": "cyber monday",
+          "universalUrl": "/cyber-monday/c-dpc1"
+        },
+        {
+          "code": "wsc1",
+          "count": 82,
+          "name": "Leinenschuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsc1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsc1"
+          },
+          "selected": false,
+          "seoName": "leinenschuhe",
+          "universalUrl": "/damen-schuhe/leinenschuhe/c-wsc1"
+        },
+        {
+          "code": "wsc1b",
+          "count": 79,
+          "name": "Leinen-Slipper",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:wsc1b"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Awsc1b"
+          },
+          "selected": false,
+          "seoName": "leinen-slipper",
+          "universalUrl": "/damen-schuhe/leinenschuhe/leinen-slipper/c-wsc1b"
+        },
+        {
+          "code": "mso1",
+          "count": 78,
+          "name": "Übergrößen für Herren",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:mso1"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Amso1"
+          },
+          "selected": false,
+          "seoName": "uebergroessen fuer herren",
+          "universalUrl": "/uebergroessen-fuer-herren/c-mso1"
+        },
+        {
+          "code": "cs",
+          "count": 74,
+          "name": "Schuhe",
+          "query": {
+            "query": {
+              "value": "Slipper:relevance:allCategoriesSEO:cs"
+            },
+            "url": "/search?q=Slipper%3Arelevance%3AallCategoriesSEO%3Acs"
+          },
+          "selected": false,
+          "seoName": "schuhe",
+          "universalUrl": "/kinder/schuhe/c-cs"
+        }
+      ],
+      "visible": true
+    }
+  ],
+  "pagination": {
+    "currentPage": 0,
+    "pageSize": 48,
+    "sort": "relevance",
+    "totalPages": 19,
+    "totalResults": 881
+  }
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 2">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Checkout angemeldet Sonderfall DSD 10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DSD"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Checkout_angemeldet_Sonderfall"/>
+    </classes>
+  </test>
+
+
+</suite>

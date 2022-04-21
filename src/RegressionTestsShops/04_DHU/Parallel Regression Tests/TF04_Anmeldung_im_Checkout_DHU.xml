@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regressiontests">
+
+
+  <test thread-count="5" name="TF04 Anmeldung im Checkout Desktop DHU">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Anmeldung_im_Checkout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="TF04 Anmeldung im Checkout Mobile DHU">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Registrierung.Anmeldung_im_Checkout"/>
+    </classes>
+  </test>
+
+
+</suite>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite DHU">
+    <suite-files>
+        <suite-file path="TF01_Alleinstehende_Registrierung_DHU.xml" />
+        <suite-file path="TF02_Registrierung_AlsGast_im_Checkout_DHU.xml" />
+        <suite-file path="TF03_Validierungsregeln_DHU.xml" />
+        <suite-file path="TF04_Anmeldung_im_Checkout_DHU.xml" />
+        <suite-file path="TF05_HomePageSeiten_DHU.xml" />
+        <suite-file path="TF06_Alleinstehende_Anmeldung_DHU.xml" />
+        <suite-file path="TF07_AddLieferadresse_DHU.xml" />
+        <suite-file path="TF08_Logout_DHU.xml" />
+        <suite-file path="TF09_PasswordVergessen_DHU.xml" />
+        <suite-file path="TF10_Checkout_Prozess_DHU.xml" />
+        <suite-file path="TF11_Lieferadresse_Ausland_DHU.xml" />
+        <suite-file path="TF12_Coupon_einlösen_DHU.xml" />
+        <suite-file path="TF13_GutscheinEinlösen_DHU.xml" />
+        <suite-file path="TF14_Filialsuche_DHU.xml" />
+        <suite-file path="TF15_Kontaktformular_DHU.xml" />
+        <suite-file path="TF16_Lieferadresse_aendern_im_Checkout.xml" />
+        <suite-file path="TF17_Rechnungsadresse_aendern_im_Checkout.xml" />
+        <suite-file path="TF18_Lieferadresse_aendern_my_account.xml" />
+        <suite-file path="TF19_Rechnungsadresse_aendern_my_account.xml" />
+
+
+<!--        <suite-file path="TF20_Übertragung_Bestellung_H5_H6_MOSAIC-9790.xml" />-->
+    </suite-files>
+</suite>

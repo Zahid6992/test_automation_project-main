@@ -1,0 +1,3533 @@
+{
+  "uid": "DeichmannMainNavCollection",
+  "typeCode": "MosaicNavigationCollectionContainer",
+  "modifiedTime": "2020-07-15T12:23:32+0000",
+  "name": "Deichmann Main Navigation Collection Component",
+  "container": "true",
+  "components": {
+    "component_0": {
+      "container": "false",
+      "uid": "BaseStoreNavComponent",
+      "navigationNode": {
+        "uid": "BaseStoreNavNode",
+        "name": "Base Store Nav Node",
+        "children": {
+          "entry_0": {
+            "uid": "WomenBaseStoreNavNode",
+            "name": "Women Base Store Nav Node",
+            "entries": {
+              "entry_0": {
+                "name": "Women Base Store Nav Node Entry",
+                "itemId": "WomenBaseStoreLink",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Damen",
+                "url": "/damen",
+                "image": {
+                  "url": "https://www.deichmann.com/de-de/medias/appformat-360x360-damen-1021.jpg?context=bWFzdGVyfHJvb3R8NDUwMjJ8aW1hZ2UvanBlZ3xoN2MvaGIyLzEwNDA5NzYzMjc0NzgyLmpwZ3xhOTgwYjhjMTEwZTQwOGFhMWIwMDczMGQ3YjU0YWQ3OWYxNmY1YjhlMDIzMmI5NmQ2ZDNjY2M5NTdjOTZiMTJk",
+                  "altText": "appformat_360x360-damen_1021.jpg",
+                  "mediaType": "Media"
+                }
+              }
+            }
+          },
+          "entry_1": {
+            "uid": "MenBaseStoreNavNode",
+            "name": "Men Base Store Nav Node",
+            "entries": {
+              "entry_0": {
+                "name": "Men Base Store Nav Node Entry",
+                "itemId": "MenBaseStoreLink",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Herren",
+                "url": "/herren",
+                "image": {
+                  "url": "https://www.deichmann.com/de-de/medias/appformat-360x360-herren-1021.jpg?context=bWFzdGVyfHJvb3R8NDA1OTh8aW1hZ2UvanBlZ3xoMDYvaGJmLzEwNDA5NzYzMzQwMzE4LmpwZ3xmMzE5OTQwMGVkNGNmNGVkMjBhZTI4ZjE4MGIxYTVkZTY3YTAzOWMzODk0ZGFiN2NlNDA3ZTI3NzQyZjgwODBj",
+                  "altText": "appformat_360x360-herren_1021.jpg",
+                  "mediaType": "Media"
+                }
+              }
+            }
+          },
+          "entry_2": {
+            "uid": "ChildrenBaseStoreNavNode",
+            "name": "Children Base Store Nav Node",
+            "entries": {
+              "entry_0": {
+                "name": "Children Base Store Nav Node Entry",
+                "itemId": "ChildrenBaseStoreLink",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Kinder",
+                "url": "/kinder",
+                "image": {
+                  "url": "https://www.deichmann.com/de-de/medias/appformat-360x360-kids-1021.jpg?context=bWFzdGVyfHJvb3R8NTE4NDB8aW1hZ2UvanBlZ3xoNzUvaDMyLzEwNDA5NzYzNDA1ODU0LmpwZ3w1NTA0NDNmODU2ZTUwNGQ1ODM3MTQzOWQ1ZmY2YmFjYWRkMDMwZDc3YzI1NmI2YTBkZTY1Mjg1OTY3YTZiNWY3",
+                  "altText": "appformat_360x360-kids_1021.jpg",
+                  "mediaType": "Media"
+                }
+              }
+            }
+          }
+        }
+      },
+      "name": "Base Store Navigation Component",
+      "styleClass": "image-nav",
+      "typeCode": "NavigationComponent"
+    },
+    "component_1": {
+      "container": "false",
+      "uid": "DeichmannCategoryNavComponent",
+      "wrapAfter": "10",
+      "navigationNode": {
+        "uid": "cmsitem_00053045",
+        "name": "Default NavNode",
+        "entries": {
+          "entry_0": {
+            "name": "Default NavNode Entry",
+            "itemId": "cmsitem_00053043",
+            "itemType": "CMSLinkComponent",
+            "itemSuperType": "AbstractCMSComponent",
+            "linkName": "Default",
+            "url": "/schuhe/c-ds"
+          }
+        },
+        "children": {
+          "entry_0": {
+            "uid": "cmsitem_00053048",
+            "name": "Default  Shoes NavNode",
+            "entries": {
+              "entry_0": {
+                "name": "Default Shoes NavNode Entry",
+                "itemId": "cmsitem_00053046",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Schuhe",
+                "url": "/schuhe/c-ds",
+                "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter"
+              }
+            },
+            "children": {
+              "entry_0": {
+                "uid": "cmsitem_00053063",
+                "name": "DESKTOP ONLY //Default Shoes All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes All NavNode Entry",
+                    "itemId": "cmsitem_00053061",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Schuhe",
+                    "url": "/schuhe/c-ds",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00055060",
+                    "name": "DESKTOP ONLY // Default Shoes Women NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Shoes Women NavNode Entry",
+                        "itemId": "cmsitem_00053064",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Damenschuhe",
+                        "url": "/damen/schuhe/c-ws",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Damenschuhe",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00055062",
+                    "name": "DESKTOP ONLY // Default Shoes Men All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Shoes Men All NavNode Entry",
+                        "itemId": "cmsitem_00053067",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Herrenschuhe",
+                        "url": "/herren/schuhe/c-ms",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Alle Herrenschuhe",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00055064",
+                    "name": "DESKTOP ONLY // Default Shoes Children NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Shoes Children NavNode Entry",
+                        "itemId": "cmsitem_00053070",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Kinderschuhe",
+                        "url": "/kinder/schuhe/c-cs",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Alle Kinderschuhe",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Alle Schuhe",
+                "slider": "false"
+              },
+              "entry_1": {
+                "uid": "cmsitem_00053066",
+                "name": "MOBILE ONLY // Default Shoes Women NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Women NavNode Entry",
+                    "itemId": "cmsitem_00053064",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Damenschuhe",
+                    "url": "/damen/schuhe/c-ws",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Damenschuhe",
+                "slider": "false"
+              },
+              "entry_2": {
+                "uid": "cmsitem_00053069",
+                "name": "MOBILE ONLY // Default Shoes Men NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Men NavNode Entry",
+                    "itemId": "cmsitem_00053067",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Herrenschuhe",
+                    "url": "/herren/schuhe/c-ms",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Herrenschuhe",
+                "slider": "false"
+              },
+              "entry_3": {
+                "uid": "cmsitem_00053072",
+                "name": "MOBILE ONLY //Default Shoes Children NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Children NavNode Entry",
+                    "itemId": "cmsitem_00053070",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Kinderschuhe",
+                    "url": "/kinder/schuhe/c-cs",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Kinderschuhe",
+                "slider": "false"
+              },
+              "entry_4": {
+                "uid": "cmsitem_00053091",
+                "name": "Default Shoes Sneaker NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Sneaker NavNode Entry",
+                    "itemId": "cmsitem_00053089",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sneaker",
+                    "url": "/schuhe/sneaker/c-dss2"
+                  }
+                },
+                "localizedTitle": "Sneaker",
+                "slider": "false"
+              },
+              "entry_5": {
+                "uid": "cmsitem_00053166",
+                "name": "Default Shoes Boots NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Boots NavNode Entry",
+                    "itemId": "cmsitem_00053164",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Boots",
+                    "url": "/schuhe/boots/c-dsb2"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053169",
+                    "name": "MOBILE ONLY // Default Shoes Boots All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Shoes Boots All NavNode Entry",
+                        "itemId": "cmsitem_00053167",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Boots",
+                        "url": "/schuhe/boots/c-dsb2",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                      }
+                    },
+                    "localizedTitle": "Alle Boots",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053172",
+                    "name": "Default Shoes Boots Laced NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Boots Laced NavNode Entry",
+                        "itemId": "cmsitem_00053170",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Schnürboots",
+                        "url": "/schuhe-boots/schnuerboots/c-dsb2c"
+                      }
+                    },
+                    "localizedTitle": "Schnürboots",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053175",
+                    "name": "Default Shoes Boots Chelsea NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Boots Chelsea NavNode Entry",
+                        "itemId": "cmsitem_00053173",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Chelsea Boots",
+                        "url": "/schuhe-boots/chelsea-boots/c-dsb2a"
+                      }
+                    },
+                    "localizedTitle": "Chelsea Boots",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053178",
+                    "name": "Default Shoes Boots Winter NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Boots Winter NavNode Entry",
+                        "itemId": "cmsitem_00053176",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Winterboots",
+                        "url": "/schuhe-boots/winterboots/c-dsb2d"
+                      }
+                    },
+                    "localizedTitle": "Winterboots",
+                    "slider": "false"
+                  },
+                  "entry_4": {
+                    "uid": "cmsitem_00053180",
+                    "name": "Default Shoes Boots Cowboy and Biker NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Boots Cowboy and Biker NavNode Entry",
+                        "itemId": "women-shoes-boots-cowboy-and-bikerLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Cowboy- und Bikerboots",
+                        "url": "/damen-schuhe/boots/cowboy-und-bikerboots/c-wsb4b"
+                      }
+                    },
+                    "localizedTitle": "Cowboy- & Bikerboots",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Boots",
+                "slider": "false"
+              },
+              "entry_6": {
+                "uid": "cmsitem_00053154",
+                "name": "Default Shoes High Boots NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes High Boots NavNode Entry",
+                    "itemId": "cmsitem_00053152",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Stiefel",
+                    "url": "/schuhe/stiefel/c-dsh1"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053157",
+                    "name": "MOBILE ONLY // Default Shoes High Boots Gumboots NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Shoes High Boots Gumboots NavNode Entry",
+                        "itemId": "cmsitem_00053155",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Gummistiefel",
+                        "url": "/schuhe-stiefel/gummistiefel/c-dsh1b"
+                      }
+                    },
+                    "localizedTitle": "Gummistiefel",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053160",
+                    "name": "Default Shoes High Boots Overknees NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes High Boots Overknees NavNode Entry",
+                        "itemId": "cmsitem_00053158",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Overknee Stiefel",
+                        "url": "/damen-schuhe/stiefel/overknees/c-wsh1ac"
+                      }
+                    },
+                    "localizedTitle": "Overknee Stiefel",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053163",
+                    "name": "Default Shoes High Boots Wide NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes High Boots Wide NavNode Entry",
+                        "itemId": "cmsitem_00053161",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Weitschaftstiefel",
+                        "url": "/damen-schuhe/stiefel/weitschaftstiefel/c-wsh1d"
+                      }
+                    },
+                    "localizedTitle": "Weitschaftstiefel",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Stiefel",
+                "slider": "false"
+              },
+              "entry_7": {
+                "uid": "cmsitem_00053151",
+                "name": "Default Shoes Ankle Boots NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Ankle Boots NavNode Entry",
+                    "itemId": "cmsitem_00053149",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Stiefeletten",
+                    "url": "/schuhe/stiefeletten/c-dsa2"
+                  }
+                },
+                "localizedTitle": "Stiefeletten",
+                "slider": "false"
+              },
+              "entry_8": {
+                "uid": "cmsitem_00053097",
+                "name": "Default Shoes Low NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Low NavNode Entry",
+                    "itemId": "cmsitem_00053095",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Halbschuhe",
+                    "url": "/schuhe/halbschuhe/c-dsl1"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053100",
+                    "name": "MOBILE ONLY // Default Shoes Low All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Shoes Low All NavNode Entry",
+                        "itemId": "cmsitem_00053098",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Halbschuhe",
+                        "url": "/schuhe/halbschuhe/c-dsl1",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Halbschuhe",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053103",
+                    "name": "Default Shoes Low Loafers NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Low Loafers NavNode Entry",
+                        "itemId": "cmsitem_00053101",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Loafer",
+                        "url": "/schuhe-halbschuhe/loafer/c-dsl1d"
+                      }
+                    },
+                    "localizedTitle": "Loafer",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053106",
+                    "name": "Default Shoes Low Slippers NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Low Slippers NavNode Entry",
+                        "itemId": "cmsitem_00053104",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Slipper",
+                        "url": "/schuhe-halbschuhe/slipper/c-dsl1f"
+                      }
+                    },
+                    "localizedTitle": "Slipper",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053109",
+                    "name": "Default Shoes Low Moccasins NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Low Moccasins NavNode Entry",
+                        "itemId": "cmsitem_00053107",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Mokassins",
+                        "url": "/schuhe-halbschuhe/mokassins/c-dsl1e"
+                      }
+                    },
+                    "localizedTitle": "Mokassins",
+                    "slider": "false"
+                  },
+                  "entry_4": {
+                    "uid": "cmsitem_00053112",
+                    "name": "Default Shoes Low Espadrilles NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Low Espadrilles NavNode Entry",
+                        "itemId": "cmsitem_00053110",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Espadrilles",
+                        "url": "/schuhe-halbschuhe/espadrilles/c-dsl1b"
+                      }
+                    },
+                    "localizedTitle": "Espadrilles",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Halbschuhe",
+                "slider": "false"
+              },
+              "entry_9": {
+                "uid": "cmsitem_00053182",
+                "name": "Default Shoes First Step NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes First Step NavNode Entry",
+                    "itemId": "children-shoes-baby-walkerLink",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Lauflernschuhe",
+                    "url": "/kinder-schuhe/lauflernschuhe/c-csf1"
+                  }
+                },
+                "localizedTitle": "Lauflernschuhe",
+                "slider": "false"
+              },
+              "entry_10": {
+                "uid": "cmsitem_00053148",
+                "name": "Default Shoes House NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes House NavNode Entry",
+                    "itemId": "cmsitem_00053146",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Hausschuhe",
+                    "url": "/schuhe/hausschuhe/c-dsh2"
+                  }
+                },
+                "localizedTitle": "Hausschuhe",
+                "slider": "false"
+              },
+              "entry_11": {
+                "uid": "cmsitem_00053119",
+                "name": "Default Shoes Pumps NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Pumps NavNode Entry",
+                    "itemId": "women-shoes-pumpsLink",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Pumps",
+                    "url": "/damen-schuhe/pumps/c-wsp2"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053139",
+                    "name": "MOBILE ONLY // Default Shoes Pumps All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Shoes Pumps All NavNode Entry",
+                        "itemId": "cmsitem_00053138",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Pumps",
+                        "url": "/damen-schuhe/pumps/c-wsp2",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                      }
+                    },
+                    "localizedTitle": "Alle Pumps",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053141",
+                    "name": "Default Shoes Pumps High Front NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Pumps High Front NavNode Entry",
+                        "itemId": "women-shoes-pumps-high-frontLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Hochfront Pumps",
+                        "url": "/damen-schuhe/pumps/hochfront-pumps/c-wsp2c"
+                      }
+                    },
+                    "localizedTitle": "Hochfront Pumps",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053143",
+                    "name": "Defaul Shoes Pumps Sling NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Defaul Shoes Pumps Sling NavNode Entry",
+                        "itemId": "women-shoes-pumps-slingLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Slingpumps",
+                        "url": "/damen-schuhe/pumps/slingpumps/c-wsp2g"
+                      }
+                    },
+                    "localizedTitle": "Slingpumps",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053145",
+                    "name": "Default Shoes Pumps Peeptoes NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Pumps Peeptoes NavNode Entry",
+                        "itemId": "women-shoes-pumps-peeptoesLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Peeptoes",
+                        "url": "/damen-schuhe/pumps/peeptoes/c-wsp2e"
+                      }
+                    },
+                    "localizedTitle": "Peeptoes",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Pumps",
+                "slider": "false"
+              },
+              "entry_12": {
+                "uid": "cmsitem_00053117",
+                "name": "Default Shoes Ballerinas NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Ballerinas NavNode Entry",
+                    "itemId": "cmsitem_00053115",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Ballerinas",
+                    "url": "/schuhe/ballerinas/c-dsb1"
+                  }
+                },
+                "localizedTitle": "Ballerinas",
+                "slider": "false"
+              },
+              "entry_13": {
+                "uid": "cmsitem_00053075",
+                "name": "Default Shoes Sandals NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Sandals NavNode Entry",
+                    "itemId": "cmsitem_00053073",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sandalen",
+                    "url": "/schuhe/sandalen/c-dss1"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053078",
+                    "name": "MOBILE ONLY // Default Shoes Sandals All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Shoes Sandals All NavNode Entry",
+                        "itemId": "cmsitem_00053076",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Sandalen",
+                        "url": "/schuhe/sandalen/c-dss1",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Sandalen",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053080",
+                    "name": "Default Shoes Sandals High Heeled NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Sandals High Heeled NavNode Entry",
+                        "itemId": "women-shoes-sandals-high-heeledLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Sandaletten",
+                        "url": "/damen-schuhe/sandalen/sandaletten/c-wss1b"
+                      }
+                    },
+                    "localizedTitle": "Sandaletten",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053083",
+                    "name": "Default Shoes Sandals Trekking NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Sandals Trekking NavNode Entry",
+                        "itemId": "cmsitem_00053081",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Trekkingsandalen",
+                        "url": "/schuhe-sandalen/trekkingsandalen/c-dss1d"
+                      }
+                    },
+                    "localizedTitle": "Trekkingsandalen",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053085",
+                    "name": "Default Shoes Sandals Wedge NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Sandals Wedge NavNode Entry",
+                        "itemId": "women-shoes-sandals-wedgeLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Keilsandaletten",
+                        "url": "/damen-schuhe/sandalen/keilsandaletten/c-wss1e"
+                      }
+                    },
+                    "localizedTitle": "Keilsandaletten",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Sandalen",
+                "slider": "false"
+              },
+              "entry_14": {
+                "uid": "cmsitem_00053124",
+                "name": "Default Shoes Backless Slippers NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Backless Slippers NavNode Entry",
+                    "itemId": "cmsitem_00053122",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Pantoletten",
+                    "url": "/schuhe/pantoletten/c-dsp1"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053127",
+                    "name": "MOBILE ONLY // Defaul Shoes Backless Slippers All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Defaul Shoes Backless Slippers All NavNode Entry",
+                        "itemId": "cmsitem_00053125",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Pantoletten",
+                        "url": "/schuhe/pantoletten/c-dsp1",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                      }
+                    },
+                    "localizedTitle": "Alle Pantoletten",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053130",
+                    "name": "Default Shoes Backless Slippers Clogs NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Backless Slippers Clogs NavNode Entry",
+                        "itemId": "cmsitem_00053128",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Clogs",
+                        "url": "/schuhe-pantoletten/clogs/c-dsp1a"
+                      }
+                    },
+                    "localizedTitle": "Clogs",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053133",
+                    "name": "Default Shoes Backless Slippers Toe Separators NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Backless Slippers Toe Separators NavNode Entry",
+                        "itemId": "cmsitem_00053131",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Zehentrenner",
+                        "url": "/schuhe-pantoletten/zehentrenner/c-dsp1e"
+                      }
+                    },
+                    "localizedTitle": "Zehentrenner",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053136",
+                    "name": "Default Shoes Backless Slippers Slides NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Shoes Backless Slippers Slides NavNode Entry",
+                        "itemId": "cmsitem_00053134",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Slides",
+                        "url": "/schuhe-pantoletten/slides/c-dsp1d"
+                      }
+                    },
+                    "localizedTitle": "Slides",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Pantoletten",
+                "slider": "false"
+              },
+              "entry_15": {
+                "uid": "cmsitem_00053088",
+                "name": "Default Shoes Pool NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Pool NavNode Entry",
+                    "itemId": "cmsitem_00053086",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Badeschuhe",
+                    "url": "/schuhe/badeschuhe/c-dsp2"
+                  }
+                },
+                "localizedTitle": "Badeschuhe",
+                "slider": "false"
+              },
+              "entry_16": {
+                "uid": "cmsitem_00053094",
+                "name": "Default Shoes Sneakers Chunky  NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes Chunky NavNode Entry",
+                    "itemId": "cmsitem_00053092",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Chunky Sneaker",
+                    "url": "/schuhe-sneaker/chunky-sneaker/c-dss2a"
+                  }
+                },
+                "localizedTitle": "Chunky Sneaker",
+                "slider": "false"
+              },
+              "entry_17": {
+                "uid": "cmsitem_00053121",
+                "name": "Default Shoes High Heels NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Shoes High Heels NavNode Entry",
+                    "itemId": "women-shoes-pumps-high-heelsLink",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "High Heels",
+                    "url": "/damen-schuhe/high-heels/c-wsp2d"
+                  }
+                },
+                "localizedTitle": "High Heels",
+                "slider": "false"
+              },
+              "entry_18": {
+                "uid": "cmsitem_00065001",
+                "name": "MOBILE ONLY // Default Shoes All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "MOBILE ONLY // Default Shoes All NavNode Entry",
+                    "itemId": "cmsitem_00053061",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Schuhe",
+                    "url": "/schuhe/c-ds",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Schuhe",
+                "slider": "false"
+              }
+            },
+            "localizedTitle": "Schuhe",
+            "slider": "false"
+          },
+          "entry_1": {
+            "uid": "cmsitem_00053060",
+            "name": "Default Sale NavNode",
+            "entries": {
+              "entry_0": {
+                "name": "Default Sale NavNode Entry",
+                "itemId": "cmsitem_00053058",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "% Sale",
+                "url": "/c-sale",
+                "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter"
+              }
+            },
+            "children": {
+              "entry_0": {
+                "uid": "cmsitem_00055043",
+                "name": "MOBILE ONLY // Default Sale All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sale All NavNode Entry",
+                    "itemId": "cmsitem_00055041",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alles im Sale",
+                    "url": "/c-sale",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alles in Sale",
+                "slider": "false"
+              },
+              "entry_1": {
+                "uid": "cmsitem_00055046",
+                "name": "Default Sale Women NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sale Women NavNode Entry",
+                    "itemId": "cmsitem_00055044",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Damen Sale",
+                    "url": "/damen/c-w?sale=ja"
+                  }
+                },
+                "localizedTitle": "Damen Sale",
+                "slider": "false"
+              },
+              "entry_2": {
+                "uid": "cmsitem_00055049",
+                "name": "Default Sale Men NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sale Men NavNode Entry",
+                    "itemId": "cmsitem_00055047",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Herren Sale",
+                    "url": "/herren/c-m?sale=ja"
+                  }
+                },
+                "localizedTitle": "Herren Sale",
+                "slider": "false"
+              },
+              "entry_3": {
+                "uid": "cmsitem_00055052",
+                "name": "Default Sale Children NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sale Children NavNode Entry",
+                    "itemId": "cmsitem_00055050",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Kinder Sale",
+                    "url": "/kinder/c-c?sale=ja"
+                  }
+                },
+                "localizedTitle": "Kinder Sale",
+                "slider": "false"
+              }
+            },
+            "localizedTitle": "Sale",
+            "slider": "false"
+          },
+          "entry_2": {
+            "uid": "cmsitem_00053054",
+            "name": "Default Sport NavNode",
+            "entries": {
+              "entry_0": {
+                "name": "Default Sport NavNode Entry",
+                "itemId": "cmsitem_00053052",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Sport",
+                "url": "/sport/c-dspo",
+                "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar"
+              }
+            },
+            "children": {
+              "entry_0": {
+                "uid": "cmsitem_00053184",
+                "name": "DESKTOP ONLY //Default Sport All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "DESKTOP ONLY // Default Sport All NavNode Entry",
+                    "itemId": "cmsitem_00068000",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alles in Sport",
+                    "url": "/sport/c-dspo",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00055066",
+                    "name": "DESKTOP ONLY // Default Sport Women NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Sport Women NavNode Entry",
+                        "itemId": "cmsitem_00053185",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Sportartikel für Damen",
+                        "url": "/damen/sport/c-wspo",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Sportartikel für Damen",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00055068",
+                    "name": "DESKTOP ONLY // Default Sport Men NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Sport Men NavNode Entry",
+                        "itemId": "cmsitem_00053188",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Sportartikel für Herren",
+                        "url": "/herren/sport/c-mspo",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Sportartikel für Herren",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00055070",
+                    "name": "DESKTOP ONLY // Default Sport Children NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Sport Children NavNode Entry",
+                        "itemId": "cmsitem_00053191",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Sportartikel für Kinder",
+                        "url": "/kinder/sport/c-cspo",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Sportartikel für Kinder",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Alles in Sport",
+                "slider": "false"
+              },
+              "entry_1": {
+                "uid": "cmsitem_00071052",
+                "name": "MOBILE ONLY // Default Sports All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "MOBILE ONLY // Default Sports All NavNode Entry",
+                    "itemId": "cmsitem_00068000",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alles in Sport",
+                    "url": "/sport/c-dspo",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alles in Sport",
+                "slider": "false"
+              },
+              "entry_2": {
+                "uid": "cmsitem_00053187",
+                "name": "MOBILE ONLY // Default Sport Women NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sport Women NavNode Entry",
+                    "itemId": "cmsitem_00053185",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sportartikel für Damen",
+                    "url": "/damen/sport/c-wspo",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Sportartikel für Damen",
+                "slider": "false"
+              },
+              "entry_3": {
+                "uid": "cmsitem_00053190",
+                "name": "MOBILE ONLY // Default Sport Men NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sport Men NavNode Entry",
+                    "itemId": "cmsitem_00053188",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sportartikel für Herren",
+                    "url": "/herren/sport/c-mspo",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Sportartikel für Herren",
+                "slider": "false"
+              },
+              "entry_4": {
+                "uid": "cmsitem_00053193",
+                "name": "MOBILE ONLY // Default Sport Children NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sport Children NavNode Entry",
+                    "itemId": "cmsitem_00053191",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sportartikel für Kinder",
+                    "url": "/kinder/sport/c-cspo",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Sportartikel für Kinder",
+                "slider": "false"
+              },
+              "entry_5": {
+                "uid": "cmsitem_00053196",
+                "name": "Default Sport Shoes NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sport Shoes NavNode Entry",
+                    "itemId": "cmsitem_00053194",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sportschuhe",
+                    "url": "/sport/sportschuhe/c-dss3"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053199",
+                    "name": "MOBILE ONLY // Default Sport Shoes All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Sport Shoes All NavNode Entry",
+                        "itemId": "cmsitem_00053197",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Sportschuhe",
+                        "url": "/sport/sportschuhe/c-dss3",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Sportschuhe",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053202",
+                    "name": "Default Sport Shoes Running NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Shoes Running NavNode Entry",
+                        "itemId": "cmsitem_00053200",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Laufschuhe",
+                        "url": "/sport-sportschuhe/laufschuhe/c-dss3a"
+                      }
+                    },
+                    "localizedTitle": "Laufschuhe",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00053205",
+                    "name": "Default Sport Shoes Football NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Shoes Football NavNode Entry",
+                        "itemId": "cmsitem_00053203",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Fußballschuhe",
+                        "url": "/sport-sportschuhe/fussballschuhe/c-dss3c"
+                      }
+                    },
+                    "localizedTitle": "Fußballschuhe",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00053208",
+                    "name": "Default Sport Shoes Indoor NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Shoes Indoor NavNode Entry",
+                        "itemId": "cmsitem_00053206",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Hallenschuhe",
+                        "url": "/sport-sportschuhe/hallenschuhe/c-dss3d"
+                      }
+                    },
+                    "localizedTitle": "Hallenschuhe",
+                    "slider": "false"
+                  },
+                  "entry_4": {
+                    "uid": "cmsitem_00053211",
+                    "name": "Default Sport Shoes Hiking and Trekking NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Shoes Hiking and Trekking NavNode Entry",
+                        "itemId": "cmsitem_00053209",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Wanderschuhe",
+                        "url": "/sport-sportschuhe/wanderschuhe/c-dss3e"
+                      }
+                    },
+                    "localizedTitle": "Wanderschuhe",
+                    "slider": "false"
+                  },
+                  "entry_5": {
+                    "uid": "cmsitem_00053214",
+                    "name": "Default Sport Shoes Pool NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Shoes Pool NavNode Entry",
+                        "itemId": "cmsitem_00053212",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Badeschuhe",
+                        "url": "/sport-sportschuhe/badeschuhe/c-dss3f"
+                      }
+                    },
+                    "localizedTitle": "Badeschuhe",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Sportschuhe",
+                "slider": "false"
+              },
+              "entry_6": {
+                "uid": "cmsitem_00053217",
+                "name": "Default Sport Apparel NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Sport Apparel NavNode Entry",
+                    "itemId": "cmsitem_00053215",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sportbekleidung",
+                    "url": "/sport/sportbekleidung/c-dspoa"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00053220",
+                    "name": "MOBILE ONLY // Default Sport Apparel All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Sport Apparel All NavNode Entry",
+                        "itemId": "cmsitem_00053218",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alles in Sportbekleidung",
+                        "url": "/sport/sportbekleidung/c-dspoa",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alles in Sportbekleidung",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00053223",
+                    "name": "Default Sport Apparel T-Shirts and Tops NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Apparel T-Shirts and Tops NavNode Entry",
+                        "itemId": "cmsitem_00053221",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "T-Shirts & Tops",
+                        "url": "/sport-sportbekleidung/t-shirts-tops/c-dspoa1"
+                      }
+                    },
+                    "localizedTitle": "T-Shirts & Tops",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00054002",
+                    "name": "Default Sport Apparel Pullover & Sweatshirts NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Apparel Pullover & Sweatshirts NavNode Entry",
+                        "itemId": "cmsitem_00054000",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Pullover & Sweatshirts",
+                        "url": "/sport-sportbekleidung/pullover-sweatshirts/c-dspoa2"
+                      }
+                    },
+                    "localizedTitle": "Pullover & Sweatshirts",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00054005",
+                    "name": "Default Sport Apparel Pants and Tights NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Apparel Pants and Tights NavNode Entry",
+                        "itemId": "cmsitem_00054003",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Hosen & Tights",
+                        "url": "/sport-sportbekleidung/hosen-tights/c-dspoa3"
+                      }
+                    },
+                    "localizedTitle": "Hosen & Tights",
+                    "slider": "false"
+                  },
+                  "entry_4": {
+                    "uid": "cmsitem_00060268",
+                    "name": "Default Sport Apparel Shorts NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Sport Apparel Shorts NavNode Entry",
+                        "itemId": "cmsitem_00060266",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Shorts",
+                        "url": "/sport-sportbekleidung/shorts/c-dspoa4",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Shorts",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Sportbekleidung",
+                "slider": "false"
+              }
+            },
+            "localizedTitle": "Sport",
+            "slider": "false"
+          },
+          "entry_3": {
+            "uid": "cmsitem_00053051",
+            "name": "Default Accessories NaNode",
+            "entries": {
+              "entry_0": {
+                "name": "Default Accessories NaNode Entry",
+                "itemId": "cmsitem_00053049",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Accessoires",
+                "url": "/accessoires/c-da",
+                "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar"
+              }
+            },
+            "children": {
+              "entry_0": {
+                "uid": "cmsitem_00054008",
+                "name": "DESKTOP ONLY // Default Accessories All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "DESKTOP ONLY  // Default Accessories All NavNode Entry",
+                    "itemId": "cmsitem_00054006",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Accessoires",
+                    "url": "/accessoires/c-da",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00055072",
+                    "name": "DESKTOP ONLY // Default Accessories Women NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Accessories Women NavNode Entry",
+                        "itemId": "cmsitem_00054009",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Accessoires für Damen",
+                        "url": "/damen/accessoires/c-wa",
+                        "styleClasses": "hiddenMobileFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Alle Accessoires für Damen",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00055076",
+                    "name": "DESKTOP ONLY // Default Accessories Men NavNode 2",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Accessories Men NavNode 2",
+                        "itemId": "cmsitem_00054012",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Accessoires für Herren",
+                        "url": "/herren/accessoires/c-ma",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Alle Accessoires für Herren",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00055078",
+                    "name": "DESKTOP ONLY // Default Accessories Children NavnNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "DESKTOP ONLY // Default Accessories Children NavnNode Entry",
+                        "itemId": "cmsitem_00054015",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Accessoires für Kinder",
+                        "url": "/kinder/accessoires/c-ca",
+                        "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                      }
+                    },
+                    "localizedTitle": "Alle Accessoires für Kinder",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Alle Accessoires",
+                "slider": "false"
+              },
+              "entry_1": {
+                "uid": "cmsitem_00071054",
+                "name": "MOBILE ONLY // Default Accessories All NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "MOBILE ONLY // Default Accessories All NavNode Entry",
+                    "itemId": "cmsitem_00054006",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Accessoires",
+                    "url": "/accessoires/c-da",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Accessoires",
+                "slider": "false"
+              },
+              "entry_2": {
+                "uid": "cmsitem_00054011",
+                "name": "MOBILE ONLY // Default Accessories Women NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Women NavNode Entry",
+                    "itemId": "cmsitem_00054009",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Accessoires für Damen",
+                    "url": "/damen/accessoires/c-wa",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Accessoires für Damen",
+                "slider": "false"
+              },
+              "entry_3": {
+                "uid": "cmsitem_00054014",
+                "name": "MOBILE ONLY // Default Accessories Men NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Men NavNode Entry",
+                    "itemId": "cmsitem_00054012",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Accessoires für Herren",
+                    "url": "/herren/accessoires/c-ma",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Accessoires für Herren",
+                "slider": "false"
+              },
+              "entry_4": {
+                "uid": "cmsitem_00054017",
+                "name": "MOBILE ONLY // Default Accessories Children NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Children NavNode Entry",
+                    "itemId": "cmsitem_00054015",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Alle Accessoires für Kinder",
+                    "url": "/kinder/accessoires/c-ca",
+                    "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader"
+                  }
+                },
+                "localizedTitle": "Alle Accessoires für Kinder",
+                "slider": "false"
+              },
+              "entry_5": {
+                "uid": "cmsitem_00054020",
+                "name": "Default Accessories Backpacks NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Backpacks NavNode Entry",
+                    "itemId": "cmsitem_00054018",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Rucksäcke",
+                    "url": "/accessoires/rucksaecke/c-dab2"
+                  }
+                },
+                "localizedTitle": "Rucksäcke",
+                "slider": "false"
+              },
+              "entry_6": {
+                "uid": "cmsitem_00054023",
+                "name": "Default Accessories Bags NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Bags NavNode Entry",
+                    "itemId": "cmsitem_00054021",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Taschen",
+                    "url": "/accessoires/taschen/c-dab3"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00054026",
+                    "name": "MOBILE ONLY // Default Accessories Bags All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Accessories Bags All NavNode Entry",
+                        "itemId": "cmsitem_00054024",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Taschen",
+                        "url": "/accessoires/taschen/c-dab3",
+                        "styleClasses": "hiddenMobileFooter hiddenDesktopFooter hiddenDesktopHeader hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Taschen",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00054028",
+                    "name": "Default Accessories Bags Handbags NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Handbags NavNode Entry",
+                        "itemId": "women-accessories-bags-handbagsLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Handtaschen",
+                        "url": "/damen-accessoires/taschen/handtaschen/c-wab2b"
+                      }
+                    },
+                    "localizedTitle": "Handtaschen",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00054030",
+                    "name": "Default Accessories Bags Shoulder Bags NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Shoulder Bags NavNode Entry",
+                        "itemId": "women-accessories-bags-shoulder-bagLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Umhängetaschen",
+                        "url": "/damen-accessoires/taschen/umhaengetaschen/c-wab2d"
+                      }
+                    },
+                    "localizedTitle": "Umhängetaschen",
+                    "slider": "false"
+                  },
+                  "entry_3": {
+                    "uid": "cmsitem_00054032",
+                    "name": "Default Accessories Bags Shoppers NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Shoppers NavNode Entry",
+                        "itemId": "women-accessories-bags-shopperLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Shopper",
+                        "url": "/damen-accessoires/taschen/shopper/c-wab2c"
+                      }
+                    },
+                    "localizedTitle": "Shopper",
+                    "slider": "false"
+                  },
+                  "entry_4": {
+                    "uid": "cmsitem_00054035",
+                    "name": "Default Accessories Bags Sports Bags NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Sports Bags NavNode Entry",
+                        "itemId": "cmsitem_00054033",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Sporttaschen",
+                        "url": "/accessoires/sporttaschen/c-das5"
+                      }
+                    },
+                    "localizedTitle": "Sporttaschen",
+                    "slider": "false"
+                  },
+                  "entry_5": {
+                    "uid": "cmsitem_00054037",
+                    "name": "Default Accessories Bags Clutches NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Clutches NavNode Entry",
+                        "itemId": "women-accessories-bags-clutches-and-evening-bagsLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Clutches",
+                        "url": "/damen-accessoires/taschen/clutches-abendtaschen/c-wab2a"
+                      }
+                    },
+                    "localizedTitle": "Clutches",
+                    "slider": "false"
+                  },
+                  "entry_6": {
+                    "uid": "cmsitem_00054040",
+                    "name": "Default Accessories Bags Belt Bags NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Belt Bags NavNode Entry",
+                        "itemId": "cmsitem_00054038",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Bauchtaschen",
+                        "url": "/accessoires-taschen/bauchtaschen/c-dab3a"
+                      }
+                    },
+                    "localizedTitle": "Bauchtaschen",
+                    "slider": "false"
+                  },
+                  "entry_7": {
+                    "uid": "cmsitem_00054043",
+                    "name": "Default Accessories Bags Suitcases NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Bags Suitcases NavNode Entry",
+                        "itemId": "cmsitem_00054041",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Koffer",
+                        "url": "/accessoires/koffer/c-das1"
+                      }
+                    },
+                    "localizedTitle": "Koffer",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Taschen",
+                "slider": "false"
+              },
+              "entry_7": {
+                "uid": "cmsitem_00055002",
+                "name": "Default Accessories Socks and Stockings NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Socks and Stockings NavNode Entry",
+                    "itemId": "cmsitem_00055000",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Socken & Strümpfe",
+                    "url": "/accessoires/socken-struempfe/c-das3"
+                  }
+                },
+                "children": {
+                  "entry_0": {
+                    "uid": "cmsitem_00055005",
+                    "name": "MOBILE ONLY // Default Accessories Socks and Stockings All NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "MOBILE ONLY // Default Accessories Socks and Stockings All NavNode Entry",
+                        "itemId": "cmsitem_00055003",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Alle Socken & Strümpfe",
+                        "url": "/accessoires/socken-struempfe/c-das3",
+                        "styleClasses": "hiddenDesktopHeader hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar"
+                      }
+                    },
+                    "localizedTitle": "Alle Socken & Strümpfe",
+                    "slider": "false"
+                  },
+                  "entry_1": {
+                    "uid": "cmsitem_00055007",
+                    "name": "Default Accessories Socks and Stockings Tights NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Socks and Stockings Tights NavNode Entry",
+                        "itemId": "women-accessories-socks-and-tights-tightsLink",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Strumpfhosen",
+                        "url": "/damen-accessoires/socken-struempfe/strumpfhosen/c-was2c"
+                      }
+                    },
+                    "localizedTitle": "Strumpfhosen",
+                    "slider": "false"
+                  },
+                  "entry_2": {
+                    "uid": "cmsitem_00055010",
+                    "name": "Default Accessories Socks and Stockings Footlets NavNode",
+                    "entries": {
+                      "entry_0": {
+                        "name": "Default Accessories Socks and Stockings Footlets NavNode Entry",
+                        "itemId": "cmsitem_00055008",
+                        "itemType": "CMSLinkComponent",
+                        "itemSuperType": "AbstractCMSComponent",
+                        "linkName": "Füßlinge",
+                        "url": "/accessoires-socken-struempfe/fuesslinge/c-das3a"
+                      }
+                    },
+                    "localizedTitle": "Füßlinge",
+                    "slider": "false"
+                  }
+                },
+                "localizedTitle": "Socken & Strümpfe",
+                "slider": "false"
+              },
+              "entry_8": {
+                "uid": "cmsitem_00055055",
+                "name": "Default Accessories Soles NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Accessories Soles NavNode Entry",
+                    "itemId": "cmsitem_00055053",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Sohlen",
+                    "url": "/schuhe-schuhzubehoer/sohlen/c-dsa1b"
+                  }
+                },
+                "localizedTitle": "Sohlen",
+                "slider": "false"
+              }
+            },
+            "localizedTitle": "Accessoires",
+            "slider": "false"
+          },
+          "entry_4": {
+            "uid": "cmsitem_00053057",
+            "name": "Default Brands NavNode",
+            "entries": {
+              "entry_0": {
+                "name": "Default Brands NavNode Entry",
+                "itemId": "cmsitem_00053055",
+                "itemType": "CMSLinkComponent",
+                "itemSuperType": "AbstractCMSComponent",
+                "linkName": "Marken",
+                "url": "/marken",
+                "styleClasses": "hiddenDesktopSidebar hiddenMobileFooter hiddenDesktopFooter"
+              }
+            },
+            "children": {
+              "entry_0": {
+                "uid": "cmsitem_00055012",
+                "name": "Default Brand Nike NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Nike NavNode Entry",
+                    "itemId": "cmsitem_00017908",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Nike",
+                    "url": "/marken/c-nike"
+                  }
+                },
+                "localizedTitle": "Nike",
+                "slider": "false"
+              },
+              "entry_1": {
+                "uid": "cmsitem_00055014",
+                "name": "Default Brand adidas NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand adidas NavNode Entry",
+                    "itemId": "cmsitem_00019203",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "adidas",
+                    "url": "/marken/c-adidas"
+                  }
+                },
+                "localizedTitle": "adidas",
+                "slider": "false"
+              },
+              "entry_2": {
+                "uid": "cmsitem_00055016",
+                "name": "Default Brand Puma NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Puma NavNode Entry",
+                    "itemId": "cmsitem_00019233",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Puma",
+                    "url": "/marken/c-puma"
+                  }
+                },
+                "localizedTitle": "Puma",
+                "slider": "false"
+              },
+              "entry_3": {
+                "uid": "cmsitem_00055030",
+                "name": "Default Brand Skechers NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Skechers NavNode Entry",
+                    "itemId": "cmsitem_00019248",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Skechers",
+                    "url": "/marken/c-skechers"
+                  }
+                },
+                "localizedTitle": "Skechers",
+                "slider": "false"
+              },
+              "entry_4": {
+                "uid": "cmsitem_00055020",
+                "name": "Default Brand elefanten NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand elefanten NavNode Entry",
+                    "itemId": "cmsitem_00019215",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "elefanten",
+                    "url": "/marken/c-elefanten"
+                  }
+                },
+                "localizedTitle": "elefanten",
+                "slider": "false"
+              },
+              "entry_5": {
+                "uid": "cmsitem_00055032",
+                "name": "Default Brand Crocs NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Crocs NavNode Entry",
+                    "itemId": "cmsitem_00019275",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Crocs",
+                    "url": "/marken/c-crocs"
+                  }
+                },
+                "localizedTitle": "Crocs",
+                "slider": "false"
+              },
+              "entry_6": {
+                "uid": "cmsitem_00055018",
+                "name": "Default Brand Fila NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Fila NavNode Entry",
+                    "itemId": "cmsitem_00019206",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Fila",
+                    "url": "/marken/c-fila"
+                  }
+                },
+                "localizedTitle": "Fila",
+                "slider": "false"
+              },
+              "entry_7": {
+                "uid": "cmsitem_00055022",
+                "name": "Default Brand Reebok NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Reebok NavNode Entry",
+                    "itemId": "cmsitem_00019272",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Reebok",
+                    "url": "/marken/c-reebok"
+                  }
+                },
+                "localizedTitle": "Reebok",
+                "slider": "false"
+              },
+              "entry_8": {
+                "uid": "cmsitem_00055024",
+                "name": "Default Brand Bench NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Bench NavNode Entry",
+                    "itemId": "cmsitem_00019212",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Bench",
+                    "url": "/marken/c-bench"
+                  }
+                },
+                "localizedTitle": "Bench",
+                "slider": "false"
+              },
+              "entry_9": {
+                "uid": "cmsitem_00055026",
+                "name": "Default Brand Asics NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Asics NavNode Entry",
+                    "itemId": "cmsitem_00019263",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Asics",
+                    "url": "/marken/c-asics"
+                  }
+                },
+                "localizedTitle": "Asics",
+                "slider": "false"
+              },
+              "entry_10": {
+                "uid": "cmsitem_00055028",
+                "name": "Default Brand Tom Tailor NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Tom Tailor NavNode Entry",
+                    "itemId": "cmsitem_00019254",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Tom Tailor",
+                    "url": "/marken/c-tom-tailor"
+                  }
+                },
+                "localizedTitle": "Tom Tailor",
+                "slider": "false"
+              },
+              "entry_11": {
+                "uid": "cmsitem_00055034",
+                "name": "Default Brand Dockers NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Dockers NavNode Entry",
+                    "itemId": "cmsitem_00019269",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Dockers",
+                    "url": "/marken/c-dockers"
+                  }
+                },
+                "localizedTitle": "Dockers",
+                "slider": "false"
+              },
+              "entry_12": {
+                "uid": "cmsitem_00055036",
+                "name": "Default Brand Kendall + Kylie NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Kendall + Kylie NavNode Entry",
+                    "itemId": "cmsitem_00014310",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Kendall + Kylie",
+                    "url": "/marken/kendall-kylie/c-kendall-and-kylie"
+                  }
+                },
+                "localizedTitle": "Kendall + Kylie",
+                "slider": "false"
+              },
+              "entry_13": {
+                "uid": "cmsitem_00055038",
+                "name": "Default Brand Esprit NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Esprit NavNode Entry",
+                    "itemId": "cmsitem_00026150",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Esprit",
+                    "url": "/marken/c-esprit"
+                  }
+                },
+                "localizedTitle": "Esprit",
+                "slider": "false"
+              },
+              "entry_14": {
+                "uid": "cmsitem_00055040",
+                "name": "Default Brand Kappa NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Kappa NavNode Entry",
+                    "itemId": "cmsitem_00019287",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Kappa",
+                    "url": "/marken/c-kappa"
+                  }
+                },
+                "localizedTitle": "Kappa",
+                "slider": "false"
+              },
+              "entry_15": {
+                "uid": "cmsitem_00059183",
+                "name": "Default Brand 5th Avenue NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand 5th Avenue NavNode Entry",
+                    "itemId": "cmsitem_00019218",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "5th Avenue",
+                    "url": "/marken/c-5th-avenue",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "5th Avenue",
+                "slider": "false"
+              },
+              "entry_16": {
+                "uid": "cmsitem_00059185",
+                "name": "Default Brand Agaxy NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Agaxy NavNode Entry",
+                    "itemId": "cmsitem_00014541",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Agaxy",
+                    "url": "/marken/c-agaxy",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopFooter hiddenDesktopSidebar"
+                  }
+                },
+                "localizedTitle": "Agaxy",
+                "slider": "false"
+              },
+              "entry_17": {
+                "uid": "cmsitem_00059187",
+                "name": "Default Brand AM Shoe NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand AM Shoe NavNode Entry",
+                    "itemId": "cmsitem_00019242",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "AM Shoe",
+                    "url": "/marken/c-am-shoe",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "AM Shoe",
+                "slider": "false"
+              },
+              "entry_18": {
+                "uid": "cmsitem_00059189",
+                "name": "Default Brand Bärenschuhe NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Bärenschuhe NavNode Entry",
+                    "itemId": "cmsitem_00014523",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Bärenschuhe",
+                    "url": "/marken/c-baerenschuhe",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Bärenschuhe",
+                "slider": "false"
+              },
+              "entry_19": {
+                "uid": "cmsitem_00059191",
+                "name": "Default Brand  Batman NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand  Batman NavNode Entry",
+                    "itemId": "cmsitem_00014544",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Batman",
+                    "url": "/marken/c-batman",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Batman",
+                "slider": "false"
+              },
+              "entry_20": {
+                "uid": "cmsitem_00059193",
+                "name": "Default Brand Bio Bio NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Bio Bio NavNode Entry",
+                    "itemId": "cmsitem_00049018",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Bio Bio",
+                    "url": "/marken/c-bio-bio",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Bio Bio",
+                "slider": "false"
+              },
+              "entry_21": {
+                "uid": "cmsitem_00059195",
+                "name": "Default Brand Björndal NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Björndal NavNode Entry",
+                    "itemId": "cmsitem_00019257",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Björndal",
+                    "url": "/marken/c-bjoerndal",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Björndal",
+                "slider": "false"
+              },
+              "entry_22": {
+                "uid": "cmsitem_00059197",
+                "name": "Default Brand Blackrock NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Blackrock NavNode Entry",
+                    "itemId": "cmsitem_00020209",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Blackrock",
+                    "url": "/marken/c-blackrock",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Blackrock",
+                "slider": "false"
+              },
+              "entry_23": {
+                "uid": "cmsitem_00059199",
+                "name": "Default Brand Blink NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Blink NavNode Entry",
+                    "itemId": "cmsitem_00014337",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Blink",
+                    "url": "/marken/c-blink",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Blink",
+                "slider": "false"
+              },
+              "entry_24": {
+                "uid": "cmsitem_00059201",
+                "name": "Default Brand Blowfish NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Blowfish NavNode Entry",
+                    "itemId": "cmsitem_00049023",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Blowfish",
+                    "url": "/marken/c-blowfish",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Blowfish",
+                "slider": "false"
+              },
+              "entry_25": {
+                "uid": "cmsitem_00059203",
+                "name": "Default Brand Blue Fin NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Blue Fin NavNode Entry",
+                    "itemId": "cmsitem_00046620",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Blue Fin",
+                    "url": "/marken/c-blue-fin",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Blue Fin",
+                "slider": "false"
+              },
+              "entry_26": {
+                "uid": "cmsitem_00059205",
+                "name": "Default Brand Bobbi Shoes NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Bobbi Shoes NavNode Entry",
+                    "itemId": "cmsitem_00019260",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Bobbi Shoes",
+                    "url": "/marken/c-bobbi-shoes",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Bobbi Shoes",
+                "slider": "false"
+              },
+              "entry_27": {
+                "uid": "cmsitem_00059207",
+                "name": "Default Brand Borelli NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Borelli NavNode Enrtry",
+                    "itemId": "cmsitem_00020206",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Borelli",
+                    "url": "/marken/c-borelli",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Borelli",
+                "slider": "false"
+              },
+              "entry_28": {
+                "uid": "cmsitem_00059209",
+                "name": "Default Brand Bottesini NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Bottesini NavNode Entry",
+                    "itemId": "cmsitem_00014448",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Bottesini",
+                    "url": "/marken/c-bottesini",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Bottesini",
+                "slider": "false"
+              },
+              "entry_29": {
+                "uid": "cmsitem_00059212",
+                "name": "Default Brand British Knights NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand British Knights NavNode Entry",
+                    "itemId": "cmsitem_00046352",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "British Knights",
+                    "url": "/marken/c-british-knights",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Biritsh Knights",
+                "slider": "false"
+              },
+              "entry_30": {
+                "uid": "cmsitem_00059215",
+                "name": "Default Brand Camp David NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Camp David NavNode Entry",
+                    "itemId": "cmsitem_00020212",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Camp David",
+                    "url": "/marken/c-camp-david",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Camp David",
+                "slider": "false"
+              },
+              "entry_31": {
+                "uid": "cmsitem_00059217",
+                "name": "Default Brand Cars NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Cars NavNode Entry",
+                    "itemId": "cmsitem_00049034",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Cars",
+                    "url": "/marken/c-cars",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Cars",
+                "slider": "false"
+              },
+              "entry_32": {
+                "uid": "cmsitem_00059220",
+                "name": "Default Brand Casa mia NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Casa mia NavNode Entry",
+                    "itemId": "cmsitem_00019284",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Casa mia",
+                    "url": "/marken/c-casa-mia",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Casa mia",
+                "slider": "false"
+              },
+              "entry_33": {
+                "uid": "cmsitem_00059223",
+                "name": "Default Brand Caterpillar NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Caterpillar NavNode Entry",
+                    "itemId": "cmsitem_00020215",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Caterpillar",
+                    "url": "/marken/c-caterpillar",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Caterpillar",
+                "slider": "false"
+              },
+              "entry_34": {
+                "uid": "cmsitem_00059225",
+                "name": "Default Brand Catwalk NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Catwalk NavNode Entry",
+                    "itemId": "cmsitem_00019221",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Catwalk",
+                    "url": "/marken/c-catwalk",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Catwalk",
+                "slider": "false"
+              },
+              "entry_35": {
+                "uid": "cmsitem_00059227",
+                "name": "Default Brand Chiemsee NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Chiemsee NavNode Entry",
+                    "itemId": "cmsitem_00014451",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Chiemsee",
+                    "url": "/marken/c-chiemsee",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Chiemsee",
+                "slider": "false"
+              },
+              "entry_36": {
+                "uid": "cmsitem_00059229",
+                "name": "Default Brand Claudia Ghizzani NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Claudia Ghizzani NavNode Entry",
+                    "itemId": "cmsitem_00014328",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Claudia Ghizzani",
+                    "url": "/marken/c-claudia-ghizzani",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Claudia Ghizzani",
+                "slider": "false"
+              },
+              "entry_37": {
+                "uid": "cmsitem_00059231",
+                "name": "Default Brand Claudio Conti NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Claudio Conti NavNode Entry",
+                    "itemId": "cmsitem_00014445",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Claudio Conti",
+                    "url": "/marken/c-claudio-conti",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Claudio Conti",
+                "slider": "false"
+              },
+              "entry_38": {
+                "uid": "cmsitem_00059233",
+                "name": "Default Brand Columbia NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Columbia NavNode Entry",
+                    "itemId": "cmsitem_00014499",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Columbia",
+                    "url": "/marken/c-columbia",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Columbia",
+                "slider": "false"
+              },
+              "entry_39": {
+                "uid": "cmsitem_00059235",
+                "name": "Default Brand Converse NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Converse NavNode Entry",
+                    "itemId": "cmsitem_00046133",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Converse",
+                    "url": "/marken/c-converse",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Converse",
+                "slider": "false"
+              },
+              "entry_40": {
+                "uid": "cmsitem_00059237",
+                "name": "Default Brand Cortina NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Cortina NavNode Entry",
+                    "itemId": "cmsitem_00019239",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Cortina",
+                    "url": "/marken/c-cortina",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Cortina",
+                "slider": "false"
+              },
+              "entry_41": {
+                "uid": "cmsitem_00059239",
+                "name": "Default Brand Cupcake Couture NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Cupcake Couture NavNode Entry",
+                    "itemId": "cmsitem_00019245",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Cupcake Couture",
+                    "url": "/marken/c-cupcake-couture",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Cupcake Couture",
+                "slider": "false"
+              },
+              "entry_42": {
+                "uid": "cmsitem_00059241",
+                "name": "Default Brand Darkwood NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Darkwood NavNode Entry",
+                    "itemId": "cmsitem_00020194",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Darkwood",
+                    "url": "/marken/c-darkwood",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Darkwood",
+                "slider": "false"
+              },
+              "entry_43": {
+                "uid": "cmsitem_00059243",
+                "name": "Default Brand diadora NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand diadora NavNode Entry",
+                    "itemId": "cmsitem_00046355",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "diadora",
+                    "url": "/marken/c-diadora",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "diadora",
+                "slider": "false"
+              },
+              "entry_44": {
+                "uid": "cmsitem_00059245",
+                "name": "Default Brand Disney Frozen NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Disney Frozen NavNode Entry",
+                    "itemId": "cmsitem_00014550",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Die Eiskönigin 2",
+                    "url": "/marken/c-disney-frozen",
+                    "styleClasses": "hiddenMobileFooter hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Disney Frozen",
+                "slider": "false"
+              },
+              "entry_45": {
+                "uid": "cmsitem_00059247",
+                "name": "Default Brand Dragon NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Dragon NavNode Entry",
+                    "itemId": "cmsitem_00014574",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Dragon",
+                    "url": "/marken/c-dragon",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Dragon",
+                "slider": "false"
+              },
+              "entry_46": {
+                "uid": "cmsitem_00059249",
+                "name": "Default Brand Easy Street NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Easy Street NavNode Entry",
+                    "itemId": "cmsitem_00019266",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Easy Street",
+                    "url": "/marken/c-easy-street",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Easy Street",
+                "slider": "false"
+              },
+              "entry_47": {
+                "uid": "cmsitem_00059251",
+                "name": "Default Brand Empire NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Empire NavNode Entry",
+                    "itemId": "cmsitem_00049047",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Empire",
+                    "url": "/marken/c-empire",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar"
+                  }
+                },
+                "localizedTitle": "Empire",
+                "slider": "false"
+              },
+              "entry_48": {
+                "uid": "cmsitem_00059255",
+                "name": "Default Brand Deichmann NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Deichmann NavNode  Entry",
+                    "itemId": "cmsitem_00059253",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Deichmann",
+                    "url": "/marken/c-deichmann",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Deichmann",
+                "slider": "false"
+              },
+              "entry_49": {
+                "uid": "cmsitem_00059257",
+                "name": "Default Brand Gallus NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Gallus NavNode Entry",
+                    "itemId": "cmsitem_00014484",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Gallus",
+                    "url": "/marken/c-gallus",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Gallus",
+                "slider": "false"
+              },
+              "entry_50": {
+                "uid": "cmsitem_00059259",
+                "name": "Default Brand Graceland NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Graceland NavNode Entry",
+                    "itemId": "cmsitem_00019209",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Graceland",
+                    "url": "/marken/c-graceland",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Graceland",
+                "slider": "false"
+              },
+              "entry_51": {
+                "uid": "cmsitem_00059262",
+                "name": "Default Brand Hello Kitty NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Hello Kitty NavNode Entry",
+                    "itemId": "cmsitem_00014571",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Hello Kitty",
+                    "url": "/marken/c-hello-kitty",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Hello Kitty",
+                "slider": "false"
+              },
+              "entry_52": {
+                "uid": "cmsitem_00059265",
+                "name": "Default Brand Hi-Tec NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Hi-Tec NavNode Entry",
+                    "itemId": "cmsitem_00014559",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Hi-Tec",
+                    "url": "/marken/c-hi-tec",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Hi-Tec",
+                "slider": "false"
+              },
+              "entry_53": {
+                "uid": "cmsitem_00059267",
+                "name": "Default Brand Hot Wheels NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Hot Wheels NavNode Entry",
+                    "itemId": "cmsitem_00014568",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Hot Wheels",
+                    "url": "/marken/c-hot-wheels",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Hot Wheels",
+                "slider": "false"
+              },
+              "entry_54": {
+                "uid": "cmsitem_00059269",
+                "name": "Default Brand Hummel NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Hummel NavNode Entry",
+                    "itemId": "cmsitem_00014355",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Hummel",
+                    "url": "/marken/c-hummel",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Hummel",
+                "slider": "false"
+              },
+              "entry_55": {
+                "uid": "cmsitem_00059273",
+                "name": "Default Brand Heelys NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Heelys NavNode Entry",
+                    "itemId": "cmsitem_00059271",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Heelys",
+                    "url": "/marken/c-heelys",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Heelys",
+                "slider": "false"
+              },
+              "entry_56": {
+                "uid": "cmsitem_00059278",
+                "name": "Default Brand Jack & Jones NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Jack & Jones NavNode Entry",
+                    "itemId": "cmsitem_00014433",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Jack & Jones",
+                    "url": "/marken/jack-jones/c-jack-and-jones",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Jack & Jones",
+                "slider": "false"
+              },
+              "entry_57": {
+                "uid": "cmsitem_00059281",
+                "name": "Default Brand Jette NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Jette NavNode Entry",
+                    "itemId": "cmsitem_00020221",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Jette",
+                    "url": "/marken/c-jette",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Jette",
+                "slider": "false"
+              },
+              "entry_58": {
+                "uid": "cmsitem_00059283",
+                "name": "Default Brand Jomos NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Jomos NavNode Entry",
+                    "itemId": "cmsitem_00014367",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Jomos",
+                    "url": "/marken/c-jomos",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Jomos",
+                "slider": "false"
+              },
+              "entry_59": {
+                "uid": "cmsitem_00059286",
+                "name": "Default Brand Joma NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Joma NavNode Entry",
+                    "itemId": "cmsitem_00059284",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Joma",
+                    "url": "/marken/c-joma",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Joma",
+                "slider": "false"
+              },
+              "entry_60": {
+                "uid": "cmsitem_00059288",
+                "name": "Default Brand K-Swiss NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand K-Swiss NavNode Entry",
+                    "itemId": "cmsitem_00046140",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "K-Swiss",
+                    "url": "/marken/c-k-swiss",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "K-Swiss",
+                "slider": "false"
+              },
+              "entry_61": {
+                "uid": "cmsitem_00059290",
+                "name": "Default Brand KangaRoos NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand KangaRoos NavNode Entry",
+                    "itemId": "cmsitem_00050064",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "KangaRoos",
+                    "url": "/marken/c-kangaroos",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "KangaRoos",
+                "slider": "false"
+              },
+              "entry_62": {
+                "uid": "cmsitem_00059293",
+                "name": "Default Brand König der Löwen NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand König der Löwen NavNode Entry",
+                    "itemId": "cmsitem_00059291",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "König der Löwen",
+                    "url": "/marken/c-koenig-der-loewen",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "König der Löwen",
+                "slider": "false"
+              },
+              "entry_63": {
+                "uid": "cmsitem_00059295",
+                "name": "Default Brand Landrover NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Landrover NavNode Entry",
+                    "itemId": "cmsitem_00019230",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Landrover",
+                    "url": "/marken/c-landrover",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Landrover",
+                "slider": "false"
+              },
+              "entry_64": {
+                "uid": "cmsitem_00059297",
+                "name": "Default Brand L.O.L. Surprise NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand L.O.L. Surprise NavNode Entry",
+                    "itemId": "cmsitem_00020203",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "LOL Surprise",
+                    "url": "/marken/c-lol-surprise",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopHeader hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "LOL Surprise",
+                "slider": "false"
+              },
+              "entry_65": {
+                "uid": "cmsitem_00059300",
+                "name": "Default Brand Love Our Planet NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Love Our Planet NavNode Entry",
+                    "itemId": "cmsitem_00059298",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Love Our Planet",
+                    "url": "/marken/c-love-our-planet",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Love Our Planet",
+                "slider": "false"
+              },
+              "entry_66": {
+                "uid": "cmsitem_00059302",
+                "name": "Default Brand Medicus NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Medicus NavNode Entry",
+                    "itemId": "cmsitem_00019236",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Medicus",
+                    "url": "/marken/c-medicus",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Medicus",
+                "slider": "false"
+              },
+              "entry_67": {
+                "uid": "cmsitem_00059305",
+                "name": "Default Brand MeexUp NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand MeexUp NavNode Entry",
+                    "itemId": "cmsitem_00059303",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "MeexUp",
+                    "url": "/marken/c-meexup",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "MeexUp",
+                "slider": "false"
+              },
+              "entry_68": {
+                "uid": "cmsitem_00059307",
+                "name": "Default Brand Memphis One NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Memphis One NavNode Entry",
+                    "itemId": "cmsitem_00019251",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Memphis One",
+                    "url": "/marken/c-memphis-one",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Memphis One",
+                "slider": "false"
+              },
+              "entry_69": {
+                "uid": "cmsitem_00059309",
+                "name": "Default Brand MEXX NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand MEXX NavNode Entry",
+                    "itemId": "cmsitem_00014418",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Mexx",
+                    "url": "/marken/c-mexx",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "MEXX",
+                "slider": "false"
+              },
+              "entry_70": {
+                "uid": "cmsitem_00059311",
+                "name": "Default Brand Michael Shannon NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Michael Shannon NavNode Entry",
+                    "itemId": "cmsitem_00014403",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Michael Shannon",
+                    "url": "/marken/c-michael-shannon",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar"
+                  }
+                },
+                "localizedTitle": "Michael Shannon",
+                "slider": "false"
+              },
+              "entry_71": {
+                "uid": "cmsitem_00059313",
+                "name": "Default Brand Mickey Mouse NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Mickey Mouse NavNode Entry",
+                    "itemId": "cmsitem_00014580",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Mickey Mouse",
+                    "url": "/marken/c-mickey-mouse",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Mickey Mouse",
+                "slider": "false"
+              },
+              "entry_72": {
+                "uid": "cmsitem_00059315",
+                "name": "Default Brand Minions NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Minions NavNode Entry",
+                    "itemId": "cmsitem_00014577",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Minions",
+                    "url": "/marken/c-minions",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Minions",
+                "slider": "false"
+              },
+              "entry_73": {
+                "uid": "cmsitem_00059317",
+                "name": "Default Brand Minnie Mouse NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Minnie Mouse NavNode Entry",
+                    "itemId": "cmsitem_00014583",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Minnie Mouse",
+                    "url": "/marken/c-minnie-mouse",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Minnie Mouse",
+                "slider": "false"
+              },
+              "entry_74": {
+                "uid": "cmsitem_00059319",
+                "name": "Default Brand Miraculous NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Miraculous NavNode Entry",
+                    "itemId": "cmsitem_00014595",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Miraculous",
+                    "url": "/marken/c-miraculous",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Miraculous",
+                "slider": "false"
+              },
+              "entry_75": {
+                "uid": "cmsitem_00059321",
+                "name": "Default Brand MTNG NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand MTNG NavNode Entry",
+                    "itemId": "cmsitem_00014436",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "MTNG",
+                    "url": "/marken/c-mtng",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "MTNG",
+                "slider": "false"
+              },
+              "entry_76": {
+                "uid": "cmsitem_00059323",
+                "name": "Default Brand My Little Pony NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand My Little Pony NavNode Entry",
+                    "itemId": "cmsitem_00014511",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "My Little Pony",
+                    "url": "/marken/c-my-little-pony",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "My Little Pony",
+                "slider": "false"
+              },
+              "entry_77": {
+                "uid": "cmsitem_00059325",
+                "name": "Default Brand National Geographic NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand National Geographic NavNode Entry",
+                    "itemId": "cmsitem_00049076",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "National Geographic",
+                    "url": "/marken/c-national-geographic",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "National Geograhic",
+                "slider": "false"
+              },
+              "entry_78": {
+                "uid": "cmsitem_00059328",
+                "name": "Default Brand Pablosky NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Pablosky NavNode Entry",
+                    "itemId": "cmsitem_00059326",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Pablosky",
+                    "url": "/marken/c-pablosky",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Pablosky",
+                "slider": "false"
+              },
+              "entry_79": {
+                "uid": "cmsitem_00059330",
+                "name": "Default Brand Paw Patrol NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Paw Patrol NavNode Entry",
+                    "itemId": "cmsitem_00014502",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Paw Patrol",
+                    "url": "/marken/c-paw-patrol",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Paw Patrol",
+                "slider": "false"
+              },
+              "entry_80": {
+                "uid": "cmsitem_00060002",
+                "name": "Default Brand Peppa Pig NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Peppa Pig NavNode Entry",
+                    "itemId": "cmsitem_00060000",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Peppe Pig",
+                    "url": "/marken/c-peppa-pig",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Peppa Pig",
+                "slider": "false"
+              },
+              "entry_81": {
+                "uid": "cmsitem_00060004",
+                "name": "Default Brands PJ Masks NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brands PJ Masks NavNode Entry",
+                    "itemId": "cmsitem_00014509",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "PJ Masks",
+                    "url": "/marken/c-pj-masks",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "PJ Masks",
+                "slider": "false"
+              },
+              "entry_82": {
+                "uid": "cmsitem_00060007",
+                "name": "Default Brand Pretty Love NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Pretty Love NavNode Entry",
+                    "itemId": "cmsitem_00060005",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Pretty Love",
+                    "url": "/marken/c-pretty-love",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Pretty Love",
+                "slider": "false"
+              },
+              "entry_83": {
+                "uid": "cmsitem_00060009",
+                "name": "Default Brand Quiva NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Quiva NavNode Entry",
+                    "itemId": "cmsitem_00049083",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Quiva",
+                    "url": "/marken/c-quiva",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Quiva",
+                "slider": "false"
+              },
+              "entry_84": {
+                "uid": "cmsitem_00060011",
+                "name": "Default Brand Romika NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Romika NavNode Entry",
+                    "itemId": "cmsitem_00050075",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Romika",
+                    "url": "/marken/c-romika",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Romika",
+                "slider": "false"
+              },
+              "entry_85": {
+                "uid": "cmsitem_00060013",
+                "name": "Default Brand Run Lifewear NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Run Lifewear NavNode Entry",
+                    "itemId": "cmsitem_00020218",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Run Lifewear",
+                    "url": "/marken/c-run-lifewear",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Run Lifewear",
+                "slider": "false"
+              },
+              "entry_86": {
+                "uid": "cmsitem_00060015",
+                "name": "Default Brand Salomon NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Salomon NavNode Entry",
+                    "itemId": "cmsitem_00046151",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Salomon",
+                    "url": "/marken/c-salomon",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Salomon",
+                "slider": "false"
+              },
+              "entry_87": {
+                "uid": "cmsitem_00060017",
+                "name": "Default Brand Saxoline NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Saxoline NavNode Entry",
+                    "itemId": "cmsitem_00014358",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Saxoline",
+                    "url": "/marken/c-saxoline",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Saxoline",
+                "slider": "false"
+              },
+              "entry_88": {
+                "uid": "cmsitem_00060019",
+                "name": "Default Brand Shimmer & Shine NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Shimmer & Shine NavNode Entry",
+                    "itemId": "cmsitem_00020197",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Shimmer & Shine",
+                    "url": "/marken/c-shimmer-and-shine",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Shimmer & Shine",
+                "slider": "false"
+              },
+              "entry_89": {
+                "uid": "cmsitem_00060021",
+                "name": "Default Brand Simpsons NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Simpsons NavNode Entry",
+                    "itemId": "cmsitem_00014466",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Simpsons",
+                    "url": "/marken/c-simpsons",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Simpsons",
+                "slider": "false"
+              },
+              "entry_90": {
+                "uid": "cmsitem_00060023",
+                "name": "Default Brand Snoopy NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Snoopy NavNode Entry",
+                    "itemId": "cmsitem_00014586",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Snoopy",
+                    "url": "/marken/c-snoopy",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopFooter hiddenDesktopSidebar"
+                  }
+                },
+                "localizedTitle": "Snoopy",
+                "slider": "false"
+              },
+              "entry_91": {
+                "uid": "cmsitem_00060025",
+                "name": "Default Brand Spiderman NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Spiderman NavNode Entry",
+                    "itemId": "cmsitem_00014592",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Spiderman",
+                    "url": "/marken/c-spiderman",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Spiderman",
+                "slider": "false"
+              },
+              "entry_92": {
+                "uid": "cmsitem_00060027",
+                "name": "Default Brand Star Collection NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Star Collection NavNode Entry",
+                    "itemId": "cmsitem_00020224",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Star Collection",
+                    "url": "/marken/c-star-collection",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Star Collection",
+                "slider": "false"
+              },
+              "entry_93": {
+                "uid": "cmsitem_00060029",
+                "name": "Default Brand Star Wars NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Star Wars NavNode Entry",
+                    "itemId": "cmsitem_00014553",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Star Wars",
+                    "url": "/marken/c-star-wars",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Star Wars",
+                "slider": "false"
+              },
+              "entry_94": {
+                "uid": "cmsitem_00060031",
+                "name": "Default Brand Stride Rite NaNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Stride Rite NaNode Entry",
+                    "itemId": "cmsitem_00014562",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Stride Rite",
+                    "url": "/marken/c-stride-rite",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Stride Rite",
+                "slider": "false"
+              },
+              "entry_95": {
+                "uid": "cmsitem_00060033",
+                "name": "Default Brand Teva NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Teva NavNode Entry",
+                    "itemId": "cmsitem_00014364",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Teva",
+                    "url": "/marken/c-teva",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenDesktopHeader hiddenMobileFooter hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Teva",
+                "slider": "false"
+              },
+              "entry_96": {
+                "uid": "cmsitem_00060035",
+                "name": "Default Brand Transformers NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Transformers NavNode Entry",
+                    "itemId": "cmsitem_00014505",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Transformers",
+                    "url": "/marken/c-transformers",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileFooter hiddenMobileHeader hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Transformers",
+                "slider": "false"
+              },
+              "entry_97": {
+                "uid": "cmsitem_00060038",
+                "name": "Default Brand Union Code NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Union Code NavNode Entry",
+                    "itemId": "cmsitem_00060036",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Union Code",
+                    "url": "/marken/c-union-code",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Union Code",
+                "slider": "false"
+              },
+              "entry_98": {
+                "uid": "cmsitem_00060040",
+                "name": "Default Brand Venice NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Venice NavNode Entry",
+                    "itemId": "cmsitem_00019224",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Venice",
+                    "url": "/marken/c-venice",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileFooter hiddenMobileSidebar hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Venice",
+                "slider": "false"
+              },
+              "entry_99": {
+                "uid": "cmsitem_00060042",
+                "name": "Default Brand Vero Moda NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Vero Moda NavNode Entry",
+                    "itemId": "cmsitem_00014325",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Vero Moda",
+                    "url": "/marken/c-vero-moda",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Vero Moda",
+                "slider": "false"
+              },
+              "entry_100": {
+                "uid": "cmsitem_00060044",
+                "name": "Default Brand Victory NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Victory NavNode Entry",
+                    "itemId": "cmsitem_00049107",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Victory",
+                    "url": "/marken/c-victory",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Victory",
+                "slider": "false"
+              },
+              "entry_101": {
+                "uid": "cmsitem_00060046",
+                "name": "Default Brand Volkswagen NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Volkswagen NavNode Entry",
+                    "itemId": "cmsitem_00049110",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Volkswagen",
+                    "url": "/marken/c-volkswagen",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Volkswagen",
+                "slider": "false"
+              },
+              "entry_102": {
+                "uid": "cmsitem_00060048",
+                "name": "Default Brand Vty NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Brand Vty NavNode Entry",
+                    "itemId": "cmsitem_00019227",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Vty",
+                    "url": "/marken/c-vty",
+                    "styleClasses": "hiddenMobileSidebar hiddenMobileHeader hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Vty",
+                "slider": "false"
+              },
+              "entry_103": {
+                "uid": "cmsitem_00079027",
+                "name": "Default Promotion Presale NavNode",
+                "entries": {
+                  "entry_0": {
+                    "name": "Default Promotion Presale NavNode Entry",
+                    "itemId": "cmsitem_00079025",
+                    "itemType": "CMSLinkComponent",
+                    "itemSuperType": "AbstractCMSComponent",
+                    "linkName": "Presale",
+                    "url": "/pre-sale/c-dpp1",
+                    "styleClasses": "hiddenMobileHeader hiddenMobileSidebar hiddenMobileFooter hiddenDesktopHeader hiddenDesktopSidebar hiddenDesktopFooter"
+                  }
+                },
+                "localizedTitle": "Presale",
+                "slider": "false"
+              }
+            },
+            "localizedTitle": "Marken",
+            "slider": "false"
+          }
+        },
+        "localizedTitle": "Default",
+        "slider": "false"
+      },
+      "name": "Deichmann Category Navigation Component",
+      "typeCode": "CategoryNavigationComponent"
+    }
+  }
+}

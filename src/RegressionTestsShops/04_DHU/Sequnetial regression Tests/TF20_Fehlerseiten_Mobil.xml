@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite Fehlerseiten">
+
+
+  <test thread-count="5" name="01 Fehlerseiten Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="02 Fehlerseiten Damen Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Damen_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="03 Fehlerseiten C Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Tests"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="04 Fehlerseiten Damen C Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Damen_C_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="05 Fehlerseiten P Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_P_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="06 Fehlerseiten Damen P Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Damen_P_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+
+  <test thread-count="5" name="07 Fehlerseiten Search Zufaelligebuchstaben Desktop DSD">
+    <parameter name="mobileOrDesktop" value="Mobile"/>
+    <parameter name="deviceName" value="iPhone 6/7/8"/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Fehlerseiten.Fehlerseiten_Search_Zufaelligebuchstaben"/>
+    </classes>
+  </test>
+
+
+</suite>

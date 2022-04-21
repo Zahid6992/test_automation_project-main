@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite Login Logout 200">
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 1">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 2">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 3">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 4">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 5">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 6">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 7">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 8">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 9">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 10">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 11">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 12">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 13">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 14">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 15">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 16">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 17">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 18">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 19">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 20">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 21">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 22">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 23">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 24">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 25">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 26">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 27">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 28">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 29">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 30">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 31">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 32">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 33">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 34">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 35">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 36">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 37">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 38">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 39">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 40">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 41">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 42">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 43">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 44">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 45">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 46">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 47">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 48">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 49">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Login LogoutDesktop DHU 50">
+    <parameter name="mobileOrDesktop" value="Desktop"/>
+    <parameter name="deviceName" value=""/>
+    <parameter name="shop" value="DHU"/>
+    <parameter name="environment" value="QA"/>
+    <classes>
+      <class name="com.testCasesTestNG.Anmeldung.Login_logout"/>
+    </classes>
+  </test>
+
+</suite>
